@@ -1,0 +1,391 @@
+id;ACTIVIDADES;DETALLE;AÑO;EN NÚMERO
+1;Interbarrios;NÚMERO ;2010;1
+2;Interbarrios;POBLACIÓN  BENEFICIADA;2010;3332
+3;Carrera Jóvenes Líderes;NÚMERO ;2010;1
+4;Carrera Jóvenes Líderes;POBLACIÓN  BENEFICIADA;2010;3636
+5;Campeonato Comunidades Terapéuticas;NÚMERO ;2010;1
+6;Campeonato Comunidades Terapéuticas;POBLACIÓN  BENEFICIADA;2010;230
+7;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;NÚMERO ;2010;1
+8;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;POBLACIÓN  BENEFICIADA;2010;324
+9;Cochecitos sin Motor;NÚMERO ;2010;1
+10;Cochecitos sin Motor;POBLACIÓN  BENEFICIADA;2010;202
+11;Carrera 3600 La Paz;NÚMERO ;2010;1
+12;Carrera 3600 La Paz;POBLACIÓN  BENEFICIADA;2010;7307
+13;Asociación de Ligas Deportivas (ADELPAZ);NÚMERO ;2010;5
+14;Asociación de Ligas Deportivas (ADELPAZ);POBLACIÓN  BENEFICIADA;2010;1788
+15;Campeonato Intermercados;NÚMERO ;2010;
+16;Campeonato Intermercados;POBLACIÓN  BENEFICIADA;2010;
+17;Campeonato Intercampamentos;NÚMERO ;2010;
+18;Campeonato Intercampamentos;POBLACIÓN  BENEFICIADA;2010;
+19;Carrera 1/4 de milla;NÚMERO ;2010;
+20;Carrera 1/4 de milla;POBLACIÓN  BENEFICIADA;2010;
+21;ARUSA ;NÚMERO ;2010;
+22;ARUSA ;POBLACIÓN  BENEFICIADA;2010;
+23;Juegos Especiales de La Paz;NÚMERO ;2010;
+24;Juegos Especiales de La Paz;POBLACIÓN  BENEFICIADA;2010;
+25;Carrera Pedestre Navideña;NÚMERO ;2010;
+26;Carrera Pedestre Navideña;POBLACIÓN  BENEFICIADA;2010;
+27;Interbarrios;NÚMERO ;2011;
+28;Interbarrios;POBLACIÓN  BENEFICIADA;2011;n.a.
+29;Carrera Jóvenes Líderes;NÚMERO ;2011;1
+30;Carrera Jóvenes Líderes;POBLACIÓN  BENEFICIADA;2011;5251
+31;Campeonato Comunidades Terapéuticas;NÚMERO ;2011;1
+32;Campeonato Comunidades Terapéuticas;POBLACIÓN  BENEFICIADA;2011;214
+33;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;NÚMERO ;2011;1
+34;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;POBLACIÓN  BENEFICIADA;2011;360
+35;Cochecitos sin Motor;NÚMERO ;2011;1
+36;Cochecitos sin Motor;POBLACIÓN  BENEFICIADA;2011;440
+37;Carrera 3600 La Paz;NÚMERO ;2011;1
+38;Carrera 3600 La Paz;POBLACIÓN  BENEFICIADA;2011;10064
+39;Asociación de Ligas Deportivas (ADELPAZ);NÚMERO ;2011;6
+40;Asociación de Ligas Deportivas (ADELPAZ);POBLACIÓN  BENEFICIADA;2011;2496
+41;Campeonato Intermercados;NÚMERO ;2011;1
+42;Campeonato Intermercados;POBLACIÓN  BENEFICIADA;2011;720
+43;Campeonato Intercampamentos;NÚMERO ;2011;1
+44;Campeonato Intercampamentos;POBLACIÓN  BENEFICIADA;2011;640
+45;Carrera 1/4 de milla;NÚMERO ;2011;
+46;Carrera 1/4 de milla;POBLACIÓN  BENEFICIADA;2011;
+47;ARUSA ;NÚMERO ;2011;
+48;ARUSA ;POBLACIÓN  BENEFICIADA;2011;
+49;Juegos Especiales de La Paz;NÚMERO ;2011;1
+50;Juegos Especiales de La Paz;POBLACIÓN  BENEFICIADA;2011;640
+51;Carrera Pedestre Navideña;NÚMERO ;2011;
+52;Carrera Pedestre Navideña;POBLACIÓN  BENEFICIADA;2011;
+53;Interbarrios;NÚMERO ;2012;n.a.
+54;Interbarrios;POBLACIÓN  BENEFICIADA;2012;n.a.
+55;Carrera Jóvenes Líderes;NÚMERO ;2012;1
+56;Carrera Jóvenes Líderes;POBLACIÓN  BENEFICIADA;2012;7000
+57;Campeonato Comunidades Terapéuticas;NÚMERO ;2012;n.a.
+58;Campeonato Comunidades Terapéuticas;POBLACIÓN  BENEFICIADA;2012;n.a.
+59;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;NÚMERO ;2012;n.a.
+60;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;POBLACIÓN  BENEFICIADA;2012;n.a.
+61;Cochecitos sin Motor;NÚMERO ;2012;1
+62;Cochecitos sin Motor;POBLACIÓN  BENEFICIADA;2012;460
+63;Carrera 3600 La Paz;NÚMERO ;2012;1
+64;Carrera 3600 La Paz;POBLACIÓN  BENEFICIADA;2012;10118
+65;Asociación de Ligas Deportivas (ADELPAZ);NÚMERO ;2012;6
+66;Asociación de Ligas Deportivas (ADELPAZ);POBLACIÓN  BENEFICIADA;2012;2316
+67;Campeonato Intermercados;NÚMERO ;2012;1
+68;Campeonato Intermercados;POBLACIÓN  BENEFICIADA;2012;720
+69;Campeonato Intercampamentos;NÚMERO ;2012;n.a.
+70;Campeonato Intercampamentos;POBLACIÓN  BENEFICIADA;2012;n.a.
+71;Carrera 1/4 de milla;NÚMERO ;2012;
+72;Carrera 1/4 de milla;POBLACIÓN  BENEFICIADA;2012;
+73;ARUSA ;NÚMERO ;2012;
+74;ARUSA ;POBLACIÓN  BENEFICIADA;2012;
+75;Juegos Especiales de La Paz;NÚMERO ;2012;n.a.
+76;Juegos Especiales de La Paz;POBLACIÓN  BENEFICIADA;2012;n.a.
+77;Carrera Pedestre Navideña;NÚMERO ;2012;
+78;Carrera Pedestre Navideña;POBLACIÓN  BENEFICIADA;2012;
+79;Interbarrios;NÚMERO ;2013;n.a.
+80;Interbarrios;POBLACIÓN  BENEFICIADA;2013;n.a.
+81;Carrera Jóvenes Líderes;NÚMERO ;2013;1
+82;Carrera Jóvenes Líderes;POBLACIÓN  BENEFICIADA;2013;6500
+83;Campeonato Comunidades Terapéuticas;NÚMERO ;2013;n.a.
+84;Campeonato Comunidades Terapéuticas;POBLACIÓN  BENEFICIADA;2013;n.a.
+85;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;NÚMERO ;2013;n.a.
+86;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;POBLACIÓN  BENEFICIADA;2013;n.a.
+87;Cochecitos sin Motor;NÚMERO ;2013;1
+88;Cochecitos sin Motor;POBLACIÓN  BENEFICIADA;2013;800
+89;Carrera 3600 La Paz;NÚMERO ;2013;1
+90;Carrera 3600 La Paz;POBLACIÓN  BENEFICIADA;2013;10000
+91;Asociación de Ligas Deportivas (ADELPAZ);NÚMERO ;2013;6
+92;Asociación de Ligas Deportivas (ADELPAZ);POBLACIÓN  BENEFICIADA;2013;3300
+93;Campeonato Intermercados;NÚMERO ;2013;1
+94;Campeonato Intermercados;POBLACIÓN  BENEFICIADA;2013;1500
+95;Campeonato Intercampamentos;NÚMERO ;2013;n.a.
+96;Campeonato Intercampamentos;POBLACIÓN  BENEFICIADA;2013;n.a.
+97;Carrera 1/4 de milla;NÚMERO ;2013;
+98;Carrera 1/4 de milla;POBLACIÓN  BENEFICIADA;2013;
+99;ARUSA ;NÚMERO ;2013;
+100;ARUSA ;POBLACIÓN  BENEFICIADA;2013;
+101;Juegos Especiales de La Paz;NÚMERO ;2013;n.a.
+102;Juegos Especiales de La Paz;POBLACIÓN  BENEFICIADA;2013;n.a.
+103;Carrera Pedestre Navideña;NÚMERO ;2013;
+104;Carrera Pedestre Navideña;POBLACIÓN  BENEFICIADA;2013;
+105;Interbarrios;NÚMERO ;2014;n.a.
+106;Interbarrios;POBLACIÓN  BENEFICIADA;2014;n.a.
+107;Carrera Jóvenes Líderes;NÚMERO ;2014;1
+108;Carrera Jóvenes Líderes;POBLACIÓN  BENEFICIADA;2014;5000
+109;Campeonato Comunidades Terapéuticas;NÚMERO ;2014;n.a.
+110;Campeonato Comunidades Terapéuticas;POBLACIÓN  BENEFICIADA;2014;n.a.
+111;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;NÚMERO ;2014;n.a.
+112;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;POBLACIÓN  BENEFICIADA;2014;n.a.
+113;Cochecitos sin Motor;NÚMERO ;2014;1
+114;Cochecitos sin Motor;POBLACIÓN  BENEFICIADA;2014;800
+115;Carrera 3600 La Paz;NÚMERO ;2014;1
+116;Carrera 3600 La Paz;POBLACIÓN  BENEFICIADA;2014;10000
+117;Asociación de Ligas Deportivas (ADELPAZ);NÚMERO ;2014;6
+118;Asociación de Ligas Deportivas (ADELPAZ);POBLACIÓN  BENEFICIADA;2014;3370
+119;Campeonato Intermercados;NÚMERO ;2014;1
+120;Campeonato Intermercados;POBLACIÓN  BENEFICIADA;2014;3000
+121;Campeonato Intercampamentos;NÚMERO ;2014;n.a.
+122;Campeonato Intercampamentos;POBLACIÓN  BENEFICIADA;2014;n.a.
+123;Carrera 1/4 de milla;NÚMERO ;2014;
+124;Carrera 1/4 de milla;POBLACIÓN  BENEFICIADA;2014;
+125;ARUSA ;NÚMERO ;2014;
+126;ARUSA ;POBLACIÓN  BENEFICIADA;2014;
+127;Juegos Especiales de La Paz;NÚMERO ;2014;
+128;Juegos Especiales de La Paz;POBLACIÓN  BENEFICIADA;2014;
+129;Carrera Pedestre Navideña;NÚMERO ;2014;
+130;Carrera Pedestre Navideña;POBLACIÓN  BENEFICIADA;2014;
+131;Interbarrios;NÚMERO ;2015;n.a.
+132;Interbarrios;POBLACIÓN  BENEFICIADA;2015;n.a.
+133;Carrera Jóvenes Líderes;NÚMERO ;2015;1
+134;Carrera Jóvenes Líderes;POBLACIÓN  BENEFICIADA;2015;5000
+135;Campeonato Comunidades Terapéuticas;NÚMERO ;2015;n.a.
+136;Campeonato Comunidades Terapéuticas;POBLACIÓN  BENEFICIADA;2015;n.a.
+137;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;NÚMERO ;2015;n.a.
+138;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;POBLACIÓN  BENEFICIADA;2015;n.a.
+139;Cochecitos sin Motor;NÚMERO ;2015;1
+140;Cochecitos sin Motor;POBLACIÓN  BENEFICIADA;2015;1000
+141;Carrera 3600 La Paz;NÚMERO ;2015;1
+142;Carrera 3600 La Paz;POBLACIÓN  BENEFICIADA;2015;10000
+143;Asociación de Ligas Deportivas (ADELPAZ);NÚMERO ;2015;6
+144;Asociación de Ligas Deportivas (ADELPAZ);POBLACIÓN  BENEFICIADA;2015;2388
+145;Campeonato Intermercados;NÚMERO ;2015;n.a.
+146;Campeonato Intermercados;POBLACIÓN  BENEFICIADA;2015;n.a.
+147;Campeonato Intercampamentos;NÚMERO ;2015;n.a.
+148;Campeonato Intercampamentos;POBLACIÓN  BENEFICIADA;2015;n.a.
+149;Carrera 1/4 de milla;NÚMERO ;2015;1
+150;Carrera 1/4 de milla;POBLACIÓN  BENEFICIADA;2015;100
+151;ARUSA ;NÚMERO ;2015;
+152;ARUSA ;POBLACIÓN  BENEFICIADA;2015;
+153;Juegos Especiales de La Paz;NÚMERO ;2015;
+154;Juegos Especiales de La Paz;POBLACIÓN  BENEFICIADA;2015;
+155;Carrera Pedestre Navideña;NÚMERO ;2015;
+156;Carrera Pedestre Navideña;POBLACIÓN  BENEFICIADA;2015;
+157;Interbarrios;NÚMERO ;2016;n.a.
+158;Interbarrios;POBLACIÓN  BENEFICIADA;2016;n.a.
+159;Carrera Jóvenes Líderes;NÚMERO ;2016;1
+160;Carrera Jóvenes Líderes;POBLACIÓN  BENEFICIADA;2016;5000
+161;Campeonato Comunidades Terapéuticas;NÚMERO ;2016;n.a.
+162;Campeonato Comunidades Terapéuticas;POBLACIÓN  BENEFICIADA;2016;n.a.
+163;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;NÚMERO ;2016;n.a.
+164;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;POBLACIÓN  BENEFICIADA;2016;n.a.
+165;Cochecitos sin Motor;NÚMERO ;2016;1
+166;Cochecitos sin Motor;POBLACIÓN  BENEFICIADA;2016;504
+167;Carrera 3600 La Paz;NÚMERO ;2016;1
+168;Carrera 3600 La Paz;POBLACIÓN  BENEFICIADA;2016;10000
+169;Asociación de Ligas Deportivas (ADELPAZ);NÚMERO ;2016;7
+170;Asociación de Ligas Deportivas (ADELPAZ);POBLACIÓN  BENEFICIADA;2016;2148
+171;Campeonato Intermercados;NÚMERO ;2016;n.a.
+172;Campeonato Intermercados;POBLACIÓN  BENEFICIADA;2016;n.a.
+173;Campeonato Intercampamentos;NÚMERO ;2016;n.a.
+174;Campeonato Intercampamentos;POBLACIÓN  BENEFICIADA;2016;n.a.
+175;Carrera 1/4 de milla;NÚMERO ;2016;1
+176;Carrera 1/4 de milla;POBLACIÓN  BENEFICIADA;2016;100
+177;ARUSA ;NÚMERO ;2016;1
+178;ARUSA ;POBLACIÓN  BENEFICIADA;2016;15000
+179;Juegos Especiales de La Paz;NÚMERO ;2016;
+180;Juegos Especiales de La Paz;POBLACIÓN  BENEFICIADA;2016;
+181;Carrera Pedestre Navideña;NÚMERO ;2016;
+182;Carrera Pedestre Navideña;POBLACIÓN  BENEFICIADA;2016;
+183;Interbarrios;NÚMERO ;2017;n.a.
+184;Interbarrios;POBLACIÓN  BENEFICIADA;2017;n.a.
+185;Carrera Jóvenes Líderes;NÚMERO ;2017;1
+186;Carrera Jóvenes Líderes;POBLACIÓN  BENEFICIADA;2017;5000
+187;Campeonato Comunidades Terapéuticas;NÚMERO ;2017;n.a.
+188;Campeonato Comunidades Terapéuticas;POBLACIÓN  BENEFICIADA;2017;n.a.
+189;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;NÚMERO ;2017;n.a.
+190;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;POBLACIÓN  BENEFICIADA;2017;n.a.
+191;Cochecitos sin Motor;NÚMERO ;2017;1
+192;Cochecitos sin Motor;POBLACIÓN  BENEFICIADA;2017;400
+193;Carrera 3600 La Paz;NÚMERO ;2017;1
+194;Carrera 3600 La Paz;POBLACIÓN  BENEFICIADA;2017;10000
+195;Asociación de Ligas Deportivas (ADELPAZ);NÚMERO ;2017;7
+196;Asociación de Ligas Deportivas (ADELPAZ);POBLACIÓN  BENEFICIADA;2017;2308
+197;Campeonato Intermercados;NÚMERO ;2017;1
+198;Campeonato Intermercados;POBLACIÓN  BENEFICIADA;2017;4500
+199;Campeonato Intercampamentos;NÚMERO ;2017;n.a.
+200;Campeonato Intercampamentos;POBLACIÓN  BENEFICIADA;2017;n.a.
+201;Carrera 1/4 de milla;NÚMERO ;2017;1
+202;Carrera 1/4 de milla;POBLACIÓN  BENEFICIADA;2017;100
+203;ARUSA ;NÚMERO ;2017;1
+204;ARUSA ;POBLACIÓN  BENEFICIADA;2017;20000
+205;Juegos Especiales de La Paz;NÚMERO ;2017;
+206;Juegos Especiales de La Paz;POBLACIÓN  BENEFICIADA;2017;
+207;Carrera Pedestre Navideña;NÚMERO ;2017;1
+208;Carrera Pedestre Navideña;POBLACIÓN  BENEFICIADA;2017;620
+209;Interbarrios;NÚMERO ;2018;n.a.
+210;Interbarrios;POBLACIÓN  BENEFICIADA;2018;n.a.
+211;Carrera Jóvenes Líderes;NÚMERO ;2018;1
+212;Carrera Jóvenes Líderes;POBLACIÓN  BENEFICIADA;2018;5000
+213;Campeonato Comunidades Terapéuticas;NÚMERO ;2018;n.a.
+214;Campeonato Comunidades Terapéuticas;POBLACIÓN  BENEFICIADA;2018;n.a.
+215;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;NÚMERO ;2018;n.a.
+216;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;POBLACIÓN  BENEFICIADA;2018;n.a.
+217;Cochecitos sin Motor;NÚMERO ;2018;1
+218;Cochecitos sin Motor;POBLACIÓN  BENEFICIADA;2018;382
+219;Carrera 3600 La Paz;NÚMERO ;2018;1
+220;Carrera 3600 La Paz;POBLACIÓN  BENEFICIADA;2018;10000
+221;Asociación de Ligas Deportivas (ADELPAZ);NÚMERO ;2018;5
+222;Asociación de Ligas Deportivas (ADELPAZ);POBLACIÓN  BENEFICIADA;2018;1836
+223;Campeonato Intermercados;NÚMERO ;2018;1
+224;Campeonato Intermercados;POBLACIÓN  BENEFICIADA;2018;432
+225;Campeonato Intercampamentos;NÚMERO ;2018;n.a.
+226;Campeonato Intercampamentos;POBLACIÓN  BENEFICIADA;2018;n.a.
+227;Carrera 1/4 de milla;NÚMERO ;2018;1
+228;Carrera 1/4 de milla;POBLACIÓN  BENEFICIADA;2018;80
+229;ARUSA ;NÚMERO ;2018;1
+230;ARUSA ;POBLACIÓN  BENEFICIADA;2018;5000
+231;Juegos Especiales de La Paz;NÚMERO ;2018;1
+232;Juegos Especiales de La Paz;POBLACIÓN  BENEFICIADA;2018;250
+233;Carrera Pedestre Navideña;NÚMERO ;2018;n.a.
+234;Carrera Pedestre Navideña;POBLACIÓN  BENEFICIADA;2018;n.a.
+235;Interbarrios;NÚMERO ;2019;n.a.
+236;Interbarrios;POBLACIÓN  BENEFICIADA;2019;n.a.
+237;Carrera Jóvenes Líderes;NÚMERO ;2019;1
+238;Carrera Jóvenes Líderes;POBLACIÓN  BENEFICIADA;2019;5000
+239;Campeonato Comunidades Terapéuticas;NÚMERO ;2019;n.a.
+240;Campeonato Comunidades Terapéuticas;POBLACIÓN  BENEFICIADA;2019;n.a.
+241;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;NÚMERO ;2019;n.a.
+242;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;POBLACIÓN  BENEFICIADA;2019;n.a.
+243;Cochecitos sin Motor;NÚMERO ;2019;1
+244;Cochecitos sin Motor;POBLACIÓN  BENEFICIADA;2019;500
+245;Carrera 3600 La Paz;NÚMERO ;2019;1
+246;Carrera 3600 La Paz;POBLACIÓN  BENEFICIADA;2019;10000
+247;Asociación de Ligas Deportivas (ADELPAZ);NÚMERO ;2019;5
+248;Asociación de Ligas Deportivas (ADELPAZ);POBLACIÓN  BENEFICIADA;2019;2208
+249;Campeonato Intermercados;NÚMERO ;2019;1
+250;Campeonato Intermercados;POBLACIÓN  BENEFICIADA;2019;576
+251;Campeonato Intercampamentos;NÚMERO ;2019;n.a.
+252;Campeonato Intercampamentos;POBLACIÓN  BENEFICIADA;2019;n.a.
+253;Carrera 1/4 de milla;NÚMERO ;2019;n.a.
+254;Carrera 1/4 de milla;POBLACIÓN  BENEFICIADA;2019;n.a.
+255;ARUSA ;NÚMERO ;2019;1
+256;ARUSA ;POBLACIÓN  BENEFICIADA;2019;2000
+257;Juegos Especiales de La Paz;NÚMERO ;2019;1
+258;Juegos Especiales de La Paz;POBLACIÓN  BENEFICIADA;2019;450
+259;Carrera Pedestre Navideña;NÚMERO ;2019;1
+260;Carrera Pedestre Navideña;POBLACIÓN  BENEFICIADA;2019;450
+261;Interbarrios;NÚMERO ;2020;n.a.
+262;Interbarrios;POBLACIÓN  BENEFICIADA;2020;n.a.
+263;Carrera Jóvenes Líderes;NÚMERO ;2020;n.r
+264;Carrera Jóvenes Líderes;POBLACIÓN  BENEFICIADA;2020;n.r.
+265;Campeonato Comunidades Terapéuticas;NÚMERO ;2020;n.a.
+266;Campeonato Comunidades Terapéuticas;POBLACIÓN  BENEFICIADA;2020;n.a.
+267;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;NÚMERO ;2020;n.a.
+268;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;POBLACIÓN  BENEFICIADA;2020;n.a.
+269;Cochecitos sin Motor;NÚMERO ;2020;1
+270;Cochecitos sin Motor;POBLACIÓN  BENEFICIADA;2020;20
+271;Carrera 3600 La Paz;NÚMERO ;2020;n.r
+272;Carrera 3600 La Paz;POBLACIÓN  BENEFICIADA;2020;n.r.
+273;Asociación de Ligas Deportivas (ADELPAZ);NÚMERO ;2020;n.r
+274;Asociación de Ligas Deportivas (ADELPAZ);POBLACIÓN  BENEFICIADA;2020;n.r.
+275;Campeonato Intermercados;NÚMERO ;2020;n.r
+276;Campeonato Intermercados;POBLACIÓN  BENEFICIADA;2020;n.r.
+277;Campeonato Intercampamentos;NÚMERO ;2020;n.a.
+278;Campeonato Intercampamentos;POBLACIÓN  BENEFICIADA;2020;n.a.
+279;Carrera 1/4 de milla;NÚMERO ;2020;n.r
+280;Carrera 1/4 de milla;POBLACIÓN  BENEFICIADA;2020;n.r.
+281;ARUSA ;NÚMERO ;2020;n.r
+282;ARUSA ;POBLACIÓN  BENEFICIADA;2020;n.r.
+283;Juegos Especiales de La Paz;NÚMERO ;2020;1
+284;Juegos Especiales de La Paz;POBLACIÓN  BENEFICIADA;2020;41
+285;Carrera Pedestre Navideña;NÚMERO ;2020;n.r
+286;Carrera Pedestre Navideña;POBLACIÓN  BENEFICIADA;2020;n.r.
+287;Interbarrios;NÚMERO ;2021;n.a.
+288;Interbarrios;POBLACIÓN  BENEFICIADA;2021;n.a.
+289;Carrera Jóvenes Líderes;NÚMERO ;2021;n.r.
+290;Carrera Jóvenes Líderes;POBLACIÓN  BENEFICIADA;2021;n.r.
+291;Campeonato Comunidades Terapéuticas;NÚMERO ;2021;n.a.
+292;Campeonato Comunidades Terapéuticas;POBLACIÓN  BENEFICIADA;2021;n.a.
+293;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;NÚMERO ;2021;n.a.
+294;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;POBLACIÓN  BENEFICIADA;2021;n.a.
+295;Cochecitos sin Motor;NÚMERO ;2021;1
+296;Cochecitos sin Motor;POBLACIÓN  BENEFICIADA;2021;1528
+297;Carrera 3600 La Paz;NÚMERO ;2021;n.r.
+298;Carrera 3600 La Paz;POBLACIÓN  BENEFICIADA;2021;n.r.
+299;Asociación de Ligas Deportivas (ADELPAZ);NÚMERO ;2021;n.r.
+300;Asociación de Ligas Deportivas (ADELPAZ);POBLACIÓN  BENEFICIADA;2021;n.r.
+301;Campeonato Intermercados;NÚMERO ;2021;n.r.
+302;Campeonato Intermercados;POBLACIÓN  BENEFICIADA;2021;n.r.
+303;Campeonato Intercampamentos;NÚMERO ;2021;n.a.
+304;Campeonato Intercampamentos;POBLACIÓN  BENEFICIADA;2021;n.a.
+305;Carrera 1/4 de milla;NÚMERO ;2021;1
+306;Carrera 1/4 de milla;POBLACIÓN  BENEFICIADA;2021;2000
+307;ARUSA ;NÚMERO ;2021;n.r.
+308;ARUSA ;POBLACIÓN  BENEFICIADA;2021;n.r.
+309;Juegos Especiales de La Paz;NÚMERO ;2021;n.r.
+310;Juegos Especiales de La Paz;POBLACIÓN  BENEFICIADA;2021;n.r.
+311;Carrera Pedestre Navideña;NÚMERO ;2021;n.r.
+312;Carrera Pedestre Navideña;POBLACIÓN  BENEFICIADA;2021;n.r.
+313;Interbarrios;NÚMERO ;2022;n.a.
+314;Interbarrios;POBLACIÓN  BENEFICIADA;2022;n.a.
+315;Carrera Jóvenes Líderes;NÚMERO ;2022;n.r.
+316;Carrera Jóvenes Líderes;POBLACIÓN  BENEFICIADA;2022;n.r.
+317;Campeonato Comunidades Terapéuticas;NÚMERO ;2022;n.a.
+318;Campeonato Comunidades Terapéuticas;POBLACIÓN  BENEFICIADA;2022;n.a.
+319;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;NÚMERO ;2022;n.a.
+320;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;POBLACIÓN  BENEFICIADA;2022;n.a.
+321;Cochecitos sin Motor;NÚMERO ;2022;1
+322;Cochecitos sin Motor;POBLACIÓN  BENEFICIADA;2022;600
+323;Carrera 3600 La Paz;NÚMERO ;2022;n.r.
+324;Carrera 3600 La Paz;POBLACIÓN  BENEFICIADA;2022;n.r.
+325;Asociación de Ligas Deportivas (ADELPAZ);NÚMERO ;2022;n.r.
+326;Asociación de Ligas Deportivas (ADELPAZ);POBLACIÓN  BENEFICIADA;2022;n.r.
+327;Campeonato Intermercados;NÚMERO ;2022;n.r.
+328;Campeonato Intermercados;POBLACIÓN  BENEFICIADA;2022;n.r.
+329;Campeonato Intercampamentos;NÚMERO ;2022;n.r
+330;Campeonato Intercampamentos;POBLACIÓN  BENEFICIADA;2022;n.r.
+331;Carrera 1/4 de milla;NÚMERO ;2022;n.r.
+332;Carrera 1/4 de milla;POBLACIÓN  BENEFICIADA;2022;n.r.
+333;ARUSA ;NÚMERO ;2022;n.r.
+334;ARUSA ;POBLACIÓN  BENEFICIADA;2022;n.r.
+335;Juegos Especiales de La Paz;NÚMERO ;2022;n.r.
+336;Juegos Especiales de La Paz;POBLACIÓN  BENEFICIADA;2022;n.r.
+337;Carrera Pedestre Navideña;NÚMERO ;2022;n.r.
+338;Carrera Pedestre Navideña;POBLACIÓN  BENEFICIADA;2022;n.r.
+339;Interbarrios;NÚMERO ;2023;n.a.
+340;Interbarrios;POBLACIÓN  BENEFICIADA;2023;n.a.
+341;Carrera Jóvenes Líderes;NÚMERO ;2023;n.r.
+342;Carrera Jóvenes Líderes;POBLACIÓN  BENEFICIADA;2023;n.r.
+343;Campeonato Comunidades Terapéuticas;NÚMERO ;2023;n.a.
+344;Campeonato Comunidades Terapéuticas;POBLACIÓN  BENEFICIADA;2023;n.a.
+345;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;NÚMERO ;2023;n.a.
+346;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;POBLACIÓN  BENEFICIADA;2023;n.a.
+347;Cochecitos sin Motor;NÚMERO ;2023;1
+348;Cochecitos sin Motor;POBLACIÓN  BENEFICIADA;2023;400
+349;Carrera 3600 La Paz;NÚMERO ;2023;n.r.
+350;Carrera 3600 La Paz;POBLACIÓN  BENEFICIADA;2023;n.r.
+351;Asociación de Ligas Deportivas (ADELPAZ);NÚMERO ;2023;n.r.
+352;Asociación de Ligas Deportivas (ADELPAZ);POBLACIÓN  BENEFICIADA;2023;n.r.
+353;Campeonato Intermercados;NÚMERO ;2023;n.r.
+354;Campeonato Intermercados;POBLACIÓN  BENEFICIADA;2023;n.r.
+355;Campeonato Intercampamentos;NÚMERO ;2023;n.r
+356;Campeonato Intercampamentos;POBLACIÓN  BENEFICIADA;2023;n.r.
+357;Carrera 1/4 de milla;NÚMERO ;2023;n.r.
+358;Carrera 1/4 de milla;POBLACIÓN  BENEFICIADA;2023;n.r.
+359;ARUSA ;NÚMERO ;2023;n.r.
+360;ARUSA ;POBLACIÓN  BENEFICIADA;2023;n.r.
+361;Juegos Especiales de La Paz;NÚMERO ;2023;n.r.
+362;Juegos Especiales de La Paz;POBLACIÓN  BENEFICIADA;2023;n.r.
+363;Carrera Pedestre Navideña;NÚMERO ;2023;n.r.
+364;Carrera Pedestre Navideña;POBLACIÓN  BENEFICIADA;2023;n.r.
+365;Interbarrios;NÚMERO ;2024;n.a.
+366;Interbarrios;POBLACIÓN  BENEFICIADA;2024;0
+367;Carrera Jóvenes Líderes;NÚMERO ;2024;n.r.
+368;Carrera Jóvenes Líderes;POBLACIÓN  BENEFICIADA;2024;0
+369;Campeonato Comunidades Terapéuticas;NÚMERO ;2024;n.a.
+370;Campeonato Comunidades Terapéuticas;POBLACIÓN  BENEFICIADA;2024;0
+371;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;NÚMERO ;2024;n.a.
+372;Campeonato de Fútbol de Trabajadores en Carretón y Estibadores;POBLACIÓN  BENEFICIADA;2024;0
+373;Cochecitos sin Motor;NÚMERO ;2024;1
+374;Cochecitos sin Motor;POBLACIÓN  BENEFICIADA;2024;175
+375;Carrera 3600 La Paz;NÚMERO ;2024;n.r.
+376;Carrera 3600 La Paz;POBLACIÓN  BENEFICIADA;2024;0
+377;Asociación de Ligas Deportivas (ADELPAZ);NÚMERO ;2024;n.r.
+378;Asociación de Ligas Deportivas (ADELPAZ);POBLACIÓN  BENEFICIADA;2024;0
+379;Campeonato Intermercados;NÚMERO ;2024;n.r.
+380;Campeonato Intermercados;POBLACIÓN  BENEFICIADA;2024;0
+381;Campeonato Intercampamentos;NÚMERO ;2024;n.r.
+382;Campeonato Intercampamentos;POBLACIÓN  BENEFICIADA;2024;0
+383;Carrera 1/4 de milla;NÚMERO ;2024;n.r.
+384;Carrera 1/4 de milla;POBLACIÓN  BENEFICIADA;2024;0
+385;ARUSA ;NÚMERO ;2024;n.r.
+386;ARUSA ;POBLACIÓN  BENEFICIADA;2024;0
+387;Juegos Especiales de La Paz;NÚMERO ;2024;n.r.
+388;Juegos Especiales de La Paz;POBLACIÓN  BENEFICIADA;2024;0
+389;Carrera Pedestre Navideña;NÚMERO ;2024;n.r.
+390;Carrera Pedestre Navideña;POBLACIÓN  BENEFICIADA;2024;0

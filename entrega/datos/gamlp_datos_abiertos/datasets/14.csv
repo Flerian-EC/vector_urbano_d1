@@ -1,0 +1,287 @@
+﻿id;MACRODISTRITO;TURNO;AÑO;NÚMERO DE UNIDADES EDUCATIVAS 
+1;Cotahuma;Mañana;2010;42
+2;Cotahuma;Tarde;2010;26
+3;Cotahuma;Noche;2010;9
+4;Max Paredes;Mañana;2010;33
+5;Max Paredes;Tarde;2010;27
+6;Max Paredes;Noche;2010;8
+7;Periférica;Mañana;2010;36
+8;Periférica;Tarde;2010;27
+9;Periférica;Noche;2010;5
+10;San Antonio;Mañana;2010;27
+11;San Antonio;Tarde;2010;16
+12;San Antonio;Noche;2010;4
+13;Sur;Mañana;2010;32
+14;Sur;Tarde;2010;19
+15;Sur;Noche;2010;4
+16;Mallasa;Mañana;2010;3
+17;Mallasa;Tarde;2010;
+18;Centro;Mañana;2010;27
+19;Centro;Tarde;2010;27
+20;Centro;Noche;2010;11
+21;Hampaturi;Mañana;2010;12
+22;Zongo;Mañana;2010;12
+23;Cotahuma;Mañana;2011;40
+24;Cotahuma;Tarde;2011;26
+25;Cotahuma;Noche;2011;9
+26;Max Paredes;Mañana;2011;33
+27;Max Paredes;Tarde;2011;26
+28;Max Paredes;Noche;2011;8
+29;Periférica;Mañana;2011;37
+30;Periférica;Tarde;2011;27
+31;Periférica;Noche;2011;5
+32;San Antonio;Mañana;2011;25
+33;San Antonio;Tarde;2011;16
+34;San Antonio;Noche;2011;4
+35;Sur;Mañana;2011;32
+36;Sur;Tarde;2011;20
+37;Sur;Noche;2011;4
+38;Mallasa;Mañana;2011;3
+39;Mallasa;Tarde;2011;
+40;Centro;Mañana;2011;28
+41;Centro;Tarde;2011;26
+42;Centro;Noche;2011;11
+43;Hampaturi;Mañana;2011;12
+44;Zongo;Mañana;2011;12
+45;Cotahuma;Mañana;2012;39
+46;Cotahuma;Tarde;2012;26
+47;Cotahuma;Noche;2012;9
+48;Max Paredes;Mañana;2012;35
+49;Max Paredes;Tarde;2012;25
+50;Max Paredes;Noche;2012;8
+51;Periférica;Mañana;2012;38
+52;Periférica;Tarde;2012;28
+53;Periférica;Noche;2012;3
+54;San Antonio;Mañana;2012;25
+55;San Antonio;Tarde;2012;16
+56;San Antonio;Noche;2012;3
+57;Sur;Mañana;2012;32
+58;Sur;Tarde;2012;20
+59;Sur;Noche;2012;4
+60;Mallasa;Mañana;2012;3
+61;Mallasa;Tarde;2012;
+62;Centro;Mañana;2012;28
+63;Centro;Tarde;2012;26
+64;Centro;Noche;2012;9
+65;Hampaturi;Mañana;2012;9
+66;Zongo;Mañana;2012;12
+67;Cotahuma;Mañana;2013;38
+68;Cotahuma;Tarde;2013;25
+69;Cotahuma;Noche;2013;8
+70;Max Paredes;Mañana;2013;29
+71;Max Paredes;Tarde;2013;20
+72;Max Paredes;Noche;2013;6
+73;Periférica;Mañana;2013;38
+74;Periférica;Tarde;2013;27
+75;Periférica;Noche;2013;3
+76;San Antonio;Mañana;2013;26
+77;San Antonio;Tarde;2013;16
+78;San Antonio;Noche;2013;3
+79;Sur;Mañana;2013;31
+80;Sur;Tarde;2013;21
+81;Sur;Noche;2013;4
+82;Mallasa;Mañana;2013;3
+83;Mallasa;Tarde;2013;1
+84;Centro;Mañana;2013;31
+85;Centro;Tarde;2013;33
+86;Centro;Noche;2013;10
+87;Hampaturi;Mañana;2013;9
+88;Zongo;Mañana;2013;12
+89;Cotahuma;Mañana;2014;37
+90;Cotahuma;Tarde;2014;25
+91;Cotahuma;Noche;2014;6
+92;Max Paredes;Mañana;2014;28
+93;Max Paredes;Tarde;2014;22
+94;Max Paredes;Noche;2014;6
+95;Periférica;Mañana;2014;38
+96;Periférica;Tarde;2014;27
+97;Periférica;Noche;2014;3
+98;San Antonio;Mañana;2014;27
+99;San Antonio;Tarde;2014;16
+100;San Antonio;Noche;2014;3
+101;Sur;Mañana;2014;30
+102;Sur;Tarde;2014;20
+103;Sur;Noche;2014;4
+104;Mallasa;Mañana;2014;4
+105;Mallasa;Tarde;2014;1
+106;Centro;Mañana;2014;31
+107;Centro;Tarde;2014;32
+108;Centro;Noche;2014;9
+109;Hampaturi;Mañana;2014;9
+110;Zongo;Mañana;2014;13
+111;Cotahuma;Mañana;2015;37
+112;Cotahuma;Tarde;2015;25
+113;Cotahuma;Noche;2015;6
+114;Max Paredes;Mañana;2015;29
+115;Max Paredes;Tarde;2015;21
+116;Max Paredes;Noche;2015;6
+117;Periférica;Mañana;2015;38
+118;Periférica;Tarde;2015;27
+119;Periférica;Noche;2015;3
+120;San Antonio;Mañana;2015;27
+121;San Antonio;Tarde;2015;16
+122;San Antonio;Noche;2015;3
+123;Sur;Mañana;2015;31
+124;Sur;Tarde;2015;19
+125;Sur;Noche;2015;3
+126;Mallasa;Mañana;2015;5
+127;Mallasa;Tarde;2015;1
+128;Centro;Mañana;2015;31
+129;Centro;Tarde;2015;32
+130;Centro;Noche;2015;9
+131;Hampaturi;Mañana;2015;9
+132;Zongo;Mañana;2015;11
+133;Cotahuma;Mañana;2016;37
+134;Cotahuma;Tarde;2016;25
+135;Cotahuma;Noche;2016;5
+136;Max Paredes;Mañana;2016;30
+137;Max Paredes;Tarde;2016;20
+138;Max Paredes;Noche;2016;6
+139;Periférica;Mañana;2016;37
+140;Periférica;Tarde;2016;26
+141;Periférica;Noche;2016;3
+142;San Antonio;Mañana;2016;26
+143;San Antonio;Tarde;2016;15
+144;San Antonio;Noche;2016;3
+145;Sur;Mañana;2016;31
+146;Sur;Tarde;2016;17
+147;Sur;Noche;2016;3
+148;Mallasa;Mañana;2016;5
+149;Mallasa;Tarde;2016;1
+150;Centro;Mañana;2016;31
+151;Centro;Tarde;2016;32
+152;Centro;Noche;2016;9
+153;Hampaturi;Mañana;2016;7
+154;Zongo;Mañana;2016;13
+155;Cotahuma;Mañana;2017;37
+156;Cotahuma;Tarde;2017;25
+157;Cotahuma;Noche;2017;5
+158;Max Paredes;Mañana;2017;30
+159;Max Paredes;Tarde;2017;20
+160;Max Paredes;Noche;2017;5
+161;Periférica;Mañana;2017;37
+162;Periférica;Tarde;2017;24
+163;Periférica;Noche;2017;3
+164;San Antonio;Mañana;2017;26
+165;San Antonio;Tarde;2017;15
+166;San Antonio;Noche;2017;3
+167;Sur;Mañana;2017;31
+168;Sur;Tarde;2017;17
+169;Sur;Noche;2017;3
+170;Mallasa;Mañana;2017;4
+171;Mallasa;Tarde;2017;1
+172;Centro;Mañana;2017;31
+173;Centro;Tarde;2017;32
+174;Centro;Noche;2017;9
+175;Hampaturi;Mañana;2017;9
+176;Zongo;Mañana;2017;12
+177;Cotahuma;Mañana;2018;38
+178;Cotahuma;Tarde;2018;25
+179;Cotahuma;Noche;2018;5
+180;Max Paredes;Mañana;2018;29
+181;Max Paredes;Tarde;2018;20
+182;Max Paredes;Noche;2018;4
+183;Periférica;Mañana;2018;36
+184;Periférica;Tarde;2018;23
+185;Periférica;Noche;2018;2
+186;San Antonio;Mañana;2018;27
+187;San Antonio;Tarde;2018;15
+188;San Antonio;Noche;2018;3
+189;Sur;Mañana;2018;33
+190;Sur;Tarde;2018;17
+191;Sur;Noche;2018;3
+192;Mallasa;Mañana;2018;4
+193;Mallasa;Tarde;2018;1
+194;Centro;Mañana;2018;29
+195;Centro;Tarde;2018;32
+196;Centro;Noche;2018;7
+197;Hampaturi;Mañana;2018;10
+198;Zongo;Mañana;2018;12
+199;Cotahuma;Mañana;2019;38
+200;Cotahuma;Tarde;2019;25
+201;Cotahuma;Noche;2019;5
+202;Max Paredes;Mañana;2019;28
+203;Max Paredes;Tarde;2019;19
+204;Max Paredes;Noche;2019;4
+205;Periférica;Mañana;2019;39
+206;Periférica;Tarde;2019;27
+207;Periférica;Noche;2019;1
+208;San Antonio;Mañana;2019;25
+209;San Antonio;Tarde;2019;15
+210;San Antonio;Noche;2019;3
+211;Sur;Mañana;2019;31
+212;Sur;Tarde;2019;18
+213;Sur;Noche;2019;3
+214;Mallasa;Mañana;2019;5
+215;Mallasa;Tarde;2019;1
+216;Centro;Mañana;2019;26
+217;Centro;Tarde;2019;29
+218;Centro;Noche;2019;7
+219;Hampaturi;Mañana;2019;10
+220;Zongo;Mañana;2019;13
+221;Cotahuma;Mañana;2020;37
+222;Cotahuma;Tarde;2020;23
+223;Cotahuma;Noche;2020;3
+224;Max Paredes;Mañana;2020;29
+225;Max Paredes;Tarde;2020;20
+226;Max Paredes;Noche;2020;4
+227;Periférica;Mañana;2020;38
+228;Periférica;Tarde;2020;27
+229;Periférica;Noche;2020;1
+230;San Antonio;Mañana;2020;25
+231;San Antonio;Tarde;2020;15
+232;San Antonio;Noche;2020;3
+233;Sur;Mañana;2020;31
+234;Sur;Tarde;2020;18
+235;Sur;Noche;2020;3
+236;Mallasa;Mañana;2020;5
+237;Mallasa;Tarde;2020;1
+238;Centro;Mañana;2020;26
+239;Centro;Tarde;2020;29
+240;Centro;Noche;2020;7
+241;Hampaturi;Mañana;2020;11
+242;Zongo;Mañana;2020;13
+243;Cotahuma;Mañana;2021;37
+244;Cotahuma;Tarde;2021;23
+245;Cotahuma;Noche;2021;4
+246;Max Paredes;Mañana;2021;29
+247;Max Paredes;Tarde;2021;20
+248;Max Paredes;Noche;2021;4
+249;Periférica;Mañana;2021;39
+250;Periférica;Tarde;2021;26
+251;Periférica;Noche;2021;1
+252;San Antonio;Mañana;2021;25
+253;San Antonio;Tarde;2021;15
+254;San Antonio;Noche;2021;3
+255;Sur;Mañana;2021;31
+256;Sur;Tarde;2021;17
+257;Sur;Noche;2021;3
+258;Mallasa;Mañana;2021;5
+259;Mallasa;Tarde;2021;1
+260;Centro;Mañana;2021;27
+261;Centro;Tarde;2021;30
+262;Centro;Noche;2021;6
+263;Hampaturi;Mañana;2021;11
+264;Zongo;Mañana;2021;14
+265;Cotahuma;Mañana;2022 (p);37
+266;Cotahuma;Tarde;2022 (p);22
+267;Cotahuma;Noche;2022 (p);3
+268;Max Paredes;Mañana;2022 (p);29
+269;Max Paredes;Tarde;2022 (p);21
+270;Max Paredes;Noche;2022 (p);4
+271;Periférica;Mañana;2022 (p);40
+272;Periférica;Tarde;2022 (p);25
+273;Periférica;Noche;2022 (p);1
+274;San Antonio;Mañana;2022 (p);25
+275;San Antonio;Tarde;2022 (p);15
+276;San Antonio;Noche;2022 (p);3
+277;Sur;Mañana;2022 (p);31
+278;Sur;Tarde;2022 (p);17
+279;Sur;Noche;2022 (p);3
+280;Mallasa;Mañana;2022 (p);5
+281;Mallasa;Tarde;2022 (p);1
+282;Centro;Mañana;2022 (p);27
+283;Centro;Tarde;2022 (p);31
+284;Centro;Noche;2022 (p);6
+285;Hampaturi;Mañana;2022 (p);11
+286;Zongo;Mañana;2022 (p);12

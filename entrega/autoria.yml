@@ -1,0 +1,11 @@
+# autoria.yml — Integrantes del equipo y consentimiento de reconocimiento público
+integrantes:
+  - nombre: "Fabian Juel Escalera Caballero"
+    usuario_github: "Flerian-EC"
+    mencion: si
+  - nombre: "Andres Humberto Chirinos Lizondo"
+    usuario_github: "andres-chirinos"
+    mencion: si
+  - nombre: "Adhemar Saul Gutierrez Zabaleta"
+    usuario_github: "S4uL2001"
+    mencion: si

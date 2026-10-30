@@ -1,0 +1,105 @@
+archivo,columna,encabezado_literal,tipo,descripcion
+salida/cd_aprobaciones_por_dia_exitosas.csv,fecha,fecha,date,Fecha del evento o registro administrativo (formato AAAA-MM-DD o estándar)
+salida/cd_aprobaciones_por_dia_exitosas.csv,sistema,sistema,string,Nombre o identificador del sistema institucional de información
+salida/cd_aprobaciones_por_dia_exitosas.csv,cantidad aprobados,cantidad aprobados,string,Dato registrado correspondiente al campo cantidad aprobados
+salida/cd_autenticaciones_realizadas_exito_v2.csv,sistema,sistema,string,Nombre o identificador del sistema institucional de información
+salida/cd_autenticaciones_realizadas_exito_v2.csv,fecha,fecha,date,Fecha del evento o registro administrativo (formato AAAA-MM-DD o estándar)
+salida/cd_autenticaciones_realizadas_exito_v2.csv,cantidad,cantidad,integer,Conteo o volumen total de registros u operaciones registradas
+salida/cd_autenticaciones_realizadas_exito_v2_x_sistema_year.csv,sistema,sistema,string,Nombre o identificador del sistema institucional de información
+salida/cd_autenticaciones_realizadas_exito_v2_x_sistema_year.csv,anio,anio,integer,Año de gestión correspondiente a la observación
+salida/cd_autenticaciones_realizadas_exito_v2_x_sistema_year.csv,cantidad,cantidad,integer,Conteo o volumen total de registros u operaciones registradas
+salida/cd_ciudadanos_por_dia_que_aprueban.csv,nombre,nombre,string,"Denominación oficial de la entidad, trámite o unidad institucional"
+salida/cd_ciudadanos_por_dia_que_aprueban.csv,fecha,fecha,date,Fecha del evento o registro administrativo (formato AAAA-MM-DD o estándar)
+salida/cd_ciudadanos_por_dia_que_aprueban.csv,numero,numero,string,Dato registrado correspondiente al campo numero
+salida/cd_cuentas_activadas_entidad.csv,nombre,nombre,string,"Denominación oficial de la entidad, trámite o unidad institucional"
+salida/cd_cuentas_activadas_entidad.csv,fecha,fecha,date,Fecha del evento o registro administrativo (formato AAAA-MM-DD o estándar)
+salida/cd_cuentas_activadas_entidad.csv,count,count,string,Dato registrado correspondiente al campo count
+salida/cd_operadores_registro_entidad-1.csv,nombre,nombre,string,"Denominación oficial de la entidad, trámite o unidad institucional"
+salida/cd_operadores_registro_entidad-1.csv,cantidad_operadores,cantidad_operadores,string,Dato registrado correspondiente al campo cantidad_operadores
+salida/cd_preregistros_portal_aplicacion_v1.csv,fecha_creacion,fecha_creacion,string,Dato registrado correspondiente al campo fecha_creacion
+salida/cd_preregistros_portal_aplicacion_v1.csv,total,total,string,Dato registrado correspondiente al campo total
+salida/cd_preregistros_portal_aplicacion_v1.csv,cantidad_movil,cantidad_movil,string,Dato registrado correspondiente al campo cantidad_movil
+salida/cd_preregistros_portal_aplicacion_v1.csv,cantidad_web,cantidad_web,string,Dato registrado correspondiente al campo cantidad_web
+salida/cd_preregistros_portal_aplicacion_v2.csv,fecha_creacion,fecha_creacion,string,Dato registrado correspondiente al campo fecha_creacion
+salida/cd_preregistros_portal_aplicacion_v2.csv,total,total,string,Dato registrado correspondiente al campo total
+salida/cd_preregistros_portal_aplicacion_v2.csv,cantidad_movil,cantidad_movil,string,Dato registrado correspondiente al campo cantidad_movil
+salida/cd_preregistros_portal_aplicacion_v2.csv,cantidad_web,cantidad_web,string,Dato registrado correspondiente al campo cantidad_web
+salida/cd_registros_firmados.csv,fecha,fecha,date,Fecha del evento o registro administrativo (formato AAAA-MM-DD o estándar)
+salida/cd_registros_firmados.csv,count,count,string,Dato registrado correspondiente al campo count
+salida/censo_conectividad_lapaz.csv,codigo_municipio,codigo_municipio,string,Código geográfico INE del municipio (020101 para Nuestra Señora de La Paz)
+salida/censo_conectividad_lapaz.csv,municipio,municipio,string,Nombre oficial del municipio evaluado
+salida/censo_conectividad_lapaz.csv,gestion_censo,gestion_censo,integer,Año de realización del Censo de Población y Vivienda (2012 o 2024)
+salida/censo_conectividad_lapaz.csv,poblacion_total,poblacion_total,integer,Población total empadronada en el municipio
+salida/censo_conectividad_lapaz.csv,total_viviendas,total_viviendas,integer,Total general de viviendas censadas en el territorio municipal
+salida/censo_conectividad_lapaz.csv,hogares_particulares_ocupados,hogares_particulares_ocupados,integer,Total de hogares particulares ocupados con personas presentes (denominador oficial U4SSC)
+salida/censo_conectividad_lapaz.csv,hogares_con_internet,hogares_con_internet,integer,Número de hogares particulares con acceso a Internet (numerador oficial U4SSC)
+salida/censo_conectividad_lapaz.csv,pct_acceso_internet,pct_acceso_internet,number,Porcentaje de hogares con acceso a Internet (EC:ICT:ICT:1C)
+salida/censo_conectividad_lapaz.csv,hogares_banda_ancha_fija,hogares_banda_ancha_fija,integer,Número de hogares particulares con servicio de Internet fijo residencial (V19E_INETFIJO)
+salida/censo_conectividad_lapaz.csv,pct_banda_ancha_fija,pct_banda_ancha_fija,number,Porcentaje de hogares con banda ancha fija residencial (EC:ICT:ICT:2C)
+salida/fibra_optica_depurado.csv,N,N,integer,Número secuencial de fila en el inventario oficial
+salida/fibra_optica_depurado.csv,Departamento,Departamento,string,Nombre del departamento geográfico de Bolivia
+salida/fibra_optica_depurado.csv,Provincia,Provincia,string,Nombre de la provincia geográfica
+salida/fibra_optica_depurado.csv,Municipio,Municipio,string,Nombre del municipio administrativo
+salida/fibra_optica_depurado.csv,Localidad,Localidad,string,Nombre de la localidad o centro poblado
+salida/fibra_optica_depurado.csv,Observaciones,Observaciones,string,Notas técnicas u observaciones de campo adicionales
+salida/gamlp_certificaciones_catastro.csv,gestion,gestion,integer,Año de gestión fiscal o censal analizada
+salida/gamlp_certificaciones_catastro.csv,total_certificaciones_catastrales,total_certificaciones_catastrales,integer,Cantidad total de trámites de certificación catastral emitidos
+salida/gamlp_datos_abiertos_inventario.csv,id_dataset,id_dataset,integer,Identificador numérico único del conjunto de datos en el portal GAMLP
+salida/gamlp_datos_abiertos_inventario.csv,titulo,titulo,string,Título descriptivo del conjunto de datos publicado
+salida/gamlp_datos_abiertos_inventario.csv,descripcion,descripcion,string,Resumen o metadato descriptivo del contenido del conjunto
+salida/gamlp_datos_abiertos_inventario.csv,unidad_productora,unidad_productora,string,Secretaría o dirección municipal del GAMLP productora del dato
+salida/gamlp_datos_abiertos_inventario.csv,periodicidad,periodicidad,string,Frecuencia estipulada de actualización del conjunto de datos
+salida/gamlp_datos_abiertos_inventario.csv,version,version,string,Número de versión publicada del conjunto de datos
+salida/gamlp_datos_abiertos_inventario.csv,fecha_registro,fecha_registro,date,Fecha y hora del primer registro del dataset en el catálogo
+salida/gamlp_datos_abiertos_inventario.csv,fecha_actualizacion,fecha_actualizacion,date,Fecha y hora de la última modificación reportada
+salida/gamlp_datos_abiertos_inventario.csv,estado,estado,string,Estado operativo o administrativo del trámite o registro
+salida/gamlp_seguridad_internet_modulos.csv,gestion,gestion,integer,Año de gestión fiscal o censal analizada
+salida/gamlp_seguridad_internet_modulos.csv,conexiones_internet_policiales,conexiones_internet_policiales,integer,Número de conexiones de Internet activas en módulos y estaciones policiales
+salida/gamlp_tramites_verificados.csv,id_tramite,id_tramite,integer,Identificador oficial del trámite en el catálogo nacional gob.bo
+salida/gamlp_tramites_verificados.csv,nombre,nombre,string,"Denominación oficial de la entidad, trámite o unidad institucional"
+salida/gamlp_tramites_verificados.csv,estado,estado,string,Estado operativo o administrativo del trámite o registro
+salida/gamlp_tramites_verificados.csv,slug,slug,string,Identificador amigable URL del trámite en el portal gob.bo
+salida/gamlp_tramites_verificados.csv,tipo_canal,tipo_canal,string,"Canal de atención disponible (En línea, Presencial o Mixto)"
+salida/kioscos_electronicos_depurado.csv,N,N,integer,Número secuencial de fila en el inventario oficial
+salida/kioscos_electronicos_depurado.csv,Departamento,Departamento,string,Nombre del departamento geográfico de Bolivia
+salida/kioscos_electronicos_depurado.csv,Provincia,Provincia,string,Nombre de la provincia geográfica
+salida/kioscos_electronicos_depurado.csv,Municipio,Municipio,string,Nombre del municipio administrativo
+salida/kioscos_electronicos_depurado.csv,Localidad,Localidad,string,Nombre de la localidad o centro poblado
+salida/lineas_telefonicas_fijas_depurado.csv,DESCRIPCION,DESCRIPCION,string,Dato registrado correspondiente al campo DESCRIPCION
+salida/lineas_telefonicas_fijas_depurado.csv,1996,1996,string,Dato registrado correspondiente al campo 1996
+salida/lineas_telefonicas_fijas_depurado.csv,1997,1997,string,Dato registrado correspondiente al campo 1997
+salida/lineas_telefonicas_fijas_depurado.csv,1998,1998,string,Dato registrado correspondiente al campo 1998
+salida/lineas_telefonicas_fijas_depurado.csv,1999,1999,string,Dato registrado correspondiente al campo 1999
+salida/lineas_telefonicas_fijas_depurado.csv,2000,2000,string,Dato registrado correspondiente al campo 2000
+salida/lineas_telefonicas_fijas_depurado.csv,2001,2001,string,Dato registrado correspondiente al campo 2001
+salida/lineas_telefonicas_fijas_depurado.csv,2002,2002,string,Dato registrado correspondiente al campo 2002
+salida/lineas_telefonicas_fijas_depurado.csv,2003,2003,string,Dato registrado correspondiente al campo 2003
+salida/lineas_telefonicas_fijas_depurado.csv,2004,2004,string,Dato registrado correspondiente al campo 2004
+salida/lineas_telefonicas_fijas_depurado.csv,2005,2005,string,Dato registrado correspondiente al campo 2005
+salida/lineas_telefonicas_fijas_depurado.csv,2006,2006,string,Dato registrado correspondiente al campo 2006
+salida/lineas_telefonicas_fijas_depurado.csv,2007,2007,string,Dato registrado correspondiente al campo 2007
+salida/lineas_telefonicas_fijas_depurado.csv,2008,2008,string,Dato registrado correspondiente al campo 2008
+salida/lineas_telefonicas_fijas_depurado.csv,2009,2009,string,Dato registrado correspondiente al campo 2009
+salida/lineas_telefonicas_fijas_depurado.csv,2010,2010,string,Dato registrado correspondiente al campo 2010
+salida/lineas_telefonicas_fijas_depurado.csv,2011,2011,string,Dato registrado correspondiente al campo 2011
+salida/lineas_telefonicas_fijas_depurado.csv,2012,2012,string,Dato registrado correspondiente al campo 2012
+salida/lineas_telefonicas_fijas_depurado.csv,2013,2013,string,Dato registrado correspondiente al campo 2013
+salida/lineas_telefonicas_fijas_depurado.csv,2014,2014,string,Dato registrado correspondiente al campo 2014
+salida/lineas_telefonicas_fijas_depurado.csv,2015,2015,string,Dato registrado correspondiente al campo 2015
+salida/lineas_telefonicas_fijas_depurado.csv,2016,2016,string,Dato registrado correspondiente al campo 2016
+salida/matriz_indicadores_u4ssc_d1.csv,id_indicador,id_indicador,string,Identificador único del indicador en la datatón (D1-01 a D1-08)
+salida/matriz_indicadores_u4ssc_d1.csv,codigo_u4ssc,codigo_u4ssc,string,Código oficial normalizado según UIT-T Y.4903 U4SSC
+salida/matriz_indicadores_u4ssc_d1.csv,nombre_indicador,nombre_indicador,string,Título descriptivo del indicador SMART evaluado
+salida/matriz_indicadores_u4ssc_d1.csv,dimension_u4ssc,dimension_u4ssc,string,Dimensión temática oficial del estándar U4SSC
+salida/matriz_indicadores_u4ssc_d1.csv,tipo_indicador,tipo_indicador,string,Clasificación metodológica del indicador (Core o Advanced)
+salida/matriz_indicadores_u4ssc_d1.csv,gestion_periodo,gestion_periodo,string,Periodo temporal o gestión a la que corresponde la medición
+salida/matriz_indicadores_u4ssc_d1.csv,numerador_descripcion,numerador_descripcion,string,Definición conceptual y técnica del numerador
+salida/matriz_indicadores_u4ssc_d1.csv,numerador_valor,numerador_valor,integer,Valor absoluto calculado o verificado para el numerador
+salida/matriz_indicadores_u4ssc_d1.csv,denominador_descripcion,denominador_descripcion,string,Definición conceptual y técnica del denominador
+salida/matriz_indicadores_u4ssc_d1.csv,denominador_valor,denominador_valor,integer,Valor absoluto calculado o verificado para el denominador
+salida/matriz_indicadores_u4ssc_d1.csv,metrica_resultado,metrica_resultado,string,"Tasa, porcentaje o conteo absoluto final del indicador"
+salida/matriz_indicadores_u4ssc_d1.csv,unidad_medida,unidad_medida,string,Unidad de medida del resultado reportado
+salida/matriz_indicadores_u4ssc_d1.csv,fuente_primaria,fuente_primaria,string,Institución o repositorio primario de procedencia del dato
+salida/matriz_indicadores_u4ssc_d1.csv,responsable_dato,responsable_dato,string,Unidad o institución responsable de la custodia del dato
+salida/matriz_indicadores_u4ssc_d1.csv,estado_madurez,estado_madurez,string,Nivel de validación técnica y madurez del indicador
+salida/matriz_indicadores_u4ssc_d1.csv,brecha_identificada,brecha_identificada,string,"Brecha metodológica, territorial o transaccional documentada"

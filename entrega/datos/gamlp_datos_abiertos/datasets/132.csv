@@ -1,0 +1,826 @@
+id;MACRODISTRITO;NIVEL;AÑO; ESTUDIANTES EFECTIVOS
+1;Cotahuma;Inicial;2010;1872
+2;Cotahuma;Primaria;2010;6016
+3;Cotahuma;Secundaria;2010;3983
+4;Cotahuma;Inicial/Primaria;2010;7862
+5;Cotahuma;Primaria/Secundaria;2010;5317
+6;Cotahuma;Inicial/Primaria/Secundaria;2010;850
+7;Cotahuma;Centro Especial;2010;601
+8;Max Paredes;Inicial;2010;1651
+9;Max Paredes;Primaria;2010;8684
+10;Max Paredes;Secundaria;2010;3678
+11;Max Paredes;Inicial/Primaria;2010;6325
+12;Max Paredes;Primaria/Secundaria;2010;7016
+13;Max Paredes;Inicial/Primaria/Secundaria;2010;2024
+14;Max Paredes;Centro Especial;2010;
+15;Periférica;Inicial;2010;1162
+16;Periférica;Primaria;2010;3315
+17;Periférica;Secundaria;2010;3718
+18;Periférica;Inicial/Primaria;2010;7934
+19;Periférica;Primaria/Secundaria;2010;10678
+20;Periférica;Inicial/Primaria/Secundaria;2010;889
+21;Periférica;Centro Especial;2010;15
+22;San Antonio;Inicial;2010;460
+23;San Antonio;Primaria;2010;2353
+24;San Antonio;Secundaria;2010;1711
+25;San Antonio;Inicial/Primaria;2010;6389
+26;San Antonio;Primaria/Secundaria;2010;3849
+27;San Antonio;Inicial/Primaria/Secundaria;2010;3170
+28;San Antonio;Inicial/Secundaria;2010;
+29;Sur;Inicial;2010;963
+30;Sur;Primaria;2010;4677
+31;Sur;Secundaria;2010;2157
+32;Sur;Inicial/Primaria;2010;5044
+33;Sur;Primaria/Secundaria;2010;5336
+34;Sur;Inicial/Primaria/Secundaria;2010;2609
+35;Sur;Centro Especial;2010;408
+36;Sur;Inicial/Secundaria;2010;
+37;Mallasa;Secundaria;2010;49
+38;Mallasa;Inicial/Primaria;2010;
+39;Mallasa;Inicial/Primaria/Secundaria;2010;909
+40;Centro;Inicial;2010;1796
+41;Centro;Primaria;2010;9565
+42;Centro;Secundaria;2010;6670
+43;Centro;Inicial/Primaria;2010;1919
+44;Centro;Primaria/Secundaria;2010;4606
+45;Centro;Inicial/Primaria/Secundaria;2010;499
+46;Centro;Centro Especial;2010;161
+47;Hampaturi;Primaria;2010;
+48;Hampaturi;Inicial/Primaria;2010;493
+49;Hampaturi;Inicial/Primaria/Secundaria;2010;152
+50;Hampaturi;Primaria/Secundaria;2010;
+51;Zongo;Primaria;2010;
+52;Zongo;Secundaria;2010;20
+53;Zongo;Inicial/Primaria;2010;305
+54;Zongo;Primaria/Secundaria;2010;
+55;Zongo;Inicial/Primaria/Secundaria;2010;
+56;Cotahuma;Inicial;2011;2134
+57;Cotahuma;Primaria;2011;5401
+58;Cotahuma;Secundaria;2011;4228
+59;Cotahuma;Inicial/Primaria;2011;8067
+60;Cotahuma;Primaria/Secundaria;2011;5635
+61;Cotahuma;Inicial/Primaria/Secundaria;2011;1023
+62;Cotahuma;Centro Especial;2011;472
+63;Max Paredes;Inicial;2011;1651
+64;Max Paredes;Primaria;2011;7912
+65;Max Paredes;Secundaria;2011;3706
+66;Max Paredes;Inicial/Primaria;2011;6209
+67;Max Paredes;Primaria/Secundaria;2011;7014
+68;Max Paredes;Inicial/Primaria/Secundaria;2011;2425
+69;Max Paredes;Centro Especial;2011;
+70;Periférica;Inicial;2011;1294
+71;Periférica;Primaria;2011;3306
+72;Periférica;Secundaria;2011;3616
+73;Periférica;Inicial/Primaria;2011;7861
+74;Periférica;Primaria/Secundaria;2011;10523
+75;Periférica;Inicial/Primaria/Secundaria;2011;1151
+76;Periférica;Centro Especial;2011;57
+77;San Antonio;Inicial;2011;483
+78;San Antonio;Primaria;2011;2384
+79;San Antonio;Secundaria;2011;1637
+80;San Antonio;Inicial/Primaria;2011;6200
+81;San Antonio;Primaria/Secundaria;2011;3793
+82;San Antonio;Inicial/Primaria/Secundaria;2011;3227
+83;San Antonio;Inicial/Secundaria;2011;
+84;Sur;Inicial;2011;1088
+85;Sur;Primaria;2011;4543
+86;Sur;Secundaria;2011;2375
+87;Sur;Inicial/Primaria;2011;5068
+88;Sur;Primaria/Secundaria;2011;5371
+89;Sur;Inicial/Primaria/Secundaria;2011;2863
+90;Sur;Centro Especial;2011;396
+91;Sur;Inicial/Secundaria;2011;
+92;Mallasa;Secundaria;2011;44
+93;Mallasa;Inicial/Primaria;2011;
+94;Mallasa;Inicial/Primaria/Secundaria;2011;923
+95;Centro;Inicial;2011;1842
+96;Centro;Primaria;2011;9246
+97;Centro;Secundaria;2011;6305
+98;Centro;Inicial/Primaria;2011;1848
+99;Centro;Primaria/Secundaria;2011;4919
+100;Centro;Inicial/Primaria/Secundaria;2011;501
+101;Centro;Centro Especial;2011;173
+102;Hampaturi;Primaria;2011;
+103;Hampaturi;Inicial/Primaria;2011;498
+104;Hampaturi;Inicial/Primaria/Secundaria;2011;152
+105;Hampaturi;Primaria/Secundaria;2011;
+106;Zongo;Primaria;2011;
+107;Zongo;Secundaria;2011;33
+108;Zongo;Inicial/Primaria;2011;274
+109;Zongo;Primaria/Secundaria;2011;
+110;Zongo;Inicial/Primaria/Secundaria;2011;
+111;Cotahuma;Inicial;2012;2224
+112;Cotahuma;Primaria;2012;4932
+113;Cotahuma;Secundaria;2012;4222
+114;Cotahuma;Inicial/Primaria;2012;7235
+115;Cotahuma;Primaria/Secundaria;2012;5207
+116;Cotahuma;Inicial/Primaria/Secundaria;2012;1373
+117;Cotahuma;Centro Especial;2012;477
+118;Max Paredes;Inicial;2012;1769
+119;Max Paredes;Primaria;2012;7154
+120;Max Paredes;Secundaria;2012;4113
+121;Max Paredes;Inicial/Primaria;2012;6304
+122;Max Paredes;Primaria/Secundaria;2012;6516
+123;Max Paredes;Inicial/Primaria/Secundaria;2012;3195
+124;Max Paredes;Centro Especial;2012;
+125;Periférica;Inicial;2012;1341
+126;Periférica;Primaria;2012;2644
+127;Periférica;Secundaria;2012;3851
+128;Periférica;Inicial/Primaria;2012;8183
+129;Periférica;Primaria/Secundaria;2012;10583
+130;Periférica;Inicial/Primaria/Secundaria;2012;988
+131;Periférica;Centro Especial;2012;64
+132;San Antonio;Inicial;2012;475
+133;San Antonio;Primaria;2012;2187
+134;San Antonio;Secundaria;2012;1896
+135;San Antonio;Inicial/Primaria;2012;6255
+136;San Antonio;Primaria/Secundaria;2012;3300
+137;San Antonio;Inicial/Primaria/Secundaria;2012;3319
+138;San Antonio;Inicial/Secundaria;2012;
+139;Sur;Inicial;2012;1117
+140;Sur;Primaria;2012;4497
+141;Sur;Secundaria;2012;2393
+142;Sur;Inicial/Primaria;2012;4870
+143;Sur;Primaria/Secundaria;2012;5212
+144;Sur;Inicial/Primaria/Secundaria;2012;2568
+145;Sur;Centro Especial;2012;405
+146;Sur;Inicial/Secundaria;2012;
+147;Mallasa;Secundaria;2012;
+148;Mallasa;Inicial/Primaria;2012;
+149;Mallasa;Inicial/Primaria/Secundaria;2012;1384
+150;Centro;Inicial;2012;1867
+151;Centro;Primaria;2012;9059
+152;Centro;Secundaria;2012;6352
+153;Centro;Inicial/Primaria;2012;1702
+154;Centro;Primaria/Secundaria;2012;4219
+155;Centro;Inicial/Primaria/Secundaria;2012;512
+156;Centro;Centro Especial;2012;115
+157;Hampaturi;Primaria;2012;
+158;Hampaturi;Inicial/Primaria;2012;366
+159;Hampaturi;Inicial/Primaria/Secundaria;2012;173
+160;Hampaturi;Primaria/Secundaria;2012;
+161;Zongo;Primaria;2012;
+162;Zongo;Secundaria;2012;33
+163;Zongo;Inicial/Primaria;2012;275
+164;Zongo;Primaria/Secundaria;2012;
+165;Zongo;Inicial/Primaria/Secundaria;2012;
+166;Cotahuma;Inicial;2013;2298
+167;Cotahuma;Primaria;2013;2279
+168;Cotahuma;Secundaria;2013;6775
+169;Cotahuma;Inicial/Primaria;2013;2814
+170;Cotahuma;Primaria/Secundaria;2013;4853
+171;Cotahuma;Inicial/Primaria/Secundaria;2013;5469
+172;Cotahuma;Centro Especial;2013;409
+173;Max Paredes;Inicial;2013;1717
+174;Max Paredes;Primaria;2013;1992
+175;Max Paredes;Secundaria;2013;4088
+176;Max Paredes;Inicial/Primaria;2013;2792
+177;Max Paredes;Primaria/Secundaria;2013;7017
+178;Max Paredes;Inicial/Primaria/Secundaria;2013;4534
+179;Max Paredes;Centro Especial;2013;
+180;Periférica;Inicial;2013;1366
+181;Periférica;Primaria;2013;1376
+182;Periférica;Secundaria;2013;7625
+183;Periférica;Inicial/Primaria;2013;7258
+184;Periférica;Primaria/Secundaria;2013;6625
+185;Periférica;Inicial/Primaria/Secundaria;2013;2310
+186;Periférica;Centro Especial;2013;20
+187;San Antonio;Inicial;2013;756
+188;San Antonio;Primaria;2013;1165
+189;San Antonio;Secundaria;2013;4129
+190;San Antonio;Inicial/Primaria;2013;5299
+191;San Antonio;Primaria/Secundaria;2013;1902
+192;San Antonio;Inicial/Primaria/Secundaria;2013;3927
+193;San Antonio;Inicial/Secundaria;2013;
+194;Sur;Inicial;2013;1139
+195;Sur;Primaria;2013;1961
+196;Sur;Secundaria;2013;4534
+197;Sur;Inicial/Primaria;2013;4056
+198;Sur;Primaria/Secundaria;2013;5328
+199;Sur;Inicial/Primaria/Secundaria;2013;3800
+200;Sur;Centro Especial;2013;387
+201;Sur;Inicial/Secundaria;2013;
+202;Mallasa;Secundaria;2013;423
+203;Mallasa;Inicial/Primaria;2013;238
+204;Mallasa;Inicial/Primaria/Secundaria;2013;736
+205;Centro;Inicial;2013;1849
+206;Centro;Primaria;2013;4427
+207;Centro;Secundaria;2013;11816
+208;Centro;Inicial/Primaria;2013;4026
+209;Centro;Primaria/Secundaria;2013;5182
+210;Centro;Inicial/Primaria/Secundaria;2013;1978
+211;Centro;Centro Especial;2013;102
+212;Hampaturi;Primaria;2013;
+213;Hampaturi;Inicial/Primaria;2013;162
+214;Hampaturi;Inicial/Primaria/Secundaria;2013;408
+215;Hampaturi;Primaria/Secundaria;2013;
+216;Zongo;Primaria;2013;
+217;Zongo;Secundaria;2013;52
+218;Zongo;Inicial/Primaria;2013;212
+219;Zongo;Primaria/Secundaria;2013;27
+220;Zongo;Inicial/Primaria/Secundaria;2013;
+221;Cotahuma;Inicial;2014;2250
+222;Cotahuma;Primaria;2014;2695
+223;Cotahuma;Secundaria;2014;7165
+224;Cotahuma;Inicial/Primaria;2014;4730
+225;Cotahuma;Primaria/Secundaria;2014;3462
+226;Cotahuma;Inicial/Primaria/Secundaria;2014;3524
+227;Cotahuma;Centro Especial;2014;
+228;Max Paredes;Inicial;2014;1657
+229;Max Paredes;Primaria;2014;3200
+230;Max Paredes;Secundaria;2014;5375
+231;Max Paredes;Inicial/Primaria;2014;3058
+232;Max Paredes;Primaria/Secundaria;2014;3780
+233;Max Paredes;Inicial/Primaria/Secundaria;2014;4398
+234;Max Paredes;Centro Especial;2014;
+235;Periférica;Inicial;2014;1394
+236;Periférica;Primaria;2014;1427
+237;Periférica;Secundaria;2014;8517
+238;Periférica;Inicial/Primaria;2014;7134
+239;Periférica;Primaria/Secundaria;2014;5229
+240;Periférica;Inicial/Primaria/Secundaria;2014;2232
+241;Periférica;Centro Especial;2014;
+242;San Antonio;Inicial;2014;459
+243;San Antonio;Primaria;2014;1148
+244;San Antonio;Secundaria;2014;4210
+245;San Antonio;Inicial/Primaria;2014;4918
+246;San Antonio;Primaria/Secundaria;2014;1717
+247;San Antonio;Inicial/Primaria/Secundaria;2014;4098
+248;San Antonio;Inicial/Secundaria;2014;291
+249;Sur;Inicial;2014;1205
+250;Sur;Primaria;2014;2156
+251;Sur;Secundaria;2014;5148
+252;Sur;Inicial/Primaria;2014;4261
+253;Sur;Primaria/Secundaria;2014;4511
+254;Sur;Inicial/Primaria/Secundaria;2014;3432
+255;Sur;Centro Especial;2014;
+256;Sur;Inicial/Secundaria;2014;
+257;Mallasa;Secundaria;2014;248
+258;Mallasa;Inicial/Primaria;2014;436
+259;Mallasa;Inicial/Primaria/Secundaria;2014;784
+260;Centro;Inicial;2014;987
+261;Centro;Primaria;2014;5405
+262;Centro;Secundaria;2014;12529
+263;Centro;Inicial/Primaria;2014;5539
+264;Centro;Primaria/Secundaria;2014;4078
+265;Centro;Inicial/Primaria/Secundaria;2014;498
+266;Centro;Centro Especial;2014;
+267;Hampaturi;Primaria;2014;
+268;Hampaturi;Inicial/Primaria;2014;159
+269;Hampaturi;Inicial/Primaria/Secundaria;2014;350
+270;Hampaturi;Primaria/Secundaria;2014;
+271;Zongo;Primaria;2014;
+272;Zongo;Secundaria;2014;48
+273;Zongo;Inicial/Primaria;2014;241
+274;Zongo;Primaria/Secundaria;2014;
+275;Zongo;Inicial/Primaria/Secundaria;2014;
+276;Cotahuma;Inicial;2015;2120
+277;Cotahuma;Primaria;2015;2864
+278;Cotahuma;Secundaria;2015;7559
+279;Cotahuma;Inicial/Primaria;2015;5653
+280;Cotahuma;Primaria/Secundaria;2015;2536
+281;Cotahuma;Inicial/Primaria/Secundaria;2015;2355
+282;Cotahuma;Centro Especial;2015;
+283;Max Paredes;Inicial;2015;1661
+284;Max Paredes;Primaria;2015;4011
+285;Max Paredes;Secundaria;2015;5459
+286;Max Paredes;Inicial/Primaria;2015;3339
+287;Max Paredes;Primaria/Secundaria;2015;3456
+288;Max Paredes;Inicial/Primaria/Secundaria;2015;2912
+289;Max Paredes;Centro Especial;2015;
+290;Periférica;Inicial;2015;1358
+291;Periférica;Primaria;2015;1477
+292;Periférica;Secundaria;2015;8632
+293;Periférica;Inicial/Primaria;2015;7197
+294;Periférica;Primaria/Secundaria;2015;4306
+295;Periférica;Inicial/Primaria/Secundaria;2015;2381
+296;Periférica;Centro Especial;2015;
+297;San Antonio;Inicial;2015;509
+298;San Antonio;Primaria;2015;1118
+299;San Antonio;Secundaria;2015;4320
+300;San Antonio;Inicial/Primaria;2015;4811
+301;San Antonio;Primaria/Secundaria;2015;1574
+302;San Antonio;Inicial/Primaria/Secundaria;2015;4004
+303;San Antonio;Inicial/Secundaria;2015;292
+304;Sur;Inicial;2015;1213
+305;Sur;Primaria;2015;3934
+306;Sur;Secundaria;2015;6662
+307;Sur;Inicial/Primaria;2015;4424
+308;Sur;Primaria/Secundaria;2015;801
+309;Sur;Inicial/Primaria/Secundaria;2015;3512
+310;Sur;Centro Especial;2015;
+311;Sur;Inicial/Secundaria;2015;409
+312;Mallasa;Secundaria;2015;298
+313;Mallasa;Inicial/Primaria;2015;493
+314;Mallasa;Inicial/Primaria/Secundaria;2015;761
+315;Centro;Inicial;2015;1870
+316;Centro;Primaria;2015;4766
+317;Centro;Secundaria;2015;13763
+318;Centro;Inicial/Primaria;2015;5559
+319;Centro;Primaria/Secundaria;2015;1996
+320;Centro;Inicial/Primaria/Secundaria;2015;487
+321;Centro;Centro Especial;2015;
+322;Hampaturi;Primaria;2015;
+323;Hampaturi;Inicial/Primaria;2015;144
+324;Hampaturi;Inicial/Primaria/Secundaria;2015;327
+325;Hampaturi;Primaria/Secundaria;2015;36
+326;Zongo;Primaria;2015;
+327;Zongo;Secundaria;2015;49
+328;Zongo;Inicial/Primaria;2015;182
+329;Zongo;Primaria/Secundaria;2015;
+330;Zongo;Inicial/Primaria/Secundaria;2015;
+331;Cotahuma;Inicial;2016;2123
+332;Cotahuma;Primaria;2016;2846
+333;Cotahuma;Secundaria;2016;7171
+334;Cotahuma;Inicial/Primaria;2016;5777
+335;Cotahuma;Primaria/Secundaria;2016;2560
+336;Cotahuma;Inicial/Primaria/Secundaria;2016;2045
+337;Cotahuma;Centro Especial;2016;
+338;Max Paredes;Inicial;2016;1596
+339;Max Paredes;Primaria;2016;3826
+340;Max Paredes;Secundaria;2016;5161
+341;Max Paredes;Inicial/Primaria;2016;3522
+342;Max Paredes;Primaria/Secundaria;2016;3583
+343;Max Paredes;Inicial/Primaria/Secundaria;2016;2844
+344;Max Paredes;Centro Especial;2016;
+345;Periférica;Inicial;2016;1287
+346;Periférica;Primaria;2016;2240
+347;Periférica;Secundaria;2016;8710
+348;Periférica;Inicial/Primaria;2016;7199
+349;Periférica;Primaria/Secundaria;2016;1984
+350;Periférica;Inicial/Primaria/Secundaria;2016;2438
+351;Periférica;Centro Especial;2016;
+352;San Antonio;Inicial;2016;517
+353;San Antonio;Primaria;2016;1161
+354;San Antonio;Secundaria;2016;4062
+355;San Antonio;Inicial/Primaria;2016;4965
+356;San Antonio;Primaria/Secundaria;2016;1512
+357;San Antonio;Inicial/Primaria/Secundaria;2016;3824
+358;San Antonio;Inicial/Secundaria;2016;
+359;Sur;Inicial;2016;1222
+360;Sur;Primaria;2016;3910
+361;Sur;Secundaria;2016;6812
+362;Sur;Inicial/Primaria;2016;4201
+363;Sur;Primaria/Secundaria;2016;404
+364;Sur;Inicial/Primaria/Secundaria;2016;3649
+365;Sur;Centro Especial;2016;258
+366;Sur;Inicial/Secundaria;2016;389
+367;Mallasa;Secundaria;2016;332
+368;Mallasa;Inicial/Primaria;2016;501
+369;Mallasa;Inicial/Primaria/Secundaria;2016;735
+370;Centro;Inicial;2016;1868
+371;Centro;Primaria;2016;4559
+372;Centro;Secundaria;2016;13375
+373;Centro;Inicial/Primaria;2016;6331
+374;Centro;Primaria/Secundaria;2016;1354
+375;Centro;Inicial/Primaria/Secundaria;2016;1355
+376;Centro;Centro Especial;2016;
+377;Hampaturi;Primaria;2016;
+378;Hampaturi;Inicial/Primaria;2016;136
+379;Hampaturi;Inicial/Primaria/Secundaria;2016;258
+380;Hampaturi;Primaria/Secundaria;2016;
+381;Zongo;Primaria;2016;
+382;Zongo;Secundaria;2016;47
+383;Zongo;Inicial/Primaria;2016;137
+384;Zongo;Primaria/Secundaria;2016;
+385;Zongo;Inicial/Primaria/Secundaria;2016;159
+386;Cotahuma;Inicial;2017;2154
+387;Cotahuma;Primaria;2017;2959
+388;Cotahuma;Secundaria;2017;7079
+389;Cotahuma;Inicial/Primaria;2017;5961
+390;Cotahuma;Primaria/Secundaria;2017;2645
+391;Cotahuma;Inicial/Primaria/Secundaria;2017;2001
+392;Cotahuma;Centro Especial;2017;
+393;Max Paredes;Inicial;2017;1577
+394;Max Paredes;Primaria;2017;4013
+395;Max Paredes;Secundaria;2017;5228
+396;Max Paredes;Inicial/Primaria;2017;3436
+397;Max Paredes;Primaria/Secundaria;2017;3562
+398;Max Paredes;Inicial/Primaria/Secundaria;2017;2734
+399;Max Paredes;Centro Especial;2017;
+400;Periférica;Inicial;2017;1273
+401;Periférica;Primaria;2017;1500
+402;Periférica;Secundaria;2017;7835
+403;Periférica;Inicial/Primaria;2017;6922
+404;Periférica;Primaria/Secundaria;2017;3697
+405;Periférica;Inicial/Primaria/Secundaria;2017;2450
+406;Periférica;Centro Especial;2017;
+407;San Antonio;Inicial;2017;521
+408;San Antonio;Primaria;2017;1194
+409;San Antonio;Secundaria;2017;4121
+410;San Antonio;Inicial/Primaria;2017;4783
+411;San Antonio;Primaria/Secundaria;2017;1567
+412;San Antonio;Inicial/Primaria/Secundaria;2017;3930
+413;San Antonio;Inicial/Secundaria;2017;275
+414;Sur;Inicial;2017;1127
+415;Sur;Primaria;2017;3980
+416;Sur;Secundaria;2017;6832
+417;Sur;Inicial/Primaria;2017;4378
+418;Sur;Primaria/Secundaria;2017;423
+419;Sur;Inicial/Primaria/Secundaria;2017;4094
+420;Sur;Centro Especial;2017;
+421;Sur;Inicial/Secundaria;2017;363
+422;Mallasa;Secundaria;2017;346
+423;Mallasa;Inicial/Primaria;2017;499
+424;Mallasa;Inicial/Primaria/Secundaria;2017;502
+425;Centro;Inicial;2017;1875
+426;Centro;Primaria;2017;4548
+427;Centro;Secundaria;2017;13386
+428;Centro;Inicial/Primaria;2017;6402
+429;Centro;Primaria/Secundaria;2017;1377
+430;Centro;Inicial/Primaria/Secundaria;2017;1523
+431;Centro;Centro Especial;2017;
+432;Hampaturi;Primaria;2017;
+433;Hampaturi;Inicial/Primaria;2017;170
+434;Hampaturi;Inicial/Primaria/Secundaria;2017;443
+435;Hampaturi;Primaria/Secundaria;2017;
+436;Zongo;Primaria;2017;
+437;Zongo;Secundaria;2017;56
+438;Zongo;Inicial/Primaria;2017;157
+439;Zongo;Primaria/Secundaria;2017;
+440;Zongo;Inicial/Primaria/Secundaria;2017;127
+441;Cotahuma;Inicial;2018;2009
+442;Cotahuma;Primaria;2018;3041
+443;Cotahuma;Secundaria;2018;7057
+444;Cotahuma;Inicial/Primaria;2018;6241
+445;Cotahuma;Primaria/Secundaria;2018;2588
+446;Cotahuma;Inicial/Primaria/Secundaria;2018;1390
+447;Cotahuma;Centro Especial;2018;312
+448;Max Paredes;Inicial;2018;1586
+449;Max Paredes;Primaria;2018;4046
+450;Max Paredes;Secundaria;2018;5032
+451;Max Paredes;Inicial/Primaria;2018;3526
+452;Max Paredes;Primaria/Secundaria;2018;3071
+453;Max Paredes;Inicial/Primaria/Secundaria;2018;2643
+454;Max Paredes;Centro Especial;2018;
+455;Periférica;Inicial;2018;1272
+456;Periférica;Primaria;2018;2301
+457;Periférica;Secundaria;2018;8256
+458;Periférica;Inicial/Primaria;2018;7043
+459;Periférica;Primaria/Secundaria;2018;2193
+460;Periférica;Inicial/Primaria/Secundaria;2018;2484
+461;Periférica;Centro Especial;2018;
+462;San Antonio;Inicial;2018;528
+463;San Antonio;Primaria;2018;1755
+464;San Antonio;Secundaria;2018;4741
+465;San Antonio;Inicial/Primaria;2018;4738
+466;San Antonio;Primaria/Secundaria;2018;254
+467;San Antonio;Inicial/Primaria/Secundaria;2018;4010
+468;San Antonio;Inicial/Secundaria;2018;280
+469;Sur;Inicial;2018;1151
+470;Sur;Primaria;2018;3969
+471;Sur;Secundaria;2018;7183
+472;Sur;Inicial/Primaria;2018;5162
+473;Sur;Primaria/Secundaria;2018;386
+474;Sur;Inicial/Primaria/Secundaria;2018;3149
+475;Sur;Centro Especial;2018;339
+476;Sur;Inicial/Secundaria;2018;385
+477;Mallasa;Secundaria;2018;348
+478;Mallasa;Inicial/Primaria;2018;506
+479;Mallasa;Inicial/Primaria/Secundaria;2018;501
+480;Centro;Inicial;2018;1855
+481;Centro;Primaria;2018;4562
+482;Centro;Secundaria;2018;12930
+483;Centro;Inicial/Primaria;2018;6118
+484;Centro;Primaria/Secundaria;2018;1261
+485;Centro;Inicial/Primaria/Secundaria;2018;1517
+486;Centro;Centro Especial;2018;78
+487;Hampaturi;Primaria;2018;
+488;Hampaturi;Inicial/Primaria;2018;158
+489;Hampaturi;Inicial/Primaria/Secundaria;2018;497
+490;Hampaturi;Primaria/Secundaria;2018;
+491;Zongo;Primaria;2018;
+492;Zongo;Secundaria;2018;56
+493;Zongo;Inicial/Primaria;2018;157
+494;Zongo;Primaria/Secundaria;2018;
+495;Zongo;Inicial/Primaria/Secundaria;2018;112
+496;Cotahuma;Inicial;2019;2046
+497;Cotahuma;Primaria;2019;3079
+498;Cotahuma;Secundaria;2019;6994
+499;Cotahuma;Inicial/Primaria;2019;6256
+500;Cotahuma;Primaria/Secundaria;2019;2532
+501;Cotahuma;Inicial/Primaria/Secundaria;2019;2335
+502;Cotahuma;Centro Especial;2019;
+503;Max Paredes;Inicial;2019;1541
+504;Max Paredes;Primaria;2019;4014
+505;Max Paredes;Secundaria;2019;5005
+506;Max Paredes;Inicial/Primaria;2019;3607
+507;Max Paredes;Primaria/Secundaria;2019;2912
+508;Max Paredes;Inicial/Primaria/Secundaria;2019;1738
+509;Max Paredes;Centro Especial;2019;
+510;Periférica;Inicial;2019;1888
+511;Periférica;Primaria;2019;3286
+512;Periférica;Secundaria;2019;8156
+513;Periférica;Inicial/Primaria;2019;7555
+514;Periférica;Primaria/Secundaria;2019;3475
+515;Periférica;Inicial/Primaria/Secundaria;2019;2128
+516;Periférica;Centro Especial;2019;
+517;San Antonio;Inicial;2019;524
+518;San Antonio;Primaria;2019;1539
+519;San Antonio;Secundaria;2019;4770
+520;San Antonio;Inicial/Primaria;2019;5339
+521;San Antonio;Primaria/Secundaria;2019;233
+522;San Antonio;Inicial/Primaria/Secundaria;2019;3499
+523;San Antonio;Inicial/Secundaria;2019;
+524;Sur;Inicial;2019;1255
+525;Sur;Primaria;2019;4007
+526;Sur;Secundaria;2019;7515
+527;Sur;Inicial/Primaria;2019;4937
+528;Sur;Primaria/Secundaria;2019;360
+529;Sur;Inicial/Primaria/Secundaria;2019;2979
+530;Sur;Centro Especial;2019;
+531;Sur;Inicial/Secundaria;2019;
+532;Mallasa;Secundaria;2019;320
+533;Mallasa;Inicial/Primaria;2019;490
+534;Mallasa;Inicial/Primaria/Secundaria;2019;825
+535;Centro;Inicial;2019;1195
+536;Centro;Primaria;2019;3742
+537;Centro;Secundaria;2019;12548
+538;Centro;Inicial/Primaria;2019;6348
+539;Centro;Primaria/Secundaria;2019;
+540;Centro;Inicial/Primaria/Secundaria;2019;1645
+541;Centro;Centro Especial;2019;
+542;Hampaturi;Primaria;2019;
+543;Hampaturi;Inicial/Primaria;2019;127
+544;Hampaturi;Inicial/Primaria/Secundaria;2019;992
+545;Hampaturi;Primaria/Secundaria;2019;
+546;Zongo;Primaria;2019;
+547;Zongo;Secundaria;2019;47
+548;Zongo;Inicial/Primaria;2019;155
+549;Zongo;Primaria/Secundaria;2019;
+550;Zongo;Inicial/Primaria/Secundaria;2019;149
+551;Cotahuma;Inicial;2020;2021
+552;Cotahuma;Primaria;2020;2942
+553;Cotahuma;Secundaria;2020;6863
+554;Cotahuma;Inicial/Primaria;2020;6210
+555;Cotahuma;Primaria/Secundaria;2020;2565
+556;Cotahuma;Inicial/Primaria/Secundaria;2020;1561
+557;Cotahuma;Centro Especial;2020;
+558;Max Paredes;Inicial;2020;1502
+559;Max Paredes;Primaria;2020;3883
+560;Max Paredes;Secundaria;2020;4938
+561;Max Paredes;Inicial/Primaria;2020;3545
+562;Max Paredes;Primaria/Secundaria;2020;2865
+563;Max Paredes;Inicial/Primaria/Secundaria;2020;2626
+564;Max Paredes;Centro Especial;2020;
+565;Periférica;Inicial;2020;1814
+566;Periférica;Primaria;2020;3255
+567;Periférica;Secundaria;2020;8100
+568;Periférica;Inicial/Primaria;2020;7478
+569;Periférica;Primaria/Secundaria;2020;3391
+570;Periférica;Inicial/Primaria/Secundaria;2020;2139
+571;Periférica;Centro Especial;2020;
+572;San Antonio;Inicial;2020;520
+573;San Antonio;Primaria;2020;1524
+574;San Antonio;Secundaria;2020;4544
+575;San Antonio;Inicial/Primaria;2020;5276
+576;San Antonio;Primaria/Secundaria;2020;193
+577;San Antonio;Inicial/Primaria/Secundaria;2020;3582
+578;San Antonio;Inicial/Secundaria;2020;
+579;Sur;Inicial;2020;1220
+580;Sur;Primaria;2020;3947
+581;Sur;Secundaria;2020;7562
+582;Sur;Inicial/Primaria;2020;4812
+583;Sur;Primaria/Secundaria;2020;341
+584;Sur;Inicial/Primaria/Secundaria;2020;2959
+585;Sur;Centro Especial;2020;
+586;Sur;Inicial/Secundaria;2020;
+587;Mallasa;Secundaria;2020;304
+588;Mallasa;Inicial/Primaria;2020;484
+589;Mallasa;Inicial/Primaria/Secundaria;2020;842
+590;Centro;Inicial;2020;1169
+591;Centro;Primaria;2020;3668
+592;Centro;Secundaria;2020;12194
+593;Centro;Inicial/Primaria;2020;6220
+594;Centro;Primaria/Secundaria;2020;907
+595;Centro;Inicial/Primaria/Secundaria;2020;1618
+596;Centro;Centro Especial;2020;
+597;Hampaturi;Primaria;2020;
+598;Hampaturi;Inicial/Primaria;2020;162
+599;Hampaturi;Inicial/Primaria/Secundaria;2020;984
+600;Hampaturi;Primaria/Secundaria;2020;
+601;Zongo;Primaria;2020;
+602;Zongo;Secundaria;2020;43
+603;Zongo;Inicial/Primaria;2020;156
+604;Zongo;Primaria/Secundaria;2020;
+605;Zongo;Inicial/Primaria/Secundaria;2020;137
+606;Cotahuma;Inicial;2021;1942
+607;Cotahuma;Primaria;2021;3116
+608;Cotahuma;Secundaria;2021;7116
+609;Cotahuma;Inicial/Primaria;2021;6300
+610;Cotahuma;Primaria/Secundaria;2021;2818
+611;Cotahuma;Inicial/Primaria/Secundaria;2021;1607
+612;Cotahuma;Centro Especial;2021;
+613;Max Paredes;Inicial;2021;1472
+614;Max Paredes;Primaria;2021;4030
+615;Max Paredes;Secundaria;2021;5134
+616;Max Paredes;Inicial/Primaria;2021;3638
+617;Max Paredes;Primaria/Secundaria;2021;2965
+618;Max Paredes;Inicial/Primaria/Secundaria;2021;2796
+619;Max Paredes;Centro Especial;2021;
+620;Periférica;Inicial;2021;1753
+621;Periférica;Primaria;2021;3281
+622;Periférica;Secundaria;2021;8270
+623;Periférica;Inicial/Primaria;2021;7215
+624;Periférica;Primaria/Secundaria;2021;3402
+625;Periférica;Inicial/Primaria/Secundaria;2021;2819
+626;Periférica;Centro Especial;2021;
+627;San Antonio;Inicial;2021;508
+628;San Antonio;Primaria;2021;1519
+629;San Antonio;Secundaria;2021;4627
+630;San Antonio;Inicial/Primaria;2021;5170
+631;San Antonio;Primaria/Secundaria;2021;163
+632;San Antonio;Inicial/Primaria/Secundaria;2021;4105
+633;San Antonio;Inicial/Secundaria;2021;
+634;Sur;Inicial;2021;1185
+635;Sur;Primaria;2021;3948
+636;Sur;Secundaria;2021;7699
+637;Sur;Inicial/Primaria;2021;5184
+638;Sur;Primaria/Secundaria;2021;352
+639;Sur;Inicial/Primaria/Secundaria;2021;3160
+640;Sur;Centro Especial;2021;
+641;Sur;Inicial/Secundaria;2021;
+642;Mallasa;Secundaria;2021;288
+643;Mallasa;Inicial/Primaria;2021;474
+644;Mallasa;Inicial/Primaria/Secundaria;2021;899
+645;Centro;Inicial;2021;1156
+646;Centro;Primaria;2021;3787
+647;Centro;Secundaria;2021;13124
+648;Centro;Inicial/Primaria;2021;6498
+649;Centro;Primaria/Secundaria;2021;423
+650;Centro;Inicial/Primaria/Secundaria;2021;1828
+651;Centro;Centro Especial;2021;
+652;Hampaturi;Primaria;2021;
+653;Hampaturi;Inicial/Primaria;2021;181
+654;Hampaturi;Inicial/Primaria/Secundaria;2021;1017
+655;Hampaturi;Primaria/Secundaria;2021;
+656;Zongo;Primaria;2021;
+657;Zongo;Secundaria;2021;65
+658;Zongo;Inicial/Primaria;2021;218
+659;Zongo;Primaria/Secundaria;2021;
+660;Zongo;Inicial/Primaria/Secundaria;2021;129
+661;Cotahuma;Inicial;2022;1857
+662;Cotahuma;Primaria;2022;3011
+663;Cotahuma;Secundaria;2022;6962
+664;Cotahuma;Inicial/Primaria;2022;5951
+665;Cotahuma;Primaria/Secundaria;2022;2695
+666;Cotahuma;Inicial/Primaria/Secundaria;2022;1608
+667;Cotahuma;Centro Especial;2022;
+668;Max Paredes;Inicial;2022;1382
+669;Max Paredes;Primaria;2022;3839
+670;Max Paredes;Secundaria;2022;4863
+671;Max Paredes;Inicial/Primaria;2022;3446
+672;Max Paredes;Primaria/Secundaria;2022;2817
+673;Max Paredes;Inicial/Primaria/Secundaria;2022;2651
+674;Max Paredes;Centro Especial;2022;
+675;Periférica;Inicial;2022;1623
+676;Periférica;Primaria;2022;3652
+677;Periférica;Secundaria;2022;8440
+678;Periférica;Inicial/Primaria;2022;6923
+679;Periférica;Primaria/Secundaria;2022;2372
+680;Periférica;Inicial/Primaria/Secundaria;2022;2728
+681;Periférica;Centro Especial;2022;
+682;San Antonio;Inicial;2022;454
+683;San Antonio;Primaria;2022;1494
+684;San Antonio;Secundaria;2022;4538
+685;San Antonio;Inicial/Primaria;2022;4956
+686;San Antonio;Primaria/Secundaria;2022;180
+687;San Antonio;Inicial/Primaria/Secundaria;2022;4041
+688;San Antonio;Inicial/Secundaria;2022;
+689;Sur;Inicial;2022;1070
+690;Sur;Primaria;2022;3888
+691;Sur;Secundaria;2022;7592
+692;Sur;Inicial/Primaria;2022;5060
+693;Sur;Primaria/Secundaria;2022;303
+694;Sur;Inicial/Primaria/Secundaria;2022;3107
+695;Sur;Centro Especial;2022;
+696;Sur;Inicial/Secundaria;2022;
+697;Mallasa;Secundaria;2022;249
+698;Mallasa;Inicial/Primaria;2022;425
+699;Mallasa;Inicial/Primaria/Secundaria;2022;955
+700;Centro;Inicial;2022;1046
+701;Centro;Primaria;2022;4056
+702;Centro;Secundaria;2022;12385
+703;Centro;Inicial/Primaria;2022;6044
+704;Centro;Primaria/Secundaria;2022;327
+705;Centro;Inicial/Primaria/Secundaria;2022;1785
+706;Centro;Centro Especial;2022;
+707;Hampaturi;Primaria;2022;
+708;Hampaturi;Inicial/Primaria;2022;201
+709;Hampaturi;Inicial/Primaria/Secundaria;2022;1084
+710;Hampaturi;Primaria/Secundaria;2022;
+711;Zongo;Primaria;2022;
+712;Zongo;Secundaria;2022;62
+713;Zongo;Inicial/Primaria;2022;230
+714;Zongo;Primaria/Secundaria;2022;
+715;Zongo;Inicial/Primaria/Secundaria;2022;103
+716;Cotahuma;Inicial;2023;1701
+717;Cotahuma;Primaria;2023;2740
+718;Cotahuma;Secundaria;2023;6948
+719;Cotahuma;Inicial/Primaria;2023;6039
+720;Cotahuma;Primaria/Secundaria;2023;3002
+721;Cotahuma;Inicial/Primaria/Secundaria;2023;980
+722;Cotahuma;Centro Especial;2023;84
+723;Max Paredes;Inicial;2023;1333
+724;Max Paredes;Primaria;2023;3669
+725;Max Paredes;Secundaria;2023;4694
+726;Max Paredes;Inicial/Primaria;2023;3246
+727;Max Paredes;Primaria/Secundaria;2023;2679
+728;Max Paredes;Inicial/Primaria/Secundaria;2023;2555
+729;Max Paredes;Centro Especial;2023;45
+730;Periférica;Inicial;2023;1554
+731;Periférica;Primaria;2023;3596
+732;Periférica;Secundaria;2023;8545
+733;Periférica;Inicial/Primaria;2023;7186
+734;Periférica;Primaria/Secundaria;2023;2309
+735;Periférica;Inicial/Primaria/Secundaria;2023;2177
+736;Periférica;Centro Especial;2023;
+737;San Antonio;Inicial;2023;442
+738;San Antonio;Primaria;2023;2003
+739;San Antonio;Secundaria;2023;4285
+740;San Antonio;Inicial/Primaria;2023;5103
+741;San Antonio;Primaria/Secundaria;2023;189
+742;San Antonio;Inicial/Primaria/Secundaria;2023;3215
+743;San Antonio;Inicial/Secundaria;2023;282
+744;Sur;Inicial;2023;1048
+745;Sur;Primaria;2023;3742
+746;Sur;Secundaria;2023;7843
+747;Sur;Inicial/Primaria;2023;4813
+748;Sur;Primaria/Secundaria;2023;327
+749;Sur;Inicial/Primaria/Secundaria;2023;2935
+750;Sur;Centro Especial;2023;238
+751;Sur;Inicial/Secundaria;2023;
+752;Mallasa;Secundaria;2023;269
+753;Mallasa;Inicial/Primaria;2023;430
+754;Mallasa;Inicial/Primaria/Secundaria;2023;912
+755;Centro;Inicial;2023;987
+756;Centro;Primaria;2023;3954
+757;Centro;Secundaria;2023;12705
+758;Centro;Inicial/Primaria;2023;5671
+759;Centro;Primaria/Secundaria;2023;
+760;Centro;Inicial/Primaria/Secundaria;2023;1743
+761;Centro;Centro Especial;2023;144
+762;Hampaturi;Primaria;2023;
+763;Hampaturi;Inicial/Primaria;2023;290
+764;Hampaturi;Inicial/Primaria/Secundaria;2023;1029
+765;Hampaturi;Primaria/Secundaria;2023;
+766;Zongo;Primaria;2023;21
+767;Zongo;Secundaria;2023;67
+768;Zongo;Inicial/Primaria;2023;123
+769;Zongo;Primaria/Secundaria;2023;
+770;Zongo;Inicial/Primaria/Secundaria;2023;169
+771;Cotahuma;Inicial;2024;1643
+772;Cotahuma;Primaria;2024;2674
+773;Cotahuma;Secundaria;2024;7009
+774;Cotahuma;Inicial/Primaria;2024;5643
+775;Cotahuma;Primaria/Secundaria;2024;2969
+776;Cotahuma;Inicial/Primaria/Secundaria;2024;1015
+777;Cotahuma;Centro Especial;2024;30
+778;Max Paredes;Inicial;2024;1337
+779;Max Paredes;Primaria;2024;3695
+780;Max Paredes;Secundaria;2024;4679
+781;Max Paredes;Inicial/Primaria;2024;3256
+782;Max Paredes;Primaria/Secundaria;2024;2653
+783;Max Paredes;Inicial/Primaria/Secundaria;2024;2642
+784;Max Paredes;Centro Especial;2024;45
+785;Periférica;Inicial;2024;1541
+786;Periférica;Primaria;2024;3630
+787;Periférica;Secundaria;2024;8589
+788;Periférica;Inicial/Primaria;2024;6928
+789;Periférica;Primaria/Secundaria;2024;2328
+790;Periférica;Inicial/Primaria/Secundaria;2024;2186
+791;Periférica;Centro Especial;2024;
+792;San Antonio;Inicial;2024;473
+793;San Antonio;Primaria;2024;1725
+794;San Antonio;Secundaria;2024;4349
+795;San Antonio;Inicial/Primaria;2024;5105
+796;San Antonio;Primaria/Secundaria;2024;173
+797;San Antonio;Inicial/Primaria/Secundaria;2024;3417
+798;San Antonio;Inicial/Secundaria;2024;285
+799;Sur;Inicial;2024;1030
+800;Sur;Primaria;2024;3664
+801;Sur;Secundaria;2024;8723
+802;Sur;Inicial/Primaria;2024;4912
+803;Sur;Primaria/Secundaria;2024;327
+804;Sur;Inicial/Primaria/Secundaria;2024;1990
+805;Sur;Centro Especial;2024;253
+806;Sur;Inicial/Secundaria;2024;
+807;Mallasa;Secundaria;2024;273
+808;Mallasa;Inicial/Primaria;2024;434
+809;Mallasa;Inicial/Primaria/Secundaria;2024;920
+810;Centro;Inicial;2024;991
+811;Centro;Primaria;2024;3912
+812;Centro;Secundaria;2024;12734
+813;Centro;Inicial/Primaria;2024;5593
+814;Centro;Primaria/Secundaria;2024;
+815;Centro;Inicial/Primaria/Secundaria;2024;1683
+816;Centro;Centro Especial;2024;144
+817;Hampaturi;Primaria;2024;
+818;Hampaturi;Inicial/Primaria;2024;289
+819;Hampaturi;Inicial/Primaria/Secundaria;2024;1023
+820;Hampaturi;Primaria/Secundaria;2024;
+821;Zongo;Primaria;2024;25
+822;Zongo;Secundaria;2024;77
+823;Zongo;Inicial/Primaria;2024;118
+824;Zongo;Primaria/Secundaria;2024;
+825;Zongo;Inicial/Primaria/Secundaria;2024;193

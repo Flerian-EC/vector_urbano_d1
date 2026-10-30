@@ -1,0 +1,611 @@
+{
+  "name": "d1-base-digital-lapaz",
+  "title": "Activo de Datos: Línea Base Digital de La Paz (U4SSC Desafío 1)",
+  "description": "Línea base verificable de conectividad y capacidad digital del sector público para el Municipio de Nuestra Señora de La Paz (020101) bajo el estándar UIT-T Y.4903 U4SSC.",
+  "version": "1.0.0",
+  "licenses": [
+    {
+      "name": "CC-BY-SA-4.0",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "title": "Creative Commons Attribution Share Alike 4.0 International"
+    }
+  ],
+  "resources": [
+    {
+      "name": "cd_aprobaciones_por_dia_exitosas",
+      "path": "salida/cd_aprobaciones_por_dia_exitosas.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha",
+            "type": "string"
+          },
+          {
+            "name": "sistema",
+            "type": "string"
+          },
+          {
+            "name": "cantidad aprobados",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cd_autenticaciones_realizadas_exito_v2",
+      "path": "salida/cd_autenticaciones_realizadas_exito_v2.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "sistema",
+            "type": "string"
+          },
+          {
+            "name": "fecha",
+            "type": "string"
+          },
+          {
+            "name": "cantidad",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cd_autenticaciones_realizadas_exito_v2_x_sistema_year",
+      "path": "salida/cd_autenticaciones_realizadas_exito_v2_x_sistema_year.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "sistema",
+            "type": "string"
+          },
+          {
+            "name": "anio",
+            "type": "string"
+          },
+          {
+            "name": "cantidad",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cd_ciudadanos_por_dia_que_aprueban",
+      "path": "salida/cd_ciudadanos_por_dia_que_aprueban.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "nombre",
+            "type": "string"
+          },
+          {
+            "name": "fecha",
+            "type": "string"
+          },
+          {
+            "name": "numero",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cd_cuentas_activadas_entidad",
+      "path": "salida/cd_cuentas_activadas_entidad.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "nombre",
+            "type": "string"
+          },
+          {
+            "name": "fecha",
+            "type": "string"
+          },
+          {
+            "name": "count",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cd_operadores_registro_entidad_1",
+      "path": "salida/cd_operadores_registro_entidad-1.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "nombre",
+            "type": "string"
+          },
+          {
+            "name": "cantidad_operadores",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cd_preregistros_portal_aplicacion_v1",
+      "path": "salida/cd_preregistros_portal_aplicacion_v1.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha_creacion",
+            "type": "string"
+          },
+          {
+            "name": "total",
+            "type": "string"
+          },
+          {
+            "name": "cantidad_movil",
+            "type": "string"
+          },
+          {
+            "name": "cantidad_web",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cd_preregistros_portal_aplicacion_v2",
+      "path": "salida/cd_preregistros_portal_aplicacion_v2.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha_creacion",
+            "type": "string"
+          },
+          {
+            "name": "total",
+            "type": "string"
+          },
+          {
+            "name": "cantidad_movil",
+            "type": "string"
+          },
+          {
+            "name": "cantidad_web",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cd_registros_firmados",
+      "path": "salida/cd_registros_firmados.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha",
+            "type": "string"
+          },
+          {
+            "name": "count",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "censo_conectividad_lapaz",
+      "path": "salida/censo_conectividad_lapaz.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "codigo_municipio",
+            "type": "string"
+          },
+          {
+            "name": "municipio",
+            "type": "string"
+          },
+          {
+            "name": "gestion_censo",
+            "type": "string"
+          },
+          {
+            "name": "poblacion_total",
+            "type": "string"
+          },
+          {
+            "name": "total_viviendas",
+            "type": "string"
+          },
+          {
+            "name": "hogares_particulares_ocupados",
+            "type": "string"
+          },
+          {
+            "name": "hogares_con_internet",
+            "type": "string"
+          },
+          {
+            "name": "pct_acceso_internet",
+            "type": "string"
+          },
+          {
+            "name": "hogares_banda_ancha_fija",
+            "type": "string"
+          },
+          {
+            "name": "pct_banda_ancha_fija",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "fibra_optica_depurado",
+      "path": "salida/fibra_optica_depurado.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "N",
+            "type": "string"
+          },
+          {
+            "name": "Departamento",
+            "type": "string"
+          },
+          {
+            "name": "Provincia",
+            "type": "string"
+          },
+          {
+            "name": "Municipio",
+            "type": "string"
+          },
+          {
+            "name": "Localidad",
+            "type": "string"
+          },
+          {
+            "name": "Observaciones",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "gamlp_certificaciones_catastro",
+      "path": "salida/gamlp_certificaciones_catastro.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "gestion",
+            "type": "string"
+          },
+          {
+            "name": "total_certificaciones_catastrales",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "gamlp_datos_abiertos_inventario",
+      "path": "salida/gamlp_datos_abiertos_inventario.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "id_dataset",
+            "type": "string"
+          },
+          {
+            "name": "titulo",
+            "type": "string"
+          },
+          {
+            "name": "descripcion",
+            "type": "string"
+          },
+          {
+            "name": "unidad_productora",
+            "type": "string"
+          },
+          {
+            "name": "periodicidad",
+            "type": "string"
+          },
+          {
+            "name": "version",
+            "type": "string"
+          },
+          {
+            "name": "fecha_registro",
+            "type": "string"
+          },
+          {
+            "name": "fecha_actualizacion",
+            "type": "string"
+          },
+          {
+            "name": "estado",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "gamlp_seguridad_internet_modulos",
+      "path": "salida/gamlp_seguridad_internet_modulos.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "gestion",
+            "type": "string"
+          },
+          {
+            "name": "conexiones_internet_policiales",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "gamlp_tramites_verificados",
+      "path": "salida/gamlp_tramites_verificados.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "id_tramite",
+            "type": "string"
+          },
+          {
+            "name": "nombre",
+            "type": "string"
+          },
+          {
+            "name": "estado",
+            "type": "string"
+          },
+          {
+            "name": "slug",
+            "type": "string"
+          },
+          {
+            "name": "tipo_canal",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "kioscos_electronicos_depurado",
+      "path": "salida/kioscos_electronicos_depurado.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "N",
+            "type": "string"
+          },
+          {
+            "name": "Departamento",
+            "type": "string"
+          },
+          {
+            "name": "Provincia",
+            "type": "string"
+          },
+          {
+            "name": "Municipio",
+            "type": "string"
+          },
+          {
+            "name": "Localidad",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "lineas_telefonicas_fijas_depurado",
+      "path": "salida/lineas_telefonicas_fijas_depurado.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "DESCRIPCION",
+            "type": "string"
+          },
+          {
+            "name": "1996",
+            "type": "string"
+          },
+          {
+            "name": "1997",
+            "type": "string"
+          },
+          {
+            "name": "1998",
+            "type": "string"
+          },
+          {
+            "name": "1999",
+            "type": "string"
+          },
+          {
+            "name": "2000",
+            "type": "string"
+          },
+          {
+            "name": "2001",
+            "type": "string"
+          },
+          {
+            "name": "2002",
+            "type": "string"
+          },
+          {
+            "name": "2003",
+            "type": "string"
+          },
+          {
+            "name": "2004",
+            "type": "string"
+          },
+          {
+            "name": "2005",
+            "type": "string"
+          },
+          {
+            "name": "2006",
+            "type": "string"
+          },
+          {
+            "name": "2007",
+            "type": "string"
+          },
+          {
+            "name": "2008",
+            "type": "string"
+          },
+          {
+            "name": "2009",
+            "type": "string"
+          },
+          {
+            "name": "2010",
+            "type": "string"
+          },
+          {
+            "name": "2011",
+            "type": "string"
+          },
+          {
+            "name": "2012",
+            "type": "string"
+          },
+          {
+            "name": "2013",
+            "type": "string"
+          },
+          {
+            "name": "2014",
+            "type": "string"
+          },
+          {
+            "name": "2015",
+            "type": "string"
+          },
+          {
+            "name": "2016",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "matriz_indicadores_u4ssc_d1",
+      "path": "salida/matriz_indicadores_u4ssc_d1.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "id_indicador",
+            "type": "string"
+          },
+          {
+            "name": "codigo_u4ssc",
+            "type": "string"
+          },
+          {
+            "name": "nombre_indicador",
+            "type": "string"
+          },
+          {
+            "name": "dimension_u4ssc",
+            "type": "string"
+          },
+          {
+            "name": "tipo_indicador",
+            "type": "string"
+          },
+          {
+            "name": "gestion_periodo",
+            "type": "string"
+          },
+          {
+            "name": "numerador_descripcion",
+            "type": "string"
+          },
+          {
+            "name": "numerador_valor",
+            "type": "string"
+          },
+          {
+            "name": "denominador_descripcion",
+            "type": "string"
+          },
+          {
+            "name": "denominador_valor",
+            "type": "string"
+          },
+          {
+            "name": "metrica_resultado",
+            "type": "string"
+          },
+          {
+            "name": "unidad_medida",
+            "type": "string"
+          },
+          {
+            "name": "fuente_primaria",
+            "type": "string"
+          },
+          {
+            "name": "responsable_dato",
+            "type": "string"
+          },
+          {
+            "name": "estado_madurez",
+            "type": "string"
+          },
+          {
+            "name": "brecha_identificada",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}

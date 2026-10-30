@@ -1,0 +1,1225 @@
+﻿id;MACRODISTRITO;ACTIVIDAD ECONÓMICA;SEXO;AÑO;OCUPACIÓN PRINCIPAL (En porcentaje)
+1;Cotahuma ;Agricultura, ganadería y caza;HOMBRES;1992;1,4
+2;Cotahuma ;Agricultura, ganadería y caza;MUJERES;1992;0,6
+3;Cotahuma ;Silvicultura y pesca;HOMBRES;1992;0
+4;Cotahuma ;Silvicultura y pesca;MUJERES;1992;0
+5;Cotahuma ;Explotación de minas y canteras;HOMBRES;1992;1,2
+6;Cotahuma ;Explotación de minas y canteras;MUJERES;1992;0,2
+7;Cotahuma ;Industria manufacturera;HOMBRES;1992;22,5
+8;Cotahuma ;Industria manufacturera;MUJERES;1992;8,9
+9;Cotahuma ;Producción y distribución de electricidad, gas y agua;HOMBRES;1992;0,4
+10;Cotahuma ;Producción y distribución de electricidad, gas y agua;MUJERES;1992;0,1
+11;Cotahuma ;Construcción;HOMBRES;1992;10,8
+12;Cotahuma ;Construcción;MUJERES;1992;0,7
+13;Cotahuma ;Venta y reparaciones;HOMBRES;1992;14,5
+14;Cotahuma ;Venta y reparaciones;MUJERES;1992;19,2
+15;Cotahuma ;Hoteles y restaurantes;HOMBRES;1992;2,9
+16;Cotahuma ;Hoteles y restaurantes;MUJERES;1992;4,1
+17;Cotahuma ;Transporte, almacenamiento, comunicaciones;HOMBRES;1992;10,7
+18;Cotahuma ;Transporte, almacenamiento, comunicaciones;MUJERES;1992;2
+19;Cotahuma ;Intermediación financiera;HOMBRES;1992;2,1
+20;Cotahuma ;Intermediación financiera;MUJERES;1992;1,9
+21;Cotahuma ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;1992;8,5
+22;Cotahuma ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;1992;6,3
+23;Cotahuma ;Administración pública, defensa y seguridad social;HOMBRES;1992;11,3
+24;Cotahuma ;Administración pública, defensa y seguridad social;MUJERES;1992;5,6
+25;Cotahuma ;Educación;HOMBRES;1992;4,9
+26;Cotahuma ;Educación;MUJERES;1992;10
+27;Cotahuma ;Servicios sociales y de salud;HOMBRES;1992;2,4
+28;Cotahuma ;Servicios sociales y de salud;MUJERES;1992;4,7
+29;Cotahuma ;Servicios comunitarios y personales;HOMBRES;1992;5,7
+30;Cotahuma ;Servicios comunitarios y personales;MUJERES;1992;8,8
+31;Cotahuma ;Hogares privados;HOMBRES;1992;0,5
+32;Cotahuma ;Hogares privados;MUJERES;1992;26,2
+33;Cotahuma ;Organismos extraterritoriales;HOMBRES;1992;0,5
+34;Cotahuma ;Organismos extraterritoriales;MUJERES;1992;0,8
+35;Max Paredes ;Agricultura, ganadería y caza;HOMBRES;1992;1,9
+36;Max Paredes ;Agricultura, ganadería y caza;MUJERES;1992;0,9
+37;Max Paredes ;Silvicultura y pesca;HOMBRES;1992;0
+38;Max Paredes ;Silvicultura y pesca;MUJERES;1992;0
+39;Max Paredes ;Explotación de minas y canteras;HOMBRES;1992;0,9
+40;Max Paredes ;Explotación de minas y canteras;MUJERES;1992;0,1
+41;Max Paredes ;Industria manufacturera;HOMBRES;1992;26,8
+42;Max Paredes ;Industria manufacturera;MUJERES;1992;13
+43;Max Paredes ;Producción y distribución de electricidad, gas y agua;HOMBRES;1992;0,4
+44;Max Paredes ;Producción y distribución de electricidad, gas y agua;MUJERES;1992;0
+45;Max Paredes ;Construcción;HOMBRES;1992;10,4
+46;Max Paredes ;Construcción;MUJERES;1992;0,3
+47;Max Paredes ;Venta y reparaciones;HOMBRES;1992;9,8
+48;Max Paredes ;Venta y reparaciones;MUJERES;1992;7,1
+49;Max Paredes ;Hoteles y restaurantes;HOMBRES;1992;0,7
+50;Max Paredes ;Hoteles y restaurantes;MUJERES;1992;2,1
+51;Max Paredes ;Transporte, almacenamiento, comunicaciones;HOMBRES;1992;13,7
+52;Max Paredes ;Transporte, almacenamiento, comunicaciones;MUJERES;1992;0,8
+53;Max Paredes ;Intermediación financiera;HOMBRES;1992;0,8
+54;Max Paredes ;Intermediación financiera;MUJERES;1992;0,3
+55;Max Paredes ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;1992;4,4
+56;Max Paredes ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;1992;2,4
+57;Max Paredes ;Administración pública, defensa y seguridad social;HOMBRES;1992;5,6
+58;Max Paredes ;Administración pública, defensa y seguridad social;MUJERES;1992;2,5
+59;Max Paredes ;Educación;HOMBRES;1992;4,4
+60;Max Paredes ;Educación;MUJERES;1992;8,1
+61;Max Paredes ;Servicios sociales y de salud;HOMBRES;1992;1,3
+62;Max Paredes ;Servicios sociales y de salud;MUJERES;1992;2,9
+63;Max Paredes ;Servicios comunitarios y personales;HOMBRES;1992;18,2
+64;Max Paredes ;Servicios comunitarios y personales;MUJERES;1992;45
+65;Max Paredes ;Hogares privados;HOMBRES;1992;0,5
+66;Max Paredes ;Hogares privados;MUJERES;1992;14,2
+67;Max Paredes ;Organismos extraterritoriales;HOMBRES;1992;0,1
+68;Max Paredes ;Organismos extraterritoriales;MUJERES;1992;0,1
+69;Periférica;Agricultura, ganadería y caza;HOMBRES;1992;1,8
+70;Periférica;Agricultura, ganadería y caza;MUJERES;1992;1,3
+71;Periférica;Silvicultura y pesca;HOMBRES;1992;0,1
+72;Periférica;Silvicultura y pesca;MUJERES;1992;0,1
+73;Periférica;Explotación de minas y canteras;HOMBRES;1992;2
+74;Periférica;Explotación de minas y canteras;MUJERES;1992;0,4
+75;Periférica;Industria manufacturera;HOMBRES;1992;21,8
+76;Periférica;Industria manufacturera;MUJERES;1992;11,1
+77;Periférica;Producción y distribución de electricidad, gas y agua;HOMBRES;1992;0,7
+78;Periférica;Producción y distribución de electricidad, gas y agua;MUJERES;1992;0,1
+79;Periférica;Construcción;HOMBRES;1992;11,4
+80;Periférica;Construcción;MUJERES;1992;0,7
+81;Periférica;Venta y reparaciones;HOMBRES;1992;13,6
+82;Periférica;Venta y reparaciones;MUJERES;1992;22
+83;Periférica;Hoteles y restaurantes;HOMBRES;1992;3,2
+84;Periférica;Hoteles y restaurantes;MUJERES;1992;4,3
+85;Periférica;Transporte, almacenamiento, comunicaciones;HOMBRES;1992;13,2
+86;Periférica;Transporte, almacenamiento, comunicaciones;MUJERES;1992;2,1
+87;Periférica;Intermediación financiera;HOMBRES;1992;1,7
+88;Periférica;Intermediación financiera;MUJERES;1992;1,1
+89;Periférica;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;1992;6,6
+90;Periférica;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;1992;5,1
+91;Periférica;Administración pública, defensa y seguridad social;HOMBRES;1992;12,3
+92;Periférica;Administración pública, defensa y seguridad social;MUJERES;1992;7,3
+93;Periférica;Educación;HOMBRES;1992;5
+94;Periférica;Educación;MUJERES;1992;12,7
+95;Periférica;Servicios sociales y de salud;HOMBRES;1992;2,1
+96;Periférica;Servicios sociales y de salud;MUJERES;1992;5,6
+97;Periférica;Servicios comunitarios y personales;HOMBRES;1992;3,8
+98;Periférica;Servicios comunitarios y personales;MUJERES;1992;5,7
+99;Periférica;Hogares privados;HOMBRES;1992;0,5
+100;Periférica;Hogares privados;MUJERES;1992;20,1
+101;Periférica;Organismos extraterritoriales;HOMBRES;1992;0,3
+102;Periférica;Organismos extraterritoriales;MUJERES;1992;0,3
+103;San Antonio ;Agricultura, ganadería y caza;HOMBRES;1992;2,4
+104;San Antonio ;Agricultura, ganadería y caza;MUJERES;1992;1,8
+105;San Antonio ;Silvicultura y pesca;HOMBRES;1992;0
+106;San Antonio ;Silvicultura y pesca;MUJERES;1992;0,1
+107;San Antonio ;Explotación de minas y canteras;HOMBRES;1992;1,7
+108;San Antonio ;Explotación de minas y canteras;MUJERES;1992;0,3
+109;San Antonio ;Industria manufacturera;HOMBRES;1992;19,1
+110;San Antonio ;Industria manufacturera;MUJERES;1992;9,6
+111;San Antonio ;Producción y distribución de electricidad, gas y agua;HOMBRES;1992;0,7
+112;San Antonio ;Producción y distribución de electricidad, gas y agua;MUJERES;1992;0,1
+113;San Antonio ;Construcción;HOMBRES;1992;14,8
+114;San Antonio ;Construcción;MUJERES;1992;0,8
+115;San Antonio ;Venta y reparaciones;HOMBRES;1992;11,5
+116;San Antonio ;Venta y reparaciones;MUJERES;1992;13
+117;San Antonio ;Hoteles y restaurantes;HOMBRES;1992;1,9
+118;San Antonio ;Hoteles y restaurantes;MUJERES;1992;3,6
+119;San Antonio ;Transporte, almacenamiento, comunicaciones;HOMBRES;1992;13,4
+120;San Antonio ;Transporte, almacenamiento, comunicaciones;MUJERES;1992;1,3
+121;San Antonio ;Intermediación financiera;HOMBRES;1992;1,5
+122;San Antonio ;Intermediación financiera;MUJERES;1992;1
+123;San Antonio ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;1992;5,9
+124;San Antonio ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;1992;3,5
+125;San Antonio ;Administración pública, defensa y seguridad social;HOMBRES;1992;8,5
+126;San Antonio ;Administración pública, defensa y seguridad social;MUJERES;1992;5,5
+127;San Antonio ;Educación;HOMBRES;1992;5,7
+128;San Antonio ;Educación;MUJERES;1992;13,1
+129;San Antonio ;Servicios sociales y de salud;HOMBRES;1992;2,3
+130;San Antonio ;Servicios sociales y de salud;MUJERES;1992;6,1
+131;San Antonio ;Servicios comunitarios y personales;HOMBRES;1992;10
+132;San Antonio ;Servicios comunitarios y personales;MUJERES;1992;22,5
+133;San Antonio ;Hogares privados;HOMBRES;1992;0,5
+134;San Antonio ;Hogares privados;MUJERES;1992;17,5
+135;San Antonio ;Organismos extraterritoriales;HOMBRES;1992;0,2
+136;San Antonio ;Organismos extraterritoriales;MUJERES;1992;0,1
+137;Sur ;Agricultura, ganadería y caza;HOMBRES;1992;2,1
+138;Sur ;Agricultura, ganadería y caza;MUJERES;1992;1
+139;Sur ;Silvicultura y pesca;HOMBRES;1992;0,1
+140;Sur ;Silvicultura y pesca;MUJERES;1992;0,1
+141;Sur ;Explotación de minas y canteras;HOMBRES;1992;1,9
+142;Sur ;Explotación de minas y canteras;MUJERES;1992;0,4
+143;Sur ;Industria manufacturera;HOMBRES;1992;11,3
+144;Sur ;Industria manufacturera;MUJERES;1992;4,9
+145;Sur ;Producción y distribución de electricidad, gas y agua;HOMBRES;1992;0,5
+146;Sur ;Producción y distribución de electricidad, gas y agua;MUJERES;1992;0,1
+147;Sur ;Construcción;HOMBRES;1992;20,2
+148;Sur ;Construcción;MUJERES;1992;0,8
+149;Sur ;Venta y reparaciones;HOMBRES;1992;8,4
+150;Sur ;Venta y reparaciones;MUJERES;1992;3,9
+151;Sur ;Hoteles y restaurantes;HOMBRES;1992;0,5
+152;Sur ;Hoteles y restaurantes;MUJERES;1992;1,1
+153;Sur ;Transporte, almacenamiento, comunicaciones;HOMBRES;1992;9,5
+154;Sur ;Transporte, almacenamiento, comunicaciones;MUJERES;1992;2,1
+155;Sur ;Intermediación financiera;HOMBRES;1992;3
+156;Sur ;Intermediación financiera;MUJERES;1992;2,1
+157;Sur ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;1992;10,7
+158;Sur ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;1992;5,5
+159;Sur ;Administración pública, defensa y seguridad social;HOMBRES;1992;8,3
+160;Sur ;Administración pública, defensa y seguridad social;MUJERES;1992;3,6
+161;Sur ;Educación;HOMBRES;1992;4,3
+162;Sur ;Educación;MUJERES;1992;8
+163;Sur ;Servicios sociales y de salud;HOMBRES;1992;3,7
+164;Sur ;Servicios sociales y de salud;MUJERES;1992;3,8
+165;Sur ;Servicios comunitarios y personales;HOMBRES;1992;11,9
+166;Sur ;Servicios comunitarios y personales;MUJERES;1992;15
+167;Sur ;Hogares privados;HOMBRES;1992;2,9
+168;Sur ;Hogares privados;MUJERES;1992;46,5
+169;Sur ;Organismos extraterritoriales;HOMBRES;1992;0,8
+170;Sur ;Organismos extraterritoriales;MUJERES;1992;1
+171;Mallasa ;Agricultura, ganadería y caza;HOMBRES;1992;11
+172;Mallasa ;Agricultura, ganadería y caza;MUJERES;1992;19,3
+173;Mallasa ;Silvicultura y pesca;HOMBRES;1992;0,2
+174;Mallasa ;Silvicultura y pesca;MUJERES;1992;0,3
+175;Mallasa ;Explotación de minas y canteras;HOMBRES;1992;2,1
+176;Mallasa ;Explotación de minas y canteras;MUJERES;1992;0,1
+177;Mallasa ;Industria manufacturera;HOMBRES;1992;8,9
+178;Mallasa ;Industria manufacturera;MUJERES;1992;4,1
+179;Mallasa ;Producción y distribución de electricidad, gas y agua;HOMBRES;1992;0,2
+180;Mallasa ;Producción y distribución de electricidad, gas y agua;MUJERES;1992;0,1
+181;Mallasa ;Construcción;HOMBRES;1992;22,5
+182;Mallasa ;Construcción;MUJERES;1992;1,1
+183;Mallasa ;Venta y reparaciones;HOMBRES;1992;7,8
+184;Mallasa ;Venta y reparaciones;MUJERES;1992;2,4
+185;Mallasa ;Hoteles y restaurantes;HOMBRES;1992;0,8
+186;Mallasa ;Hoteles y restaurantes;MUJERES;1992;0,4
+187;Mallasa ;Transporte, almacenamiento, comunicaciones;HOMBRES;1992;11,7
+188;Mallasa ;Transporte, almacenamiento, comunicaciones;MUJERES;1992;0,8
+189;Mallasa ;Intermediación financiera;HOMBRES;1992;2,3
+190;Mallasa ;Intermediación financiera;MUJERES;1992;1,1
+191;Mallasa ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;1992;6,4
+192;Mallasa ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;1992;3,1
+193;Mallasa ;Administración pública, defensa y seguridad social;HOMBRES;1992;4,1
+194;Mallasa ;Administración pública, defensa y seguridad social;MUJERES;1992;1,9
+195;Mallasa ;Educación;HOMBRES;1992;2,8
+196;Mallasa ;Educación;MUJERES;1992;3,7
+197;Mallasa ;Servicios sociales y de salud;HOMBRES;1992;1,4
+198;Mallasa ;Servicios sociales y de salud;MUJERES;1992;2,4
+199;Mallasa ;Servicios comunitarios y personales;HOMBRES;1992;10,2
+200;Mallasa ;Servicios comunitarios y personales;MUJERES;1992;15,1
+201;Mallasa ;Hogares privados;HOMBRES;1992;6,6
+202;Mallasa ;Hogares privados;MUJERES;1992;43
+203;Mallasa ;Organismos extraterritoriales;HOMBRES;1992;0,9
+204;Mallasa ;Organismos extraterritoriales;MUJERES;1992;1,1
+205;Centro ;Agricultura, ganadería y caza;HOMBRES;1992;1,4
+206;Centro ;Agricultura, ganadería y caza;MUJERES;1992;0,3
+207;Centro ;Silvicultura y pesca;HOMBRES;1992;0,1
+208;Centro ;Silvicultura y pesca;MUJERES;1992;0
+209;Centro ;Explotación de minas y canteras;HOMBRES;1992;1,9
+210;Centro ;Explotación de minas y canteras;MUJERES;1992;0,4
+211;Centro ;Industria manufacturera;HOMBRES;1992;10,3
+212;Centro ;Industria manufacturera;MUJERES;1992;5,1
+213;Centro ;Producción y distribución de electricidad, gas y agua;HOMBRES;1992;0,5
+214;Centro ;Producción y distribución de electricidad, gas y agua;MUJERES;1992;0,2
+215;Centro ;Construcción;HOMBRES;1992;4,6
+216;Centro ;Construcción;MUJERES;1992;0,7
+217;Centro ;Venta y reparaciones;HOMBRES;1992;12,9
+218;Centro ;Venta y reparaciones;MUJERES;1992;11,3
+219;Centro ;Hoteles y restaurantes;HOMBRES;1992;3,8
+220;Centro ;Hoteles y restaurantes;MUJERES;1992;3,5
+221;Centro ;Transporte, almacenamiento, comunicaciones;HOMBRES;1992;7,5
+222;Centro ;Transporte, almacenamiento, comunicaciones;MUJERES;1992;2,8
+223;Centro ;Intermediación financiera;HOMBRES;1992;3,6
+224;Centro ;Intermediación financiera;MUJERES;1992;2,7
+225;Centro ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;1992;12,6
+226;Centro ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;1992;7,1
+227;Centro ;Administración pública, defensa y seguridad social;HOMBRES;1992;17,5
+228;Centro ;Administración pública, defensa y seguridad social;MUJERES;1992;6,9
+229;Centro ;Educación;HOMBRES;1992;6,8
+230;Centro ;Educación;MUJERES;1992;11,4
+231;Centro ;Servicios sociales y de salud;HOMBRES;1992;6,1
+232;Centro ;Servicios sociales y de salud;MUJERES;1992;7,8
+233;Centro ;Servicios comunitarios y personales;HOMBRES;1992;8,7
+234;Centro ;Servicios comunitarios y personales;MUJERES;1992;6,5
+235;Centro ;Hogares privados;HOMBRES;1992;1
+236;Centro ;Hogares privados;MUJERES;1992;32,4
+237;Centro ;Organismos extraterritoriales;HOMBRES;1992;0,7
+238;Centro ;Organismos extraterritoriales;MUJERES;1992;0,9
+239;Hampaturi;Agricultura, ganadería y caza;HOMBRES;1992;46,2
+240;Hampaturi;Agricultura, ganadería y caza;MUJERES;1992;83,5
+241;Hampaturi;Silvicultura y pesca;HOMBRES;1992;0
+242;Hampaturi;Silvicultura y pesca;MUJERES;1992;0
+243;Hampaturi;Explotación de minas y canteras;HOMBRES;1992;2,5
+244;Hampaturi;Explotación de minas y canteras;MUJERES;1992;0
+245;Hampaturi;Industria manufacturera;HOMBRES;1992;0,8
+246;Hampaturi;Industria manufacturera;MUJERES;1992;0
+247;Hampaturi;Producción y distribución de electricidad, gas y agua;HOMBRES;1992;25,8
+248;Hampaturi;Producción y distribución de electricidad, gas y agua;MUJERES;1992;3,1
+249;Hampaturi;Construcción;HOMBRES;1992;18,2
+250;Hampaturi;Construcción;MUJERES;1992;2,1
+251;Hampaturi;Venta y reparaciones;HOMBRES;1992;0,8
+252;Hampaturi;Venta y reparaciones;MUJERES;1992;4,1
+253;Hampaturi;Hoteles y restaurantes;HOMBRES;1992;0
+254;Hampaturi;Hoteles y restaurantes;MUJERES;1992;2,1
+255;Hampaturi;Transporte, almacenamiento, comunicaciones;HOMBRES;1992;1,7
+256;Hampaturi;Transporte, almacenamiento, comunicaciones;MUJERES;1992;0
+257;Hampaturi;Intermediación financiera;HOMBRES;1992;0
+258;Hampaturi;Intermediación financiera;MUJERES;1992;0
+259;Hampaturi;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;1992;1,3
+260;Hampaturi;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;1992;1
+261;Hampaturi;Administración pública, defensa y seguridad social;HOMBRES;1992;0
+262;Hampaturi;Administración pública, defensa y seguridad social;MUJERES;1992;0
+263;Hampaturi;Educación;HOMBRES;1992;1,3
+264;Hampaturi;Educación;MUJERES;1992;2,1
+265;Hampaturi;Servicios sociales y de salud;HOMBRES;1992;0
+266;Hampaturi;Servicios sociales y de salud;MUJERES;1992;0
+267;Hampaturi;Servicios comunitarios y personales;HOMBRES;1992;1,3
+268;Hampaturi;Servicios comunitarios y personales;MUJERES;1992;0
+269;Hampaturi;Hogares privados;HOMBRES;1992;0
+270;Hampaturi;Hogares privados;MUJERES;1992;2,1
+271;Hampaturi;Organismos extraterritoriales;HOMBRES;1992;0
+272;Hampaturi;Organismos extraterritoriales;MUJERES;1992;0
+273;Zongo ;Agricultura, ganadería y caza;HOMBRES;1992;61,9
+274;Zongo ;Agricultura, ganadería y caza;MUJERES;1992;81,6
+275;Zongo ;Silvicultura y pesca;HOMBRES;1992;0,8
+276;Zongo ;Silvicultura y pesca;MUJERES;1992;0
+277;Zongo ;Explotación de minas y canteras;HOMBRES;1992;4,5
+278;Zongo ;Explotación de minas y canteras;MUJERES;1992;2,3
+279;Zongo ;Industria manufacturera;HOMBRES;1992;1,4
+280;Zongo ;Industria manufacturera;MUJERES;1992;1,1
+281;Zongo ;Producción y distribución de electricidad, gas y agua;HOMBRES;1992;25,6
+282;Zongo ;Producción y distribución de electricidad, gas y agua;MUJERES;1992;9,2
+283;Zongo ;Construcción;HOMBRES;1992;1,8
+284;Zongo ;Construcción;MUJERES;1992;0
+285;Zongo ;Venta y reparaciones;HOMBRES;1992;0,6
+286;Zongo ;Venta y reparaciones;MUJERES;1992;0,6
+287;Zongo ;Hoteles y restaurantes;HOMBRES;1992;0
+288;Zongo ;Hoteles y restaurantes;MUJERES;1992;0
+289;Zongo ;Transporte, almacenamiento, comunicaciones;HOMBRES;1992;1
+290;Zongo ;Transporte, almacenamiento, comunicaciones;MUJERES;1992;0
+291;Zongo ;Intermediación financiera;HOMBRES;1992;0
+292;Zongo ;Intermediación financiera;MUJERES;1992;0
+293;Zongo ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;1992;0,4
+294;Zongo ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;1992;0
+295;Zongo ;Administración pública, defensa y seguridad social;HOMBRES;1992;0
+296;Zongo ;Administración pública, defensa y seguridad social;MUJERES;1992;0
+297;Zongo ;Educación;HOMBRES;1992;2
+298;Zongo ;Educación;MUJERES;1992;1,7
+299;Zongo ;Servicios sociales y de salud;HOMBRES;1992;0
+300;Zongo ;Servicios sociales y de salud;MUJERES;1992;0
+301;Zongo ;Servicios comunitarios y personales;HOMBRES;1992;0
+302;Zongo ;Servicios comunitarios y personales;MUJERES;1992;0
+303;Zongo ;Hogares privados;HOMBRES;1992;0
+304;Zongo ;Hogares privados;MUJERES;1992;3,4
+305;Zongo ;Organismos extraterritoriales;HOMBRES;1992;0
+306;Zongo ;Organismos extraterritoriales;MUJERES;1992;0
+307;Cotahuma ;Agricultura, ganadería y caza;HOMBRES;2001;1,1
+308;Cotahuma ;Agricultura, ganadería y caza;MUJERES;2001;0,7
+309;Cotahuma ;Silvicultura y pesca;HOMBRES;2001;0
+310;Cotahuma ;Silvicultura y pesca;MUJERES;2001;0
+311;Cotahuma ;Explotación de minas y canteras;HOMBRES;2001;0,5
+312;Cotahuma ;Explotación de minas y canteras;MUJERES;2001;0,1
+313;Cotahuma ;Industria manufacturera;HOMBRES;2001;18,9
+314;Cotahuma ;Industria manufacturera;MUJERES;2001;9,6
+315;Cotahuma ;Producción y distribución de electricidad, gas y agua;HOMBRES;2001;0,5
+316;Cotahuma ;Producción y distribución de electricidad, gas y agua;MUJERES;2001;0,1
+317;Cotahuma ;Construcción;HOMBRES;2001;9
+318;Cotahuma ;Construcción;MUJERES;2001;0,5
+319;Cotahuma ;Venta y reparaciones;HOMBRES;2001;19,4
+320;Cotahuma ;Venta y reparaciones;MUJERES;2001;32,8
+321;Cotahuma ;Hoteles y restaurantes;HOMBRES;2001;3,9
+322;Cotahuma ;Hoteles y restaurantes;MUJERES;2001;8,4
+323;Cotahuma ;Transporte, almacenamiento, comunicaciones;HOMBRES;2001;13,2
+324;Cotahuma ;Transporte, almacenamiento, comunicaciones;MUJERES;2001;2,1
+325;Cotahuma ;Intermediación financiera;HOMBRES;2001;1,8
+326;Cotahuma ;Intermediación financiera;MUJERES;2001;1,6
+327;Cotahuma ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2001;10,4
+328;Cotahuma ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2001;5,7
+329;Cotahuma ;Administración pública, defensa y seguridad social;HOMBRES;2001;6,9
+330;Cotahuma ;Administración pública, defensa y seguridad social;MUJERES;2001;4,2
+331;Cotahuma ;Educación;HOMBRES;2001;5,8
+332;Cotahuma ;Educación;MUJERES;2001;8,2
+333;Cotahuma ;Servicios sociales y de salud;HOMBRES;2001;2,8
+334;Cotahuma ;Servicios sociales y de salud;MUJERES;2001;5,1
+335;Cotahuma ;Servicios comunitarios y personales;HOMBRES;2001;5
+336;Cotahuma ;Servicios comunitarios y personales;MUJERES;2001;5,7
+337;Cotahuma ;Hogares privados;HOMBRES;2001;0,4
+338;Cotahuma ;Hogares privados;MUJERES;2001;14,9
+339;Cotahuma ;Organismos extraterritoriales;HOMBRES;2001;0,3
+340;Cotahuma ;Organismos extraterritoriales;MUJERES;2001;0,4
+341;Max Paredes ;Agricultura, ganadería y caza;HOMBRES;2001;1,1
+342;Max Paredes ;Agricultura, ganadería y caza;MUJERES;2001;0,7
+343;Max Paredes ;Silvicultura y pesca;HOMBRES;2001;0
+344;Max Paredes ;Silvicultura y pesca;MUJERES;2001;0
+345;Max Paredes ;Explotación de minas y canteras;HOMBRES;2001;0,2
+346;Max Paredes ;Explotación de minas y canteras;MUJERES;2001;0
+347;Max Paredes ;Industria manufacturera;HOMBRES;2001;24,2
+348;Max Paredes ;Industria manufacturera;MUJERES;2001;12,3
+349;Max Paredes ;Producción y distribución de electricidad, gas y agua;HOMBRES;2001;0,5
+350;Max Paredes ;Producción y distribución de electricidad, gas y agua;MUJERES;2001;0
+351;Max Paredes ;Construcción;HOMBRES;2001;7,8
+352;Max Paredes ;Construcción;MUJERES;2001;0,3
+353;Max Paredes ;Venta y reparaciones;HOMBRES;2001;22,3
+354;Max Paredes ;Venta y reparaciones;MUJERES;2001;44,7
+355;Max Paredes ;Hoteles y restaurantes;HOMBRES;2001;4,2
+356;Max Paredes ;Hoteles y restaurantes;MUJERES;2001;10,1
+357;Max Paredes ;Transporte, almacenamiento, comunicaciones;HOMBRES;2001;14,7
+358;Max Paredes ;Transporte, almacenamiento, comunicaciones;MUJERES;2001;1,1
+359;Max Paredes ;Intermediación financiera;HOMBRES;2001;0,9
+360;Max Paredes ;Intermediación financiera;MUJERES;2001;0,6
+361;Max Paredes ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2001;6,6
+362;Max Paredes ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2001;3
+363;Max Paredes ;Administración pública, defensa y seguridad social;HOMBRES;2001;4,9
+364;Max Paredes ;Administración pública, defensa y seguridad social;MUJERES;2001;1,9
+365;Max Paredes ;Educación;HOMBRES;2001;5,7
+366;Max Paredes ;Educación;MUJERES;2001;7,7
+367;Max Paredes ;Servicios sociales y de salud;HOMBRES;2001;1,8
+368;Max Paredes ;Servicios sociales y de salud;MUJERES;2001;4,2
+369;Max Paredes ;Servicios comunitarios y personales;HOMBRES;2001;4,6
+370;Max Paredes ;Servicios comunitarios y personales;MUJERES;2001;4,5
+371;Max Paredes ;Hogares privados;HOMBRES;2001;0,3
+372;Max Paredes ;Hogares privados;MUJERES;2001;8,8
+373;Max Paredes ;Organismos extraterritoriales;HOMBRES;2001;0,1
+374;Max Paredes ;Organismos extraterritoriales;MUJERES;2001;0
+375;Periférica;Agricultura, ganadería y caza;HOMBRES;2001;1,4
+376;Periférica;Agricultura, ganadería y caza;MUJERES;2001;1
+377;Periférica;Silvicultura y pesca;HOMBRES;2001;0
+378;Periférica;Silvicultura y pesca;MUJERES;2001;0
+379;Periférica;Explotación de minas y canteras;HOMBRES;2001;0,7
+380;Periférica;Explotación de minas y canteras;MUJERES;2001;0,2
+381;Periférica;Industria manufacturera;HOMBRES;2001;19,8
+382;Periférica;Industria manufacturera;MUJERES;2001;11
+383;Periférica;Producción y distribución de electricidad, gas y agua;HOMBRES;2001;0,7
+384;Periférica;Producción y distribución de electricidad, gas y agua;MUJERES;2001;0,1
+385;Periférica;Construcción;HOMBRES;2001;8,5
+386;Periférica;Construcción;MUJERES;2001;0,4
+387;Periférica;Venta y reparaciones;HOMBRES;2001;18,6
+388;Periférica;Venta y reparaciones;MUJERES;2001;33,4
+389;Periférica;Hoteles y restaurantes;HOMBRES;2001;4,3
+390;Periférica;Hoteles y restaurantes;MUJERES;2001;10,4
+391;Periférica;Transporte, almacenamiento, comunicaciones;HOMBRES;2001;16,4
+392;Periférica;Transporte, almacenamiento, comunicaciones;MUJERES;2001;2
+393;Periférica;Intermediación financiera;HOMBRES;2001;1,6
+394;Periférica;Intermediación financiera;MUJERES;2001;1,2
+395;Periférica;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2001;8,1
+396;Periférica;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2001;4,9
+397;Periférica;Administración pública, defensa y seguridad social;HOMBRES;2001;6,8
+398;Periférica;Administración pública, defensa y seguridad social;MUJERES;2001;3,8
+399;Periférica;Educación;HOMBRES;2001;5,4
+400;Periférica;Educación;MUJERES;2001;9,4
+401;Periférica;Servicios sociales y de salud;HOMBRES;2001;2,4
+402;Periférica;Servicios sociales y de salud;MUJERES;2001;5,6
+403;Periférica;Servicios comunitarios y personales;HOMBRES;2001;4,8
+404;Periférica;Servicios comunitarios y personales;MUJERES;2001;5,8
+405;Periférica;Hogares privados;HOMBRES;2001;0,3
+406;Periférica;Hogares privados;MUJERES;2001;10,7
+407;Periférica;Organismos extraterritoriales;HOMBRES;2001;0,1
+408;Periférica;Organismos extraterritoriales;MUJERES;2001;0,1
+409;San Antonio ;Agricultura, ganadería y caza;HOMBRES;2001;1,8
+410;San Antonio ;Agricultura, ganadería y caza;MUJERES;2001;1,4
+411;San Antonio ;Silvicultura y pesca;HOMBRES;2001;0
+412;San Antonio ;Silvicultura y pesca;MUJERES;2001;0
+413;San Antonio ;Explotación de minas y canteras;HOMBRES;2001;0,5
+414;San Antonio ;Explotación de minas y canteras;MUJERES;2001;0,2
+415;San Antonio ;Industria manufacturera;HOMBRES;2001;17,3
+416;San Antonio ;Industria manufacturera;MUJERES;2001;10,3
+417;San Antonio ;Producción y distribución de electricidad, gas y agua;HOMBRES;2001;0,6
+418;San Antonio ;Producción y distribución de electricidad, gas y agua;MUJERES;2001;0,1
+419;San Antonio ;Construcción;HOMBRES;2001;11
+420;San Antonio ;Construcción;MUJERES;2001;0,5
+421;San Antonio ;Venta y reparaciones;HOMBRES;2001;16,7
+422;San Antonio ;Venta y reparaciones;MUJERES;2001;31,2
+423;San Antonio ;Hoteles y restaurantes;HOMBRES;2001;4,4
+424;San Antonio ;Hoteles y restaurantes;MUJERES;2001;10,6
+425;San Antonio ;Transporte, almacenamiento, comunicaciones;HOMBRES;2001;18,1
+426;San Antonio ;Transporte, almacenamiento, comunicaciones;MUJERES;2001;1,8
+427;San Antonio ;Intermediación financiera;HOMBRES;2001;1,6
+428;San Antonio ;Intermediación financiera;MUJERES;2001;1,2
+429;San Antonio ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2001;7,8
+430;San Antonio ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2001;4,3
+431;San Antonio ;Administración pública, defensa y seguridad social;HOMBRES;2001;6,5
+432;San Antonio ;Administración pública, defensa y seguridad social;MUJERES;2001;3,6
+433;San Antonio ;Educación;HOMBRES;2001;5,8
+434;San Antonio ;Educación;MUJERES;2001;9,8
+435;San Antonio ;Servicios sociales y de salud;HOMBRES;2001;2,8
+436;San Antonio ;Servicios sociales y de salud;MUJERES;2001;6,8
+437;San Antonio ;Servicios comunitarios y personales;HOMBRES;2001;4,6
+438;San Antonio ;Servicios comunitarios y personales;MUJERES;2001;6,5
+439;San Antonio ;Hogares privados;HOMBRES;2001;0,4
+440;San Antonio ;Hogares privados;MUJERES;2001;11,7
+441;San Antonio ;Organismos extraterritoriales;HOMBRES;2001;0,1
+442;San Antonio ;Organismos extraterritoriales;MUJERES;2001;0,1
+443;Sur ;Agricultura, ganadería y caza;HOMBRES;2001;3,3
+444;Sur ;Agricultura, ganadería y caza;MUJERES;2001;1,6
+445;Sur ;Silvicultura y pesca;HOMBRES;2001;0
+446;Sur ;Silvicultura y pesca;MUJERES;2001;0
+447;Sur ;Explotación de minas y canteras;HOMBRES;2001;0,9
+448;Sur ;Explotación de minas y canteras;MUJERES;2001;0,3
+449;Sur ;Industria manufacturera;HOMBRES;2001;10,9
+450;Sur ;Industria manufacturera;MUJERES;2001;5,1
+451;Sur ;Producción y distribución de electricidad, gas y agua;HOMBRES;2001;0,5
+452;Sur ;Producción y distribución de electricidad, gas y agua;MUJERES;2001;0,1
+453;Sur ;Construcción;HOMBRES;2001;14,5
+454;Sur ;Construcción;MUJERES;2001;0,7
+455;Sur ;Venta y reparaciones;HOMBRES;2001;13,9
+456;Sur ;Venta y reparaciones;MUJERES;2001;16,4
+457;Sur ;Hoteles y restaurantes;HOMBRES;2001;2,8
+458;Sur ;Hoteles y restaurantes;MUJERES;2001;5,2
+459;Sur ;Transporte, almacenamiento, comunicaciones;HOMBRES;2001;13
+460;Sur ;Transporte, almacenamiento, comunicaciones;MUJERES;2001;2,6
+461;Sur ;Intermediación financiera;HOMBRES;2001;3,1
+462;Sur ;Intermediación financiera;MUJERES;2001;2,1
+463;Sur ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2001;12,7
+464;Sur ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2001;6,5
+465;Sur ;Administración pública, defensa y seguridad social;HOMBRES;2001;8,5
+466;Sur ;Administración pública, defensa y seguridad social;MUJERES;2001;4,3
+467;Sur ;Educación;HOMBRES;2001;5
+468;Sur ;Educación;MUJERES;2001;7,3
+469;Sur ;Servicios sociales y de salud;HOMBRES;2001;4,1
+470;Sur ;Servicios sociales y de salud;MUJERES;2001;5,1
+471;Sur ;Servicios comunitarios y personales;HOMBRES;2001;4,4
+472;Sur ;Servicios comunitarios y personales;MUJERES;2001;5,3
+473;Sur ;Hogares privados;HOMBRES;2001;1,5
+474;Sur ;Hogares privados;MUJERES;2001;36,4
+475;Sur ;Organismos extraterritoriales;HOMBRES;2001;0,8
+476;Sur ;Organismos extraterritoriales;MUJERES;2001;0,8
+477;Mallasa ;Agricultura, ganadería y caza;HOMBRES;2001;14,8
+478;Mallasa ;Agricultura, ganadería y caza;MUJERES;2001;18,8
+479;Mallasa ;Silvicultura y pesca;HOMBRES;2001;0,2
+480;Mallasa ;Silvicultura y pesca;MUJERES;2001;0,1
+481;Mallasa ;Explotación de minas y canteras;HOMBRES;2001;3,5
+482;Mallasa ;Explotación de minas y canteras;MUJERES;2001;0,1
+483;Mallasa ;Industria manufacturera;HOMBRES;2001;8,2
+484;Mallasa ;Industria manufacturera;MUJERES;2001;4,2
+485;Mallasa ;Producción y distribución de electricidad, gas y agua;HOMBRES;2001;0,6
+486;Mallasa ;Producción y distribución de electricidad, gas y agua;MUJERES;2001;0,3
+487;Mallasa ;Construcción;HOMBRES;2001;17,3
+488;Mallasa ;Construcción;MUJERES;2001;0,3
+489;Mallasa ;Venta y reparaciones;HOMBRES;2001;10,4
+490;Mallasa ;Venta y reparaciones;MUJERES;2001;18,5
+491;Mallasa ;Hoteles y restaurantes;HOMBRES;2001;2,5
+492;Mallasa ;Hoteles y restaurantes;MUJERES;2001;7,9
+493;Mallasa ;Transporte, almacenamiento, comunicaciones;HOMBRES;2001;16,8
+494;Mallasa ;Transporte, almacenamiento, comunicaciones;MUJERES;2001;1,7
+495;Mallasa ;Intermediación financiera;HOMBRES;2001;1,9
+496;Mallasa ;Intermediación financiera;MUJERES;2001;1,4
+497;Mallasa ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2001;7,7
+498;Mallasa ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2001;3,7
+499;Mallasa ;Administración pública, defensa y seguridad social;HOMBRES;2001;4,2
+500;Mallasa ;Administración pública, defensa y seguridad social;MUJERES;2001;1,8
+501;Mallasa ;Educación;HOMBRES;2001;3,3
+502;Mallasa ;Educación;MUJERES;2001;5,3
+503;Mallasa ;Servicios sociales y de salud;HOMBRES;2001;2,8
+504;Mallasa ;Servicios sociales y de salud;MUJERES;2001;3,6
+505;Mallasa ;Servicios comunitarios y personales;HOMBRES;2001;3,3
+506;Mallasa ;Servicios comunitarios y personales;MUJERES;2001;3,1
+507;Mallasa ;Hogares privados;HOMBRES;2001;1,8
+508;Mallasa ;Hogares privados;MUJERES;2001;28,7
+509;Mallasa ;Organismos extraterritoriales;HOMBRES;2001;0,6
+510;Mallasa ;Organismos extraterritoriales;MUJERES;2001;0,5
+511;Centro ;Agricultura, ganadería y caza;HOMBRES;2001;0,6
+512;Centro ;Agricultura, ganadería y caza;MUJERES;2001;0,2
+513;Centro ;Silvicultura y pesca;HOMBRES;2001;0
+514;Centro ;Silvicultura y pesca;MUJERES;2001;0
+515;Centro ;Explotación de minas y canteras;HOMBRES;2001;0,7
+516;Centro ;Explotación de minas y canteras;MUJERES;2001;0,1
+517;Centro ;Industria manufacturera;HOMBRES;2001;9,5
+518;Centro ;Industria manufacturera;MUJERES;2001;6,3
+519;Centro ;Producción y distribución de electricidad, gas y agua;HOMBRES;2001;0,5
+520;Centro ;Producción y distribución de electricidad, gas y agua;MUJERES;2001;0,1
+521;Centro ;Construcción;HOMBRES;2001;4
+522;Centro ;Construcción;MUJERES;2001;0,6
+523;Centro ;Venta y reparaciones;HOMBRES;2001;16,7
+524;Centro ;Venta y reparaciones;MUJERES;2001;19,9
+525;Centro ;Hoteles y restaurantes;HOMBRES;2001;4,3
+526;Centro ;Hoteles y restaurantes;MUJERES;2001;5,4
+527;Centro ;Transporte, almacenamiento, comunicaciones;HOMBRES;2001;7,3
+528;Centro ;Transporte, almacenamiento, comunicaciones;MUJERES;2001;2,9
+529;Centro ;Intermediación financiera;HOMBRES;2001;3,6
+530;Centro ;Intermediación financiera;MUJERES;2001;2,6
+531;Centro ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2001;16,3
+532;Centro ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2001;8,4
+533;Centro ;Administración pública, defensa y seguridad social;HOMBRES;2001;13
+534;Centro ;Administración pública, defensa y seguridad social;MUJERES;2001;7,2
+535;Centro ;Educación;HOMBRES;2001;8
+536;Centro ;Educación;MUJERES;2001;11,5
+537;Centro ;Servicios sociales y de salud;HOMBRES;2001;7
+538;Centro ;Servicios sociales y de salud;MUJERES;2001;7,7
+539;Centro ;Servicios comunitarios y personales;HOMBRES;2001;7,4
+540;Centro ;Servicios comunitarios y personales;MUJERES;2001;5,2
+541;Centro ;Hogares privados;HOMBRES;2001;0,8
+542;Centro ;Hogares privados;MUJERES;2001;21,3
+543;Centro ;Organismos extraterritoriales;HOMBRES;2001;0,4
+544;Centro ;Organismos extraterritoriales;MUJERES;2001;0,5
+545;Hampaturi;Agricultura, ganadería y caza;HOMBRES;2001;41,4
+546;Hampaturi;Agricultura, ganadería y caza;MUJERES;2001;65
+547;Hampaturi;Silvicultura y pesca;HOMBRES;2001;0,6
+548;Hampaturi;Silvicultura y pesca;MUJERES;2001;0
+549;Hampaturi;Explotación de minas y canteras;HOMBRES;2001;15,9
+550;Hampaturi;Explotación de minas y canteras;MUJERES;2001;6,9
+551;Hampaturi;Industria manufacturera;HOMBRES;2001;6,1
+552;Hampaturi;Industria manufacturera;MUJERES;2001;5,2
+553;Hampaturi;Producción y distribución de electricidad, gas y agua;HOMBRES;2001;0,4
+554;Hampaturi;Producción y distribución de electricidad, gas y agua;MUJERES;2001;0
+555;Hampaturi;Construcción;HOMBRES;2001;17,3
+556;Hampaturi;Construcción;MUJERES;2001;0,3
+557;Hampaturi;Venta y reparaciones;HOMBRES;2001;3,9
+558;Hampaturi;Venta y reparaciones;MUJERES;2001;10,5
+559;Hampaturi;Hoteles y restaurantes;HOMBRES;2001;1
+560;Hampaturi;Hoteles y restaurantes;MUJERES;2001;6,3
+561;Hampaturi;Transporte, almacenamiento, comunicaciones;HOMBRES;2001;8,6
+562;Hampaturi;Transporte, almacenamiento, comunicaciones;MUJERES;2001;0
+563;Hampaturi;Intermediación financiera;HOMBRES;2001;0
+564;Hampaturi;Intermediación financiera;MUJERES;2001;0
+565;Hampaturi;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2001;1
+566;Hampaturi;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2001;0,3
+567;Hampaturi;Administración pública, defensa y seguridad social;HOMBRES;2001;1,2
+568;Hampaturi;Administración pública, defensa y seguridad social;MUJERES;2001;0
+569;Hampaturi;Educación;HOMBRES;2001;0,8
+570;Hampaturi;Educación;MUJERES;2001;1,1
+571;Hampaturi;Servicios sociales y de salud;HOMBRES;2001;0
+572;Hampaturi;Servicios sociales y de salud;MUJERES;2001;0
+573;Hampaturi;Servicios comunitarios y personales;HOMBRES;2001;1,6
+574;Hampaturi;Servicios comunitarios y personales;MUJERES;2001;0,8
+575;Hampaturi;Hogares privados;HOMBRES;2001;0,4
+576;Hampaturi;Hogares privados;MUJERES;2001;3,6
+577;Hampaturi;Organismos extraterritoriales;HOMBRES;2001;0
+578;Hampaturi;Organismos extraterritoriales;MUJERES;2001;0
+579;Zongo ;Agricultura, ganadería y caza;HOMBRES;2001;49,1
+580;Zongo ;Agricultura, ganadería y caza;MUJERES;2001;72
+581;Zongo ;Silvicultura y pesca;HOMBRES;2001;0
+582;Zongo ;Silvicultura y pesca;MUJERES;2001;0
+583;Zongo ;Explotación de minas y canteras;HOMBRES;2001;6,5
+584;Zongo ;Explotación de minas y canteras;MUJERES;2001;2,7
+585;Zongo ;Industria manufacturera;HOMBRES;2001;2,8
+586;Zongo ;Industria manufacturera;MUJERES;2001;1,1
+587;Zongo ;Producción y distribución de electricidad, gas y agua;HOMBRES;2001;18,4
+588;Zongo ;Producción y distribución de electricidad, gas y agua;MUJERES;2001;1,1
+589;Zongo ;Construcción;HOMBRES;2001;11,7
+590;Zongo ;Construcción;MUJERES;2001;2,2
+591;Zongo ;Venta y reparaciones;HOMBRES;2001;1,9
+592;Zongo ;Venta y reparaciones;MUJERES;2001;5,5
+593;Zongo ;Hoteles y restaurantes;HOMBRES;2001;0
+594;Zongo ;Hoteles y restaurantes;MUJERES;2001;2,2
+595;Zongo ;Transporte, almacenamiento, comunicaciones;HOMBRES;2001;3,7
+596;Zongo ;Transporte, almacenamiento, comunicaciones;MUJERES;2001;0
+597;Zongo ;Intermediación financiera;HOMBRES;2001;0
+598;Zongo ;Intermediación financiera;MUJERES;2001;0
+599;Zongo ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2001;0
+600;Zongo ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2001;0,5
+601;Zongo ;Administración pública, defensa y seguridad social;HOMBRES;2001;1,3
+602;Zongo ;Administración pública, defensa y seguridad social;MUJERES;2001;0
+603;Zongo ;Educación;HOMBRES;2001;2,4
+604;Zongo ;Educación;MUJERES;2001;6,6
+605;Zongo ;Servicios sociales y de salud;HOMBRES;2001;0,2
+606;Zongo ;Servicios sociales y de salud;MUJERES;2001;0
+607;Zongo ;Servicios comunitarios y personales;HOMBRES;2001;1,5
+608;Zongo ;Servicios comunitarios y personales;MUJERES;2001;0,5
+609;Zongo ;Hogares privados;HOMBRES;2001;0,4
+610;Zongo ;Hogares privados;MUJERES;2001;5,5
+611;Zongo ;Organismos extraterritoriales;HOMBRES;2001;0
+612;Zongo ;Organismos extraterritoriales;MUJERES;2001;0
+613;Cotahuma ;Agricultura, ganadería y caza;HOMBRES;2018;1,9
+614;Cotahuma ;Agricultura, ganadería y caza;MUJERES;2018;1,1
+615;Cotahuma ;Silvicultura y pesca;HOMBRES;2018;0
+616;Cotahuma ;Silvicultura y pesca;MUJERES;2018;0
+617;Cotahuma ;Explotación de minas y canteras;HOMBRES;2018;0,6
+618;Cotahuma ;Explotación de minas y canteras;MUJERES;2018;0,2
+619;Cotahuma ;Industria manufacturera;HOMBRES;2018;12,4
+620;Cotahuma ;Industria manufacturera;MUJERES;2018;11,6
+621;Cotahuma ;Producción y distribución de electricidad, gas y agua;HOMBRES;2018;1,1
+622;Cotahuma ;Producción y distribución de electricidad, gas y agua;MUJERES;2018;0,3
+623;Cotahuma ;Construcción;HOMBRES;2018;8,5
+624;Cotahuma ;Construcción;MUJERES;2018;1,6
+625;Cotahuma ;Venta y reparaciones;HOMBRES;2018;21,2
+626;Cotahuma ;Venta y reparaciones;MUJERES;2018;29,6
+627;Cotahuma ;Hoteles y restaurantes;HOMBRES;2018;5,1
+628;Cotahuma ;Hoteles y restaurantes;MUJERES;2018;11,7
+629;Cotahuma ;Transporte, almacenamiento, comunicaciones;HOMBRES;2018;10,3
+630;Cotahuma ;Transporte, almacenamiento, comunicaciones;MUJERES;2018;2
+631;Cotahuma ;Intermediación financiera;HOMBRES;2018;1,7
+632;Cotahuma ;Intermediación financiera;MUJERES;2018;4,2
+633;Cotahuma ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2018;12,7
+634;Cotahuma ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2018;8,6
+635;Cotahuma ;Administración pública, defensa y seguridad social;HOMBRES;2018;8,3
+636;Cotahuma ;Administración pública, defensa y seguridad social;MUJERES;2018;7,9
+637;Cotahuma ;Educación;HOMBRES;2018;6,4
+638;Cotahuma ;Educación;MUJERES;2018;8,1
+639;Cotahuma ;Servicios sociales y de salud;HOMBRES;2018;3,7
+640;Cotahuma ;Servicios sociales y de salud;MUJERES;2018;4,4
+641;Cotahuma ;Servicios comunitarios y personales;HOMBRES;2018;6
+642;Cotahuma ;Servicios comunitarios y personales;MUJERES;2018;4,9
+643;Cotahuma ;Hogares privados;HOMBRES;2018;0,2
+644;Cotahuma ;Hogares privados;MUJERES;2018;3,7
+645;Cotahuma ;Organismos extraterritoriales;HOMBRES;2018;0
+646;Cotahuma ;Organismos extraterritoriales;MUJERES;2018;0,1
+647;Max Paredes ;Agricultura, ganadería y caza;HOMBRES;2018;0,7
+648;Max Paredes ;Agricultura, ganadería y caza;MUJERES;2018;0,4
+649;Max Paredes ;Silvicultura y pesca;HOMBRES;2018;0
+650;Max Paredes ;Silvicultura y pesca;MUJERES;2018;0
+651;Max Paredes ;Explotación de minas y canteras;HOMBRES;2018;0,4
+652;Max Paredes ;Explotación de minas y canteras;MUJERES;2018;0
+653;Max Paredes ;Industria manufacturera;HOMBRES;2018;16
+654;Max Paredes ;Industria manufacturera;MUJERES;2018;14
+655;Max Paredes ;Producción y distribución de electricidad, gas y agua;HOMBRES;2018;0,9
+656;Max Paredes ;Producción y distribución de electricidad, gas y agua;MUJERES;2018;0
+657;Max Paredes ;Construcción;HOMBRES;2018;12,4
+658;Max Paredes ;Construcción;MUJERES;2018;0,7
+659;Max Paredes ;Venta y reparaciones;HOMBRES;2018;22,4
+660;Max Paredes ;Venta y reparaciones;MUJERES;2018;37,6
+661;Max Paredes ;Hoteles y restaurantes;HOMBRES;2018;5,1
+662;Max Paredes ;Hoteles y restaurantes;MUJERES;2018;8,3
+663;Max Paredes ;Transporte, almacenamiento, comunicaciones;HOMBRES;2018;9,6
+664;Max Paredes ;Transporte, almacenamiento, comunicaciones;MUJERES;2018;3,5
+665;Max Paredes ;Intermediación financiera;HOMBRES;2018;2,5
+666;Max Paredes ;Intermediación financiera;MUJERES;2018;2,2
+667;Max Paredes ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2018;8,6
+668;Max Paredes ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2018;6,8
+669;Max Paredes ;Administración pública, defensa y seguridad social;HOMBRES;2018;5,8
+670;Max Paredes ;Administración pública, defensa y seguridad social;MUJERES;2018;3,8
+671;Max Paredes ;Educación;HOMBRES;2018;5,8
+672;Max Paredes ;Educación;MUJERES;2018;9
+673;Max Paredes ;Servicios sociales y de salud;HOMBRES;2018;2,5
+674;Max Paredes ;Servicios sociales y de salud;MUJERES;2018;4,9
+675;Max Paredes ;Servicios comunitarios y personales;HOMBRES;2018;7,1
+676;Max Paredes ;Servicios comunitarios y personales;MUJERES;2018;5,7
+677;Max Paredes ;Hogares privados;HOMBRES;2018;0
+678;Max Paredes ;Hogares privados;MUJERES;2018;2,8
+679;Max Paredes ;Organismos extraterritoriales;HOMBRES;2018;0,1
+680;Max Paredes ;Organismos extraterritoriales;MUJERES;2018;0,3
+681;Periférica;Agricultura, ganadería y caza;HOMBRES;2018;1,4
+682;Periférica;Agricultura, ganadería y caza;MUJERES;2018;0,9
+683;Periférica;Silvicultura y pesca;HOMBRES;2018;0,2
+684;Periférica;Silvicultura y pesca;MUJERES;2018;0,2
+685;Periférica;Explotación de minas y canteras;HOMBRES;2018;0,6
+686;Periférica;Explotación de minas y canteras;MUJERES;2018;0,4
+687;Periférica;Industria manufacturera;HOMBRES;2018;18,1
+688;Periférica;Industria manufacturera;MUJERES;2018;11,6
+689;Periférica;Producción y distribución de electricidad, gas y agua;HOMBRES;2018;0,8
+690;Periférica;Producción y distribución de electricidad, gas y agua;MUJERES;2018;0
+691;Periférica;Construcción;HOMBRES;2018;10,2
+692;Periférica;Construcción;MUJERES;2018;1,4
+693;Periférica;Venta y reparaciones;HOMBRES;2018;19,2
+694;Periférica;Venta y reparaciones;MUJERES;2018;32,1
+695;Periférica;Hoteles y restaurantes;HOMBRES;2018;3,9
+696;Periférica;Hoteles y restaurantes;MUJERES;2018;11,5
+697;Periférica;Transporte, almacenamiento, comunicaciones;HOMBRES;2018;11,6
+698;Periférica;Transporte, almacenamiento, comunicaciones;MUJERES;2018;1,9
+699;Periférica;Intermediación financiera;HOMBRES;2018;2,6
+700;Periférica;Intermediación financiera;MUJERES;2018;1,3
+701;Periférica;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2018;10,7
+702;Periférica;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2018;9,6
+703;Periférica;Administración pública, defensa y seguridad social;HOMBRES;2018;9,2
+704;Periférica;Administración pública, defensa y seguridad social;MUJERES;2018;4,9
+705;Periférica;Educación;HOMBRES;2018;3,7
+706;Periférica;Educación;MUJERES;2018;9
+707;Periférica;Servicios sociales y de salud;HOMBRES;2018;2,6
+708;Periférica;Servicios sociales y de salud;MUJERES;2018;5,2
+709;Periférica;Servicios comunitarios y personales;HOMBRES;2018;5
+710;Periférica;Servicios comunitarios y personales;MUJERES;2018;5,4
+711;Periférica;Hogares privados;HOMBRES;2018;0
+712;Periférica;Hogares privados;MUJERES;2018;4,4
+713;Periférica;Organismos extraterritoriales;HOMBRES;2018;0,1
+714;Periférica;Organismos extraterritoriales;MUJERES;2018;0,2
+715;San Antonio ;Agricultura, ganadería y caza;HOMBRES;2018;0,9
+716;San Antonio ;Agricultura, ganadería y caza;MUJERES;2018;1,1
+717;San Antonio ;Silvicultura y pesca;HOMBRES;2018;0
+718;San Antonio ;Silvicultura y pesca;MUJERES;2018;0
+719;San Antonio ;Explotación de minas y canteras;HOMBRES;2018;1,5
+720;San Antonio ;Explotación de minas y canteras;MUJERES;2018;0,2
+721;San Antonio ;Industria manufacturera;HOMBRES;2018;11,6
+722;San Antonio ;Industria manufacturera;MUJERES;2018;11,1
+723;San Antonio ;Producción y distribución de electricidad, gas y agua;HOMBRES;2018;0,3
+724;San Antonio ;Producción y distribución de electricidad, gas y agua;MUJERES;2018;0
+725;San Antonio ;Construcción;HOMBRES;2018;15,5
+726;San Antonio ;Construcción;MUJERES;2018;1,9
+727;San Antonio ;Venta y reparaciones;HOMBRES;2018;16
+728;San Antonio ;Venta y reparaciones;MUJERES;2018;26,8
+729;San Antonio ;Hoteles y restaurantes;HOMBRES;2018;5,5
+730;San Antonio ;Hoteles y restaurantes;MUJERES;2018;10,6
+731;San Antonio ;Transporte, almacenamiento, comunicaciones;HOMBRES;2018;15,6
+732;San Antonio ;Transporte, almacenamiento, comunicaciones;MUJERES;2018;1,3
+733;San Antonio ;Intermediación financiera;HOMBRES;2018;2,9
+734;San Antonio ;Intermediación financiera;MUJERES;2018;2
+735;San Antonio ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2018;9
+736;San Antonio ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2018;8,5
+737;San Antonio ;Administración pública, defensa y seguridad social;HOMBRES;2018;6,6
+738;San Antonio ;Administración pública, defensa y seguridad social;MUJERES;2018;5,6
+739;San Antonio ;Educación;HOMBRES;2018;5,5
+740;San Antonio ;Educación;MUJERES;2018;8,9
+741;San Antonio ;Servicios sociales y de salud;HOMBRES;2018;3,9
+742;San Antonio ;Servicios sociales y de salud;MUJERES;2018;11,1
+743;San Antonio ;Servicios comunitarios y personales;HOMBRES;2018;5
+744;San Antonio ;Servicios comunitarios y personales;MUJERES;2018;5,3
+745;San Antonio ;Hogares privados;HOMBRES;2018;0,2
+746;San Antonio ;Hogares privados;MUJERES;2018;5,6
+747;San Antonio ;Organismos extraterritoriales;HOMBRES;2018;0,2
+748;San Antonio ;Organismos extraterritoriales;MUJERES;2018;0,1
+749;Sur ;Agricultura, ganadería y caza;HOMBRES;2018;1
+750;Sur ;Agricultura, ganadería y caza;MUJERES;2018;1
+751;Sur ;Silvicultura y pesca;HOMBRES;2018;0
+752;Sur ;Silvicultura y pesca;MUJERES;2018;0
+753;Sur ;Explotación de minas y canteras;HOMBRES;2018;0,8
+754;Sur ;Explotación de minas y canteras;MUJERES;2018;0
+755;Sur ;Industria manufacturera;HOMBRES;2018;10,5
+756;Sur ;Industria manufacturera;MUJERES;2018;9,2
+757;Sur ;Producción y distribución de electricidad, gas y agua;HOMBRES;2018;0,3
+758;Sur ;Producción y distribución de electricidad, gas y agua;MUJERES;2018;0
+759;Sur ;Construcción;HOMBRES;2018;15,1
+760;Sur ;Construcción;MUJERES;2018;2,4
+761;Sur ;Venta y reparaciones;HOMBRES;2018;17,1
+762;Sur ;Venta y reparaciones;MUJERES;2018;25,5
+763;Sur ;Hoteles y restaurantes;HOMBRES;2018;2,8
+764;Sur ;Hoteles y restaurantes;MUJERES;2018;7,4
+765;Sur ;Transporte, almacenamiento, comunicaciones;HOMBRES;2018;14,1
+766;Sur ;Transporte, almacenamiento, comunicaciones;MUJERES;2018;2,8
+767;Sur ;Intermediación financiera;HOMBRES;2018;2
+768;Sur ;Intermediación financiera;MUJERES;2018;2,9
+769;Sur ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2018;14,8
+770;Sur ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2018;11,8
+771;Sur ;Administración pública, defensa y seguridad social;HOMBRES;2018;6,9
+772;Sur ;Administración pública, defensa y seguridad social;MUJERES;2018;6,5
+773;Sur ;Educación;HOMBRES;2018;5,2
+774;Sur ;Educación;MUJERES;2018;7,5
+775;Sur ;Servicios sociales y de salud;HOMBRES;2018;2,4
+776;Sur ;Servicios sociales y de salud;MUJERES;2018;5,6
+777;Sur ;Servicios comunitarios y personales;HOMBRES;2018;6,2
+778;Sur ;Servicios comunitarios y personales;MUJERES;2018;9,2
+779;Sur ;Hogares privados;HOMBRES;2018;0,5
+780;Sur ;Hogares privados;MUJERES;2018;8,3
+781;Sur ;Organismos extraterritoriales;HOMBRES;2018;0,3
+782;Sur ;Organismos extraterritoriales;MUJERES;2018;0
+783;Mallasa ;Agricultura, ganadería y caza;HOMBRES;2018;4,4
+784;Mallasa ;Agricultura, ganadería y caza;MUJERES;2018;6,3
+785;Mallasa ;Silvicultura y pesca;HOMBRES;2018;0
+786;Mallasa ;Silvicultura y pesca;MUJERES;2018;0
+787;Mallasa ;Explotación de minas y canteras;HOMBRES;2018;1
+788;Mallasa ;Explotación de minas y canteras;MUJERES;2018;0
+789;Mallasa ;Industria manufacturera;HOMBRES;2018;7,6
+790;Mallasa ;Industria manufacturera;MUJERES;2018;6,8
+791;Mallasa ;Producción y distribución de electricidad, gas y agua;HOMBRES;2018;0,5
+792;Mallasa ;Producción y distribución de electricidad, gas y agua;MUJERES;2018;0,4
+793;Mallasa ;Construcción;HOMBRES;2018;20,4
+794;Mallasa ;Construcción;MUJERES;2018;2,5
+795;Mallasa ;Venta y reparaciones;HOMBRES;2018;12,5
+796;Mallasa ;Venta y reparaciones;MUJERES;2018;16
+797;Mallasa ;Hoteles y restaurantes;HOMBRES;2018;9,2
+798;Mallasa ;Hoteles y restaurantes;MUJERES;2018;24,7
+799;Mallasa ;Transporte, almacenamiento, comunicaciones;HOMBRES;2018;15,5
+800;Mallasa ;Transporte, almacenamiento, comunicaciones;MUJERES;2018;4
+801;Mallasa ;Intermediación financiera;HOMBRES;2018;1,6
+802;Mallasa ;Intermediación financiera;MUJERES;2018;2,8
+803;Mallasa ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2018;12,2
+804;Mallasa ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2018;4,6
+805;Mallasa ;Administración pública, defensa y seguridad social;HOMBRES;2018;4,6
+806;Mallasa ;Administración pública, defensa y seguridad social;MUJERES;2018;4,2
+807;Mallasa ;Educación;HOMBRES;2018;4,9
+808;Mallasa ;Educación;MUJERES;2018;5,5
+809;Mallasa ;Servicios sociales y de salud;HOMBRES;2018;1,8
+810;Mallasa ;Servicios sociales y de salud;MUJERES;2018;2
+811;Mallasa ;Servicios comunitarios y personales;HOMBRES;2018;3,8
+812;Mallasa ;Servicios comunitarios y personales;MUJERES;2018;8,6
+813;Mallasa ;Hogares privados;HOMBRES;2018;0
+814;Mallasa ;Hogares privados;MUJERES;2018;11
+815;Mallasa ;Organismos extraterritoriales;HOMBRES;2018;0
+816;Mallasa ;Organismos extraterritoriales;MUJERES;2018;0,6
+817;Centro ;Agricultura, ganadería y caza;HOMBRES;2018;0,2
+818;Centro ;Agricultura, ganadería y caza;MUJERES;2018;0,4
+819;Centro ;Silvicultura y pesca;HOMBRES;2018;0
+820;Centro ;Silvicultura y pesca;MUJERES;2018;0
+821;Centro ;Explotación de minas y canteras;HOMBRES;2018;1,1
+822;Centro ;Explotación de minas y canteras;MUJERES;2018;0,3
+823;Centro ;Industria manufacturera;HOMBRES;2018;12,2
+824;Centro ;Industria manufacturera;MUJERES;2018;5,8
+825;Centro ;Producción y distribución de electricidad, gas y agua;HOMBRES;2018;0,3
+826;Centro ;Producción y distribución de electricidad, gas y agua;MUJERES;2018;0
+827;Centro ;Construcción;HOMBRES;2018;6,7
+828;Centro ;Construcción;MUJERES;2018;1,2
+829;Centro ;Venta y reparaciones;HOMBRES;2018;19,3
+830;Centro ;Venta y reparaciones;MUJERES;2018;29,3
+831;Centro ;Hoteles y restaurantes;HOMBRES;2018;6
+832;Centro ;Hoteles y restaurantes;MUJERES;2018;11
+833;Centro ;Transporte, almacenamiento, comunicaciones;HOMBRES;2018;6,6
+834;Centro ;Transporte, almacenamiento, comunicaciones;MUJERES;2018;2
+835;Centro ;Intermediación financiera;HOMBRES;2018;2,4
+836;Centro ;Intermediación financiera;MUJERES;2018;3,5
+837;Centro ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2018;12,5
+838;Centro ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2018;7,9
+839;Centro ;Administración pública, defensa y seguridad social;HOMBRES;2018;11,7
+840;Centro ;Administración pública, defensa y seguridad social;MUJERES;2018;7,9
+841;Centro ;Educación;HOMBRES;2018;6,4
+842;Centro ;Educación;MUJERES;2018;14,5
+843;Centro ;Servicios sociales y de salud;HOMBRES;2018;3,9
+844;Centro ;Servicios sociales y de salud;MUJERES;2018;7,8
+845;Centro ;Servicios comunitarios y personales;HOMBRES;2018;8,3
+846;Centro ;Servicios comunitarios y personales;MUJERES;2018;5,8
+847;Centro ;Hogares privados;HOMBRES;2018;1,1
+848;Centro ;Hogares privados;MUJERES;2018;2,6
+849;Centro ;Organismos extraterritoriales;HOMBRES;2018;1,2
+850;Centro ;Organismos extraterritoriales;MUJERES;2018;0
+851;Hampaturi;Agricultura, ganadería y caza;HOMBRES;2018;16,6
+852;Hampaturi;Agricultura, ganadería y caza;MUJERES;2018;41,8
+853;Hampaturi;Silvicultura y pesca;HOMBRES;2018;0
+854;Hampaturi;Silvicultura y pesca;MUJERES;2018;0
+855;Hampaturi;Explotación de minas y canteras;HOMBRES;2018;4,1
+856;Hampaturi;Explotación de minas y canteras;MUJERES;2018;0
+857;Hampaturi;Industria manufacturera;HOMBRES;2018;4,3
+858;Hampaturi;Industria manufacturera;MUJERES;2018;2,2
+859;Hampaturi;Producción y distribución de electricidad, gas y agua;HOMBRES;2018;1,9
+860;Hampaturi;Producción y distribución de electricidad, gas y agua;MUJERES;2018;0
+861;Hampaturi;Construcción;HOMBRES;2018;35,6
+862;Hampaturi;Construcción;MUJERES;2018;3,3
+863;Hampaturi;Venta y reparaciones;HOMBRES;2018;8,7
+864;Hampaturi;Venta y reparaciones;MUJERES;2018;31,2
+865;Hampaturi;Hoteles y restaurantes;HOMBRES;2018;2
+866;Hampaturi;Hoteles y restaurantes;MUJERES;2018;3,8
+867;Hampaturi;Transporte, almacenamiento, comunicaciones;HOMBRES;2018;16,8
+868;Hampaturi;Transporte, almacenamiento, comunicaciones;MUJERES;2018;1,8
+869;Hampaturi;Intermediación financiera;HOMBRES;2018;0
+870;Hampaturi;Intermediación financiera;MUJERES;2018;0,6
+871;Hampaturi;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2018;2,5
+872;Hampaturi;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2018;1
+873;Hampaturi;Administración pública, defensa y seguridad social;HOMBRES;2018;3,8
+874;Hampaturi;Administración pública, defensa y seguridad social;MUJERES;2018;1,3
+875;Hampaturi;Educación;HOMBRES;2018;0,3
+876;Hampaturi;Educación;MUJERES;2018;4,8
+877;Hampaturi;Servicios sociales y de salud;HOMBRES;2018;1,2
+878;Hampaturi;Servicios sociales y de salud;MUJERES;2018;3,3
+879;Hampaturi;Servicios comunitarios y personales;HOMBRES;2018;2,1
+880;Hampaturi;Servicios comunitarios y personales;MUJERES;2018;2,2
+881;Hampaturi;Hogares privados;HOMBRES;2018;0
+882;Hampaturi;Hogares privados;MUJERES;2018;2,7
+883;Hampaturi;Organismos extraterritoriales;HOMBRES;2018;0
+884;Hampaturi;Organismos extraterritoriales;MUJERES;2018;0
+885;Zongo ;Agricultura, ganadería y caza;HOMBRES;2018;70,4
+886;Zongo ;Agricultura, ganadería y caza;MUJERES;2018;78,3
+887;Zongo ;Silvicultura y pesca;HOMBRES;2018;0
+888;Zongo ;Silvicultura y pesca;MUJERES;2018;0
+889;Zongo ;Explotación de minas y canteras;HOMBRES;2018;2,6
+890;Zongo ;Explotación de minas y canteras;MUJERES;2018;0
+891;Zongo ;Industria manufacturera;HOMBRES;2018;0,3
+892;Zongo ;Industria manufacturera;MUJERES;2018;1,1
+893;Zongo ;Producción y distribución de electricidad, gas y agua;HOMBRES;2018;12
+894;Zongo ;Producción y distribución de electricidad, gas y agua;MUJERES;2018;0
+895;Zongo ;Construcción;HOMBRES;2018;9,3
+896;Zongo ;Construcción;MUJERES;2018;1,3
+897;Zongo ;Venta y reparaciones;HOMBRES;2018;1,3
+898;Zongo ;Venta y reparaciones;MUJERES;2018;5,4
+899;Zongo ;Hoteles y restaurantes;HOMBRES;2018;0
+900;Zongo ;Hoteles y restaurantes;MUJERES;2018;5,1
+901;Zongo ;Transporte, almacenamiento, comunicaciones;HOMBRES;2018;2,9
+902;Zongo ;Transporte, almacenamiento, comunicaciones;MUJERES;2018;0
+903;Zongo ;Intermediación financiera;HOMBRES;2018;0
+904;Zongo ;Intermediación financiera;MUJERES;2018;0
+905;Zongo ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2018;0
+906;Zongo ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2018;0,7
+907;Zongo ;Administración pública, defensa y seguridad social;HOMBRES;2018;0,5
+908;Zongo ;Administración pública, defensa y seguridad social;MUJERES;2018;0
+909;Zongo ;Educación;HOMBRES;2018;0,8
+910;Zongo ;Educación;MUJERES;2018;2,8
+911;Zongo ;Servicios sociales y de salud;HOMBRES;2018;0
+912;Zongo ;Servicios sociales y de salud;MUJERES;2018;1,6
+913;Zongo ;Servicios comunitarios y personales;HOMBRES;2018;0
+914;Zongo ;Servicios comunitarios y personales;MUJERES;2018;1,2
+915;Zongo ;Hogares privados;HOMBRES;2018;0,0
+916;Zongo ;Hogares privados;MUJERES;2018;2,5
+917;Zongo ;Organismos extraterritoriales;HOMBRES;2018;0,0
+918;Zongo ;Organismos extraterritoriales;MUJERES;2018;0,0
+919;Cotahuma ;Agricultura, ganadería y caza;HOMBRES;2023;0,5
+920;Cotahuma ;Agricultura, ganadería y caza;MUJERES;2023;0,2
+921;Cotahuma ;Silvicultura y pesca;HOMBRES;2023;0,2
+922;Cotahuma ;Silvicultura y pesca;MUJERES;2023;0,2
+923;Cotahuma ;Explotación de minas y canteras;HOMBRES;2023;0,8
+924;Cotahuma ;Explotación de minas y canteras;MUJERES;2023;0,2
+925;Cotahuma ;Industria manufacturera;HOMBRES;2023;11,4
+926;Cotahuma ;Industria manufacturera;MUJERES;2023;11,1
+927;Cotahuma ;Producción y distribución de electricidad, gas y agua;HOMBRES;2023;0,2
+928;Cotahuma ;Producción y distribución de electricidad, gas y agua;MUJERES;2023;0,0
+929;Cotahuma ;Construcción;HOMBRES;2023;8,5
+930;Cotahuma ;Construcción;MUJERES;2023;1,6
+931;Cotahuma ;Venta y reparaciones;HOMBRES;2023;21,3
+932;Cotahuma ;Venta y reparaciones;MUJERES;2023;31,7
+933;Cotahuma ;Hoteles y restaurantes;HOMBRES;2023;4,9
+934;Cotahuma ;Hoteles y restaurantes;MUJERES;2023;9,4
+935;Cotahuma ;Transporte, almacenamiento, comunicaciones;HOMBRES;2023;10,7
+936;Cotahuma ;Transporte, almacenamiento, comunicaciones;MUJERES;2023;2,6
+937;Cotahuma ;Intermediación financiera;HOMBRES;2023;2,9
+938;Cotahuma ;Intermediación financiera;MUJERES;2023;2,2
+939;Cotahuma ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2023;15,1
+940;Cotahuma ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2023;9,3
+941;Cotahuma ;Administración pública, defensa y seguridad social;HOMBRES;2023;8,6
+942;Cotahuma ;Administración pública, defensa y seguridad social;MUJERES;2023;4,3
+943;Cotahuma ;Educación;HOMBRES;2023;5,8
+944;Cotahuma ;Educación;MUJERES;2023;9,2
+945;Cotahuma ;Servicios sociales y de salud;HOMBRES;2023;3,6
+946;Cotahuma ;Servicios sociales y de salud;MUJERES;2023;9,7
+947;Cotahuma ;Servicios comunitarios y personales;HOMBRES;2023;5,5
+948;Cotahuma ;Servicios comunitarios y personales;MUJERES;2023;4,8
+949;Cotahuma ;Hogares privados;HOMBRES;2023;0,1
+950;Cotahuma ;Hogares privados;MUJERES;2023;3,3
+951;Cotahuma ;Organismos extraterritoriales;HOMBRES;2023;0,0
+952;Cotahuma ;Organismos extraterritoriales;MUJERES;2023;0,0
+953;Max Paredes ;Agricultura, ganadería y caza;HOMBRES;2023;0,4
+954;Max Paredes ;Agricultura, ganadería y caza;MUJERES;2023;0,2
+955;Max Paredes ;Silvicultura y pesca;HOMBRES;2023;0,0
+956;Max Paredes ;Silvicultura y pesca;MUJERES;2023;0,0
+957;Max Paredes ;Explotación de minas y canteras;HOMBRES;2023;0,6
+958;Max Paredes ;Explotación de minas y canteras;MUJERES;2023;0,2
+959;Max Paredes ;Industria manufacturera;HOMBRES;2023;14,3
+960;Max Paredes ;Industria manufacturera;MUJERES;2023;11,1
+961;Max Paredes ;Producción y distribución de electricidad, gas y agua;HOMBRES;2023;0,4
+962;Max Paredes ;Producción y distribución de electricidad, gas y agua;MUJERES;2023;0,1
+963;Max Paredes ;Construcción;HOMBRES;2023;8,1
+964;Max Paredes ;Construcción;MUJERES;2023;0,6
+965;Max Paredes ;Venta y reparaciones;HOMBRES;2023;23,0
+966;Max Paredes ;Venta y reparaciones;MUJERES;2023;39,6
+967;Max Paredes ;Hoteles y restaurantes;HOMBRES;2023;6,7
+968;Max Paredes ;Hoteles y restaurantes;MUJERES;2023;9,9
+969;Max Paredes ;Transporte, almacenamiento, comunicaciones;HOMBRES;2023;11,1
+970;Max Paredes ;Transporte, almacenamiento, comunicaciones;MUJERES;2023;1,1
+971;Max Paredes ;Intermediación financiera;HOMBRES;2023;2,2
+972;Max Paredes ;Intermediación financiera;MUJERES;2023;1,5
+973;Max Paredes ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2023;11,2
+974;Max Paredes ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2023;7,7
+975;Max Paredes ;Administración pública, defensa y seguridad social;HOMBRES;2023;7,8
+976;Max Paredes ;Administración pública, defensa y seguridad social;MUJERES;2023;4,1
+977;Max Paredes ;Educación;HOMBRES;2023;4,6
+978;Max Paredes ;Educación;MUJERES;2023;8,0
+979;Max Paredes ;Servicios sociales y de salud;HOMBRES;2023;3,3
+980;Max Paredes ;Servicios sociales y de salud;MUJERES;2023;7,6
+981;Max Paredes ;Servicios comunitarios y personales;HOMBRES;2023;6,0
+982;Max Paredes ;Servicios comunitarios y personales;MUJERES;2023;5,2
+983;Max Paredes ;Hogares privados;HOMBRES;2023;0,3
+984;Max Paredes ;Hogares privados;MUJERES;2023;3,2
+985;Max Paredes ;Organismos extraterritoriales;HOMBRES;2023;0,0
+986;Max Paredes ;Organismos extraterritoriales;MUJERES;2023;0,0
+987;Periférica;Agricultura, ganadería y caza;HOMBRES;2023;1,0
+988;Periférica;Agricultura, ganadería y caza;MUJERES;2023;1,2
+989;Periférica;Silvicultura y pesca;HOMBRES;2023;0,0
+990;Periférica;Silvicultura y pesca;MUJERES;2023;0,0
+991;Periférica;Explotación de minas y canteras;HOMBRES;2023;1,9
+992;Periférica;Explotación de minas y canteras;MUJERES;2023;0,9
+993;Periférica;Industria manufacturera;HOMBRES;2023;14,4
+994;Periférica;Industria manufacturera;MUJERES;2023;10,4
+995;Periférica;Producción y distribución de electricidad, gas y agua;HOMBRES;2023;0,2
+996;Periférica;Producción y distribución de electricidad, gas y agua;MUJERES;2023;0,0
+997;Periférica;Construcción;HOMBRES;2023;8,8
+998;Periférica;Construcción;MUJERES;2023;0,8
+999;Periférica;Venta y reparaciones;HOMBRES;2023;17,8
+1000;Periférica;Venta y reparaciones;MUJERES;2023;32,6
+1001;Periférica;Hoteles y restaurantes;HOMBRES;2023;6,3
+1002;Periférica;Hoteles y restaurantes;MUJERES;2023;13,8
+1003;Periférica;Transporte, almacenamiento, comunicaciones;HOMBRES;2023;13,0
+1004;Periférica;Transporte, almacenamiento, comunicaciones;MUJERES;2023;2,4
+1005;Periférica;Intermediación financiera;HOMBRES;2023;2,1
+1006;Periférica;Intermediación financiera;MUJERES;2023;1,9
+1007;Periférica;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2023;9,3
+1008;Periférica;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2023;8,3
+1009;Periférica;Administración pública, defensa y seguridad social;HOMBRES;2023;8,5
+1010;Periférica;Administración pública, defensa y seguridad social;MUJERES;2023;4,3
+1011;Periférica;Educación;HOMBRES;2023;6,8
+1012;Periférica;Educación;MUJERES;2023;6,4
+1013;Periférica;Servicios sociales y de salud;HOMBRES;2023;3,0
+1014;Periférica;Servicios sociales y de salud;MUJERES;2023;8,6
+1015;Periférica;Servicios comunitarios y personales;HOMBRES;2023;6,7
+1016;Periférica;Servicios comunitarios y personales;MUJERES;2023;5,8
+1017;Periférica;Hogares privados;HOMBRES;2023;0,2
+1018;Periférica;Hogares privados;MUJERES;2023;2,6
+1019;Periférica;Organismos extraterritoriales;HOMBRES;2023;0,0
+1020;Periférica;Organismos extraterritoriales;MUJERES;2023;0,0
+1021;San Antonio ;Agricultura, ganadería y caza;HOMBRES;2023;0,1
+1022;San Antonio ;Agricultura, ganadería y caza;MUJERES;2023;0,2
+1023;San Antonio ;Silvicultura y pesca;HOMBRES;2023;0,0
+1024;San Antonio ;Silvicultura y pesca;MUJERES;2023;0,0
+1025;San Antonio ;Explotación de minas y canteras;HOMBRES;2023;0,2
+1026;San Antonio ;Explotación de minas y canteras;MUJERES;2023;0,7
+1027;San Antonio ;Industria manufacturera;HOMBRES;2023;11,6
+1028;San Antonio ;Industria manufacturera;MUJERES;2023;8,8
+1029;San Antonio ;Producción y distribución de electricidad, gas y agua;HOMBRES;2023;0,1
+1030;San Antonio ;Producción y distribución de electricidad, gas y agua;MUJERES;2023;0,0
+1031;San Antonio ;Construcción;HOMBRES;2023;11,9
+1032;San Antonio ;Construcción;MUJERES;2023;0,6
+1033;San Antonio ;Venta y reparaciones;HOMBRES;2023;17,3
+1034;San Antonio ;Venta y reparaciones;MUJERES;2023;30,3
+1035;San Antonio ;Hoteles y restaurantes;HOMBRES;2023;4,6
+1036;San Antonio ;Hoteles y restaurantes;MUJERES;2023;8,9
+1037;San Antonio ;Transporte, almacenamiento, comunicaciones;HOMBRES;2023;12,2
+1038;San Antonio ;Transporte, almacenamiento, comunicaciones;MUJERES;2023;2,5
+1039;San Antonio ;Intermediación financiera;HOMBRES;2023;2,3
+1040;San Antonio ;Intermediación financiera;MUJERES;2023;1,0
+1041;San Antonio ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2023;14,4
+1042;San Antonio ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2023;10,6
+1043;San Antonio ;Administración pública, defensa y seguridad social;HOMBRES;2023;8,2
+1044;San Antonio ;Administración pública, defensa y seguridad social;MUJERES;2023;4,2
+1045;San Antonio ;Educación;HOMBRES;2023;5,5
+1046;San Antonio ;Educación;MUJERES;2023;9,2
+1047;San Antonio ;Servicios sociales y de salud;HOMBRES;2023;5,8
+1048;San Antonio ;Servicios sociales y de salud;MUJERES;2023;13,2
+1049;San Antonio ;Servicios comunitarios y personales;HOMBRES;2023;5,9
+1050;San Antonio ;Servicios comunitarios y personales;MUJERES;2023;6,8
+1051;San Antonio ;Hogares privados;HOMBRES;2023;0,0
+1052;San Antonio ;Hogares privados;MUJERES;2023;2,9
+1053;San Antonio ;Organismos extraterritoriales;HOMBRES;2023;0,0
+1054;San Antonio ;Organismos extraterritoriales;MUJERES;2023;0,0
+1055;Sur ;Agricultura, ganadería y caza;HOMBRES;2023;0,3
+1056;Sur ;Agricultura, ganadería y caza;MUJERES;2023;0,6
+1057;Sur ;Silvicultura y pesca;HOMBRES;2023;0,0
+1058;Sur ;Silvicultura y pesca;MUJERES;2023;0,0
+1059;Sur ;Explotación de minas y canteras;HOMBRES;2023;2,4
+1060;Sur ;Explotación de minas y canteras;MUJERES;2023;0,4
+1061;Sur ;Industria manufacturera;HOMBRES;2023;7,9
+1062;Sur ;Industria manufacturera;MUJERES;2023;11,5
+1063;Sur ;Producción y distribución de electricidad, gas y agua;HOMBRES;2023;0,0
+1064;Sur ;Producción y distribución de electricidad, gas y agua;MUJERES;2023;0,0
+1065;Sur ;Construcción;HOMBRES;2023;10,5
+1066;Sur ;Construcción;MUJERES;2023;1,0
+1067;Sur ;Venta y reparaciones;HOMBRES;2023;18,3
+1068;Sur ;Venta y reparaciones;MUJERES;2023;24,1
+1069;Sur ;Hoteles y restaurantes;HOMBRES;2023;6,9
+1070;Sur ;Hoteles y restaurantes;MUJERES;2023;10,2
+1071;Sur ;Transporte, almacenamiento, comunicaciones;HOMBRES;2023;12,7
+1072;Sur ;Transporte, almacenamiento, comunicaciones;MUJERES;2023;2,0
+1073;Sur ;Intermediación financiera;HOMBRES;2023;3,5
+1074;Sur ;Intermediación financiera;MUJERES;2023;4,7
+1075;Sur ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2023;11,0
+1076;Sur ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2023;10,1
+1077;Sur ;Administración pública, defensa y seguridad social;HOMBRES;2023;10,1
+1078;Sur ;Administración pública, defensa y seguridad social;MUJERES;2023;5,3
+1079;Sur ;Educación;HOMBRES;2023;4,5
+1080;Sur ;Educación;MUJERES;2023;6,8
+1081;Sur ;Servicios sociales y de salud;HOMBRES;2023;3,9
+1082;Sur ;Servicios sociales y de salud;MUJERES;2023;7,2
+1083;Sur ;Servicios comunitarios y personales;HOMBRES;2023;6,5
+1084;Sur ;Servicios comunitarios y personales;MUJERES;2023;7,9
+1085;Sur ;Hogares privados;HOMBRES;2023;1,4
+1086;Sur ;Hogares privados;MUJERES;2023;8,0
+1087;Sur ;Organismos extraterritoriales;HOMBRES;2023;0,0
+1088;Sur ;Organismos extraterritoriales;MUJERES;2023;0,0
+1089;Mallasa ;Agricultura, ganadería y caza;HOMBRES;2023;2,7
+1090;Mallasa ;Agricultura, ganadería y caza;MUJERES;2023;3,3
+1091;Mallasa ;Silvicultura y pesca;HOMBRES;2023;0,0
+1092;Mallasa ;Silvicultura y pesca;MUJERES;2023;0,0
+1093;Mallasa ;Explotación de minas y canteras;HOMBRES;2023;0,4
+1094;Mallasa ;Explotación de minas y canteras;MUJERES;2023;6,7
+1095;Mallasa ;Industria manufacturera;HOMBRES;2023;11,4
+1096;Mallasa ;Industria manufacturera;MUJERES;2023;3,5
+1097;Mallasa ;Producción y distribución de electricidad, gas y agua;HOMBRES;2023;0,0
+1098;Mallasa ;Producción y distribución de electricidad, gas y agua;MUJERES;2023;0,0
+1099;Mallasa ;Construcción;HOMBRES;2023;23,0
+1100;Mallasa ;Construcción;MUJERES;2023;0,3
+1101;Mallasa ;Venta y reparaciones;HOMBRES;2023;13,6
+1102;Mallasa ;Venta y reparaciones;MUJERES;2023;28,5
+1103;Mallasa ;Hoteles y restaurantes;HOMBRES;2023;6,8
+1104;Mallasa ;Hoteles y restaurantes;MUJERES;2023;8,6
+1105;Mallasa ;Transporte, almacenamiento, comunicaciones;HOMBRES;2023;22,0
+1106;Mallasa ;Transporte, almacenamiento, comunicaciones;MUJERES;2023;0,0
+1107;Mallasa ;Intermediación financiera;HOMBRES;2023;0,4
+1108;Mallasa ;Intermediación financiera;MUJERES;2023;2,4
+1109;Mallasa ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2023;7,5
+1110;Mallasa ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2023;4,8
+1111;Mallasa ;Administración pública, defensa y seguridad social;HOMBRES;2023;0,7
+1112;Mallasa ;Administración pública, defensa y seguridad social;MUJERES;2023;1,2
+1113;Mallasa ;Educación;HOMBRES;2023;1,1
+1114;Mallasa ;Educación;MUJERES;2023;4,5
+1115;Mallasa ;Servicios sociales y de salud;HOMBRES;2023;3,1
+1116;Mallasa ;Servicios sociales y de salud;MUJERES;2023;4,9
+1117;Mallasa ;Servicios comunitarios y personales;HOMBRES;2023;7,4
+1118;Mallasa ;Servicios comunitarios y personales;MUJERES;2023;4,2
+1119;Mallasa ;Hogares privados;HOMBRES;2023;0,0
+1120;Mallasa ;Hogares privados;MUJERES;2023;27,2
+1121;Mallasa ;Organismos extraterritoriales;HOMBRES;2023;0,0
+1122;Mallasa ;Organismos extraterritoriales;MUJERES;2023;0,0
+1123;Centro ;Agricultura, ganadería y caza;HOMBRES;2023;0,5
+1124;Centro ;Agricultura, ganadería y caza;MUJERES;2023;0,4
+1125;Centro ;Silvicultura y pesca;HOMBRES;2023;0,0
+1126;Centro ;Silvicultura y pesca;MUJERES;2023;0,0
+1127;Centro ;Explotación de minas y canteras;HOMBRES;2023;1,2
+1128;Centro ;Explotación de minas y canteras;MUJERES;2023;0,8
+1129;Centro ;Industria manufacturera;HOMBRES;2023;7,2
+1130;Centro ;Industria manufacturera;MUJERES;2023;7,7
+1131;Centro ;Producción y distribución de electricidad, gas y agua;HOMBRES;2023;0,3
+1132;Centro ;Producción y distribución de electricidad, gas y agua;MUJERES;2023;0,0
+1133;Centro ;Construcción;HOMBRES;2023;5,9
+1134;Centro ;Construcción;MUJERES;2023;1,2
+1135;Centro ;Venta y reparaciones;HOMBRES;2023;19,8
+1136;Centro ;Venta y reparaciones;MUJERES;2023;25,7
+1137;Centro ;Hoteles y restaurantes;HOMBRES;2023;9,9
+1138;Centro ;Hoteles y restaurantes;MUJERES;2023;13,2
+1139;Centro ;Transporte, almacenamiento, comunicaciones;HOMBRES;2023;6,0
+1140;Centro ;Transporte, almacenamiento, comunicaciones;MUJERES;2023;3,0
+1141;Centro ;Intermediación financiera;HOMBRES;2023;3,2
+1142;Centro ;Intermediación financiera;MUJERES;2023;4,1
+1143;Centro ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2023;17,8
+1144;Centro ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2023;11,1
+1145;Centro ;Administración pública, defensa y seguridad social;HOMBRES;2023;6,7
+1146;Centro ;Administración pública, defensa y seguridad social;MUJERES;2023;6,1
+1147;Centro ;Educación;HOMBRES;2023;5,1
+1148;Centro ;Educación;MUJERES;2023;7,4
+1149;Centro ;Servicios sociales y de salud;HOMBRES;2023;8,1
+1150;Centro ;Servicios sociales y de salud;MUJERES;2023;10,5
+1151;Centro ;Servicios comunitarios y personales;HOMBRES;2023;6,2
+1152;Centro ;Servicios comunitarios y personales;MUJERES;2023;6,2
+1153;Centro ;Hogares privados;HOMBRES;2023;2,2
+1154;Centro ;Hogares privados;MUJERES;2023;2,6
+1155;Centro ;Organismos extraterritoriales;HOMBRES;2023;0,0
+1156;Centro ;Organismos extraterritoriales;MUJERES;2023;0,0
+1157;Hampaturi;Agricultura, ganadería y caza;HOMBRES;2023;15,6
+1158;Hampaturi;Agricultura, ganadería y caza;MUJERES;2023;28,6
+1159;Hampaturi;Silvicultura y pesca;HOMBRES;2023;1,3
+1160;Hampaturi;Silvicultura y pesca;MUJERES;2023;0,2
+1161;Hampaturi;Explotación de minas y canteras;HOMBRES;2023;6,4
+1162;Hampaturi;Explotación de minas y canteras;MUJERES;2023;4,7
+1163;Hampaturi;Industria manufacturera;HOMBRES;2023;5,2
+1164;Hampaturi;Industria manufacturera;MUJERES;2023;3,9
+1165;Hampaturi;Producción y distribución de electricidad, gas y agua;HOMBRES;2023;0,6
+1166;Hampaturi;Producción y distribución de electricidad, gas y agua;MUJERES;2023;0,0
+1167;Hampaturi;Construcción;HOMBRES;2023;33,1
+1168;Hampaturi;Construcción;MUJERES;2023;2,3
+1169;Hampaturi;Venta y reparaciones;HOMBRES;2023;10,2
+1170;Hampaturi;Venta y reparaciones;MUJERES;2023;25,8
+1171;Hampaturi;Hoteles y restaurantes;HOMBRES;2023;3,8
+1172;Hampaturi;Hoteles y restaurantes;MUJERES;2023;15,6
+1173;Hampaturi;Transporte, almacenamiento, comunicaciones;HOMBRES;2023;16,6
+1174;Hampaturi;Transporte, almacenamiento, comunicaciones;MUJERES;2023;1,1
+1175;Hampaturi;Intermediación financiera;HOMBRES;2023;0,2
+1176;Hampaturi;Intermediación financiera;MUJERES;2023;0,2
+1177;Hampaturi;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2023;1,2
+1178;Hampaturi;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2023;2,0
+1179;Hampaturi;Administración pública, defensa y seguridad social;HOMBRES;2023;2,1
+1180;Hampaturi;Administración pública, defensa y seguridad social;MUJERES;2023;0,2
+1181;Hampaturi;Educación;HOMBRES;2023;1,5
+1182;Hampaturi;Educación;MUJERES;2023;1,8
+1183;Hampaturi;Servicios sociales y de salud;HOMBRES;2023;0,4
+1184;Hampaturi;Servicios sociales y de salud;MUJERES;2023;3,0
+1185;Hampaturi;Servicios comunitarios y personales;HOMBRES;2023;1,7
+1186;Hampaturi;Servicios comunitarios y personales;MUJERES;2023;2,2
+1187;Hampaturi;Hogares privados;HOMBRES;2023;0,1
+1188;Hampaturi;Hogares privados;MUJERES;2023;8,5
+1189;Hampaturi;Organismos extraterritoriales;HOMBRES;2023;0,0
+1190;Hampaturi;Organismos extraterritoriales;MUJERES;2023;0,0
+1191;Zongo ;Agricultura, ganadería y caza;HOMBRES;2023;50,1
+1192;Zongo ;Agricultura, ganadería y caza;MUJERES;2023;53,6
+1193;Zongo ;Silvicultura y pesca;HOMBRES;2023;0,0
+1194;Zongo ;Silvicultura y pesca;MUJERES;2023;0,0
+1195;Zongo ;Explotación de minas y canteras;HOMBRES;2023;25,3
+1196;Zongo ;Explotación de minas y canteras;MUJERES;2023;25,3
+1197;Zongo ;Industria manufacturera;HOMBRES;2023;1,5
+1198;Zongo ;Industria manufacturera;MUJERES;2023;2,3
+1199;Zongo ;Producción y distribución de electricidad, gas y agua;HOMBRES;2023;4,4
+1200;Zongo ;Producción y distribución de electricidad, gas y agua;MUJERES;2023;0,0
+1201;Zongo ;Construcción;HOMBRES;2023;7,3
+1202;Zongo ;Construcción;MUJERES;2023;1,2
+1203;Zongo ;Venta y reparaciones;HOMBRES;2023;1,6
+1204;Zongo ;Venta y reparaciones;MUJERES;2023;9,0
+1205;Zongo ;Hoteles y restaurantes;HOMBRES;2023;0,8
+1206;Zongo ;Hoteles y restaurantes;MUJERES;2023;5,6
+1207;Zongo ;Transporte, almacenamiento, comunicaciones;HOMBRES;2023;4,6
+1208;Zongo ;Transporte, almacenamiento, comunicaciones;MUJERES;2023;0,0
+1209;Zongo ;Intermediación financiera;HOMBRES;2023;0,5
+1210;Zongo ;Intermediación financiera;MUJERES;2023;0,0
+1211;Zongo ;Servicios inmobiliarios, empresariales y de alquiler;HOMBRES;2023;1,1
+1212;Zongo ;Servicios inmobiliarios, empresariales y de alquiler;MUJERES;2023;0,0
+1213;Zongo ;Administración pública, defensa y seguridad social;HOMBRES;2023;0,9
+1214;Zongo ;Administración pública, defensa y seguridad social;MUJERES;2023;0,0
+1215;Zongo ;Educación;HOMBRES;2023;0,4
+1216;Zongo ;Educación;MUJERES;2023;0,8
+1217;Zongo ;Servicios sociales y de salud;HOMBRES;2023;0,6
+1218;Zongo ;Servicios sociales y de salud;MUJERES;2023;0,9
+1219;Zongo ;Servicios comunitarios y personales;HOMBRES;2023;0,8
+1220;Zongo ;Servicios comunitarios y personales;MUJERES;2023;0,9
+1221;Zongo ;Hogares privados;HOMBRES;2023;0,0
+1222;Zongo ;Hogares privados;MUJERES;2023;0,4
+1223;Zongo ;Organismos extraterritoriales;HOMBRES;2023;0,0
+1224;Zongo ;Organismos extraterritoriales;MUJERES;2023;0,0

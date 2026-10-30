@@ -1,0 +1,61 @@
+id;ESTACIÓN DE MONITOREO;CÓDIGO DE ESTACIÓN;AÑO;µg/m3
+1;Tránsito;TR;2010;104
+2;Cotahuma;CH;2010;128
+3;Cota Cota;CC;2010;114
+4;Villa Fátima;VF;2010;48
+5;Tránsito;TR;2011;45
+6;Cotahuma;CH;2011;86
+7;Cota Cota;CC;2011;94
+8;Villa Fátima;VF;2011;46
+9;Tránsito;TR;2012;40
+10;Cotahuma;CH;2012;55
+11;Cota Cota;CC;2012;42
+12;Villa Fátima;VF;2012;31
+13;Tránsito;TR;2013;121
+14;Cotahuma;CH;2013;22
+15;Cota Cota;CC;2013;43
+16;Villa Fátima;VF;2013;77
+17;Tránsito;TR;2014;133
+18;Cotahuma;CH;2014;60
+19;Cota Cota;CC;2014;85
+20;Villa Fátima;VF;2014;71
+21;Tránsito;TR;2015;46
+22;Cotahuma;CH;2015;n.d.
+23;Cota Cota;CC;2015;47
+24;Villa Fátima;VF;2015;61
+25;Tránsito;TR;2016;98
+26;Cotahuma;CH;2016;59
+27;Cota Cota;CC;2016;68
+28;Villa Fátima;VF;2016;74
+29;Tránsito;TR;2017;80
+30;Cotahuma;CH;2017;46
+31;Cota Cota;CC;2017;43
+32;Villa Fátima;VF;2017;53
+33;Tránsito;TR;2018;85
+34;Cotahuma;CH;2018;91
+35;Cota Cota;CC;2018;81
+36;Villa Fátima;VF;2018;80
+37;Tránsito;TR;2019;81
+38;Cotahuma;CH;2019;54
+39;Cota Cota;CC;2019;47
+40;Villa Fátima;VF;2019;77
+41;Tránsito;TR;2020;81
+42;Cotahuma;CH;2020;n.d.
+43;Cota Cota;CC;2020;n.d.
+44;Villa Fátima;VF;2020;n.d.
+45;Tránsito;TR;2021;68
+46;Cotahuma;CH;2021;38
+47;Cota Cota;CC;2021;45
+48;Villa Fátima;VF;2021;55
+49;Tránsito;TR;2022;47
+50;Cotahuma;CH;2022;37
+51;Cota Cota;CC;2022;n.d.
+52;Villa Fátima;VF;2022;14
+53;Tránsito;TR;2023;n.d.
+54;Cotahuma;CH;2023;34,42
+55;Cota Cota;CC;2023;19,29
+56;Villa Fátima;VF;2023;32,93
+57;Tránsito;TR;2024;50
+58;Cotahuma;CH;2024;29
+59;Cota Cota;CC;2024;n.d.
+60;Villa Fátima;VF;2024;35

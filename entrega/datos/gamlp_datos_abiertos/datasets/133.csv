@@ -1,0 +1,631 @@
+id;MACRODISTRITO;DISTRITO;SEXO;AÑO; GREMIALES EN VÍA PÚBLICA
+1;Cotahuma;Distrito 3;MUJERES;2010;296
+2;Cotahuma;Distrito 4;MUJERES;2010;275
+3;Cotahuma;Distrito 5;MUJERES;2010;185
+4;Cotahuma;Distrito 6;MUJERES;2010;2152
+5;Max Paredes;Distrito 7;MUJERES;2010;4905
+6;Max Paredes;Distrito 8;MUJERES;2010;1678
+7;Max Paredes;Distrito 9;MUJERES;2010;338
+8;Max Paredes;Distrito 10;MUJERES;2010;85
+9;Periférica;Distrito 11;MUJERES;2010;410
+10;Periférica;Distrito 12;MUJERES;2010;169
+11;Periférica;Distrito 13;MUJERES;2010;924
+12;San Antonio;Distrito 14;MUJERES;2010;161
+13;San Antonio;Distrito 15;MUJERES;2010;220
+14;San Antonio;Distrito 16;MUJERES;2010;166
+15;San Antonio;Distrito 17;MUJERES;2010;71
+16;Sur;Distrito 18;MUJERES;2010;157
+17;Sur;Distrito 19;MUJERES;2010;325
+18;Sur;Distrito 21;MUJERES;2010;189
+19;Mallasa;Distrito 20;MUJERES;2010;2
+20;Mallasa;Distrito 1;MUJERES;2010;9643
+21;Mallasa;Distrito 2;MUJERES;2010;983
+22;Cotahuma;Distrito 3;HOMBRES;2010;107
+23;Cotahuma;Distrito 4;HOMBRES;2010;43
+24;Cotahuma;Distrito 5;HOMBRES;2010;32
+25;Cotahuma;Distrito 6;HOMBRES;2010;432
+26;Max Paredes;Distrito 7;HOMBRES;2010;1006
+27;Max Paredes;Distrito 8;HOMBRES;2010;372
+28;Max Paredes;Distrito 9;HOMBRES;2010;87
+29;Max Paredes;Distrito 10;HOMBRES;2010;15
+30;Periférica;Distrito 11;HOMBRES;2010;80
+31;Periférica;Distrito 12;HOMBRES;2010;59
+32;Periférica;Distrito 13;HOMBRES;2010;178
+33;San Antonio;Distrito 14;HOMBRES;2010;55
+34;San Antonio;Distrito 15;HOMBRES;2010;26
+35;San Antonio;Distrito 16;HOMBRES;2010;29
+36;San Antonio;Distrito 17;HOMBRES;2010;21
+37;Sur;Distrito 18;HOMBRES;2010;33
+38;Sur;Distrito 19;HOMBRES;2010;72
+39;Sur;Distrito 21;HOMBRES;2010;36
+40;Mallasa;Distrito 20;HOMBRES;2010;0
+41;Mallasa;Distrito 1;HOMBRES;2010;2027
+42;Mallasa;Distrito 2;HOMBRES;2010;218
+43;Cotahuma;Distrito 3;MUJERES;2011;299
+44;Cotahuma;Distrito 4;MUJERES;2011;278
+45;Cotahuma;Distrito 5;MUJERES;2011;187
+46;Cotahuma;Distrito 6;MUJERES;2011;2154
+47;Max Paredes;Distrito 7;MUJERES;2011;4924
+48;Max Paredes;Distrito 8;MUJERES;2011;1684
+49;Max Paredes;Distrito 9;MUJERES;2011;341
+50;Max Paredes;Distrito 10;MUJERES;2011;85
+51;Periférica;Distrito 11;MUJERES;2011;412
+52;Periférica;Distrito 12;MUJERES;2011;170
+53;Periférica;Distrito 13;MUJERES;2011;928
+54;San Antonio;Distrito 14;MUJERES;2011;162
+55;San Antonio;Distrito 15;MUJERES;2011;221
+56;San Antonio;Distrito 16;MUJERES;2011;167
+57;San Antonio;Distrito 17;MUJERES;2011;71
+58;Sur;Distrito 18;MUJERES;2011;158
+59;Sur;Distrito 19;MUJERES;2011;327
+60;Sur;Distrito 21;MUJERES;2011;190
+61;Mallasa;Distrito 20;MUJERES;2011;2
+62;Mallasa;Distrito 1;MUJERES;2011;9686
+63;Mallasa;Distrito 2;MUJERES;2011;987
+64;Cotahuma;Distrito 3;HOMBRES;2011;108
+65;Cotahuma;Distrito 4;HOMBRES;2011;43
+66;Cotahuma;Distrito 5;HOMBRES;2011;32
+67;Cotahuma;Distrito 6;HOMBRES;2011;436
+68;Max Paredes;Distrito 7;HOMBRES;2011;1012
+69;Max Paredes;Distrito 8;HOMBRES;2011;375
+70;Max Paredes;Distrito 9;HOMBRES;2011;87
+71;Max Paredes;Distrito 10;HOMBRES;2011;15
+72;Periférica;Distrito 11;HOMBRES;2011;80
+73;Periférica;Distrito 12;HOMBRES;2011;59
+74;Periférica;Distrito 13;HOMBRES;2011;179
+75;San Antonio;Distrito 14;HOMBRES;2011;55
+76;San Antonio;Distrito 15;HOMBRES;2011;26
+77;San Antonio;Distrito 16;HOMBRES;2011;29
+78;San Antonio;Distrito 17;HOMBRES;2011;21
+79;Sur;Distrito 18;HOMBRES;2011;33
+80;Sur;Distrito 19;HOMBRES;2011;72
+81;Sur;Distrito 21;HOMBRES;2011;36
+82;Mallasa;Distrito 20;HOMBRES;2011;0
+83;Mallasa;Distrito 1;HOMBRES;2011;2036
+84;Mallasa;Distrito 2;HOMBRES;2011;219
+85;Cotahuma;Distrito 3;MUJERES;2012;297
+86;Cotahuma;Distrito 4;MUJERES;2012;276
+87;Cotahuma;Distrito 5;MUJERES;2012;186
+88;Cotahuma;Distrito 6;MUJERES;2012;2140
+89;Max Paredes;Distrito 7;MUJERES;2012;4893
+90;Max Paredes;Distrito 8;MUJERES;2012;1673
+91;Max Paredes;Distrito 9;MUJERES;2012;339
+92;Max Paredes;Distrito 10;MUJERES;2012;84
+93;Periférica;Distrito 11;MUJERES;2012;409
+94;Periférica;Distrito 12;MUJERES;2012;169
+95;Periférica;Distrito 13;MUJERES;2012;922
+96;San Antonio;Distrito 14;MUJERES;2012;161
+97;San Antonio;Distrito 15;MUJERES;2012;220
+98;San Antonio;Distrito 16;MUJERES;2012;166
+99;San Antonio;Distrito 17;MUJERES;2012;71
+100;Sur;Distrito 18;MUJERES;2012;157
+101;Sur;Distrito 19;MUJERES;2012;325
+102;Sur;Distrito 21;MUJERES;2012;189
+103;Mallasa;Distrito 20;MUJERES;2012;2
+104;Mallasa;Distrito 1;MUJERES;2012;9625
+105;Mallasa;Distrito 2;MUJERES;2012;981
+106;Cotahuma;Distrito 3;HOMBRES;2012;107
+107;Cotahuma;Distrito 4;HOMBRES;2012;43
+108;Cotahuma;Distrito 5;HOMBRES;2012;32
+109;Cotahuma;Distrito 6;HOMBRES;2012;433
+110;Max Paredes;Distrito 7;HOMBRES;2012;1006
+111;Max Paredes;Distrito 8;HOMBRES;2012;373
+112;Max Paredes;Distrito 9;HOMBRES;2012;86
+113;Max Paredes;Distrito 10;HOMBRES;2012;15
+114;Periférica;Distrito 11;HOMBRES;2012;79
+115;Periférica;Distrito 12;HOMBRES;2012;59
+116;Periférica;Distrito 13;HOMBRES;2012;178
+117;San Antonio;Distrito 14;HOMBRES;2012;55
+118;San Antonio;Distrito 15;HOMBRES;2012;26
+119;San Antonio;Distrito 16;HOMBRES;2012;29
+120;San Antonio;Distrito 17;HOMBRES;2012;21
+121;Sur;Distrito 18;HOMBRES;2012;33
+122;Sur;Distrito 19;HOMBRES;2012;72
+123;Sur;Distrito 21;HOMBRES;2012;36
+124;Mallasa;Distrito 20;HOMBRES;2012;0
+125;Mallasa;Distrito 1;HOMBRES;2012;2023
+126;Mallasa;Distrito 2;HOMBRES;2012;218
+127;Cotahuma;Distrito 3;MUJERES;2013;305
+128;Cotahuma;Distrito 4;MUJERES;2013;284
+129;Cotahuma;Distrito 5;MUJERES;2013;191
+130;Cotahuma;Distrito 6;MUJERES;2013;2199
+131;Max Paredes;Distrito 7;MUJERES;2013;5026
+132;Max Paredes;Distrito 8;MUJERES;2013;1719
+133;Max Paredes;Distrito 9;MUJERES;2013;348
+134;Max Paredes;Distrito 10;MUJERES;2013;87
+135;Periférica;Distrito 11;MUJERES;2013;421
+136;Periférica;Distrito 12;MUJERES;2013;174
+137;Periférica;Distrito 13;MUJERES;2013;947
+138;San Antonio;Distrito 14;MUJERES;2013;165
+139;San Antonio;Distrito 15;MUJERES;2013;226
+140;San Antonio;Distrito 16;MUJERES;2013;170
+141;San Antonio;Distrito 17;MUJERES;2013;72
+142;Sur;Distrito 18;MUJERES;2013;161
+143;Sur;Distrito 19;MUJERES;2013;334
+144;Sur;Distrito 21;MUJERES;2013;194
+145;Mallasa;Distrito 20;MUJERES;2013;2
+146;Mallasa;Distrito 1;MUJERES;2013;9886
+147;Mallasa;Distrito 2;MUJERES;2013;1007
+148;Cotahuma;Distrito 3;HOMBRES;2013;110
+149;Cotahuma;Distrito 4;HOMBRES;2013;44
+150;Cotahuma;Distrito 5;HOMBRES;2013;33
+151;Cotahuma;Distrito 6;HOMBRES;2013;445
+152;Max Paredes;Distrito 7;HOMBRES;2013;1033
+153;Max Paredes;Distrito 8;HOMBRES;2013;383
+154;Max Paredes;Distrito 9;HOMBRES;2013;89
+155;Max Paredes;Distrito 10;HOMBRES;2013;15
+156;Periférica;Distrito 11;HOMBRES;2013;82
+157;Periférica;Distrito 12;HOMBRES;2013;60
+158;Periférica;Distrito 13;HOMBRES;2013;183
+159;San Antonio;Distrito 14;HOMBRES;2013;56
+160;San Antonio;Distrito 15;HOMBRES;2013;27
+161;San Antonio;Distrito 16;HOMBRES;2013;30
+162;San Antonio;Distrito 17;HOMBRES;2013;21
+163;Sur;Distrito 18;HOMBRES;2013;34
+164;Sur;Distrito 19;HOMBRES;2013;73
+165;Sur;Distrito 21;HOMBRES;2013;37
+166;Mallasa;Distrito 20;HOMBRES;2013;0
+167;Mallasa;Distrito 1;HOMBRES;2013;2078
+168;Mallasa;Distrito 2;HOMBRES;2013;224
+169;Cotahuma;Distrito 3;MUJERES;2014;302
+170;Cotahuma;Distrito 4;MUJERES;2014;281
+171;Cotahuma;Distrito 5;MUJERES;2014;189
+172;Cotahuma;Distrito 6;MUJERES;2014;2175
+173;Max Paredes;Distrito 7;MUJERES;2014;4971
+174;Max Paredes;Distrito 8;MUJERES;2014;1701
+175;Max Paredes;Distrito 9;MUJERES;2014;344
+176;Max Paredes;Distrito 10;MUJERES;2014;86
+177;Periférica;Distrito 11;MUJERES;2014;416
+178;Periférica;Distrito 12;MUJERES;2014;173
+179;Periférica;Distrito 13;MUJERES;2014;937
+180;San Antonio;Distrito 14;MUJERES;2014;163
+181;San Antonio;Distrito 15;MUJERES;2014;224
+182;San Antonio;Distrito 16;MUJERES;2014;168
+183;San Antonio;Distrito 17;MUJERES;2014;71
+184;Sur;Distrito 18;MUJERES;2014;159
+185;Sur;Distrito 19;MUJERES;2014;330
+186;Sur;Distrito 21;MUJERES;2014;192
+187;Mallasa;Distrito 20;MUJERES;2014;2
+188;Mallasa;Distrito 1;MUJERES;2014;9777
+189;Mallasa;Distrito 2;MUJERES;2014;996
+190;Cotahuma;Distrito 3;HOMBRES;2014;109
+191;Cotahuma;Distrito 4;HOMBRES;2014;44
+192;Cotahuma;Distrito 5;HOMBRES;2014;33
+193;Cotahuma;Distrito 6;HOMBRES;2014;442
+194;Max Paredes;Distrito 7;HOMBRES;2014;1027
+195;Max Paredes;Distrito 8;HOMBRES;2014;381
+196;Max Paredes;Distrito 9;HOMBRES;2014;88
+197;Max Paredes;Distrito 10;HOMBRES;2014;15
+198;Periférica;Distrito 11;HOMBRES;2014;82
+199;Periférica;Distrito 12;HOMBRES;2014;60
+200;Periférica;Distrito 13;HOMBRES;2014;182
+201;San Antonio;Distrito 14;HOMBRES;2014;56
+202;San Antonio;Distrito 15;HOMBRES;2014;27
+203;San Antonio;Distrito 16;HOMBRES;2014;30
+204;San Antonio;Distrito 17;HOMBRES;2014;21
+205;Sur;Distrito 18;HOMBRES;2014;34
+206;Sur;Distrito 19;HOMBRES;2014;73
+207;Sur;Distrito 21;HOMBRES;2014;37
+208;Mallasa;Distrito 20;HOMBRES;2014;0
+209;Mallasa;Distrito 1;HOMBRES;2014;2066
+210;Mallasa;Distrito 2;HOMBRES;2014;223
+211;Cotahuma;Distrito 3;MUJERES;2015;294
+212;Cotahuma;Distrito 4;MUJERES;2015;273
+213;Cotahuma;Distrito 5;MUJERES;2015;184
+214;Cotahuma;Distrito 6;MUJERES;2015;2116
+215;Max Paredes;Distrito 7;MUJERES;2015;4835
+216;Max Paredes;Distrito 8;MUJERES;2015;1655
+217;Max Paredes;Distrito 9;MUJERES;2015;335
+218;Max Paredes;Distrito 10;MUJERES;2015;84
+219;Periférica;Distrito 11;MUJERES;2015;405
+220;Periférica;Distrito 12;MUJERES;2015;168
+221;Periférica;Distrito 13;MUJERES;2015;911
+222;San Antonio;Distrito 14;MUJERES;2015;159
+223;San Antonio;Distrito 15;MUJERES;2015;218
+224;San Antonio;Distrito 16;MUJERES;2015;163
+225;San Antonio;Distrito 17;MUJERES;2015;69
+226;Sur;Distrito 18;MUJERES;2015;155
+227;Sur;Distrito 19;MUJERES;2015;321
+228;Sur;Distrito 21;MUJERES;2015;187
+229;Mallasa;Distrito 20;MUJERES;2015;2
+230;Mallasa;Distrito 1;MUJERES;2015;9510
+231;Mallasa;Distrito 2;MUJERES;2015;969
+232;Cotahuma;Distrito 3;HOMBRES;2015;106
+233;Cotahuma;Distrito 4;HOMBRES;2015;43
+234;Cotahuma;Distrito 5;HOMBRES;2015;32
+235;Cotahuma;Distrito 6;HOMBRES;2015;430
+236;Max Paredes;Distrito 7;HOMBRES;2015;999
+237;Max Paredes;Distrito 8;HOMBRES;2015;370
+238;Max Paredes;Distrito 9;HOMBRES;2015;85
+239;Max Paredes;Distrito 10;HOMBRES;2015;14
+240;Periférica;Distrito 11;HOMBRES;2015;79
+241;Periférica;Distrito 12;HOMBRES;2015;59
+242;Periférica;Distrito 13;HOMBRES;2015;177
+243;San Antonio;Distrito 14;HOMBRES;2015;54
+244;San Antonio;Distrito 15;HOMBRES;2015;26
+245;San Antonio;Distrito 16;HOMBRES;2015;30
+246;San Antonio;Distrito 17;HOMBRES;2015;20
+247;Sur;Distrito 18;HOMBRES;2015;33
+248;Sur;Distrito 19;HOMBRES;2015;71
+249;Sur;Distrito 21;HOMBRES;2015;36
+250;Mallasa;Distrito 20;HOMBRES;2015;0
+251;Mallasa;Distrito 1;HOMBRES;2015;2010
+252;Mallasa;Distrito 2;HOMBRES;2015;217
+253;Cotahuma;Distrito 3;MUJERES;2016;302
+254;Cotahuma;Distrito 4;MUJERES;2016;283
+255;Cotahuma;Distrito 5;MUJERES;2016;212
+256;Cotahuma;Distrito 6;MUJERES;2016;2183
+257;Max Paredes;Distrito 7;MUJERES;2016;4921
+258;Max Paredes;Distrito 8;MUJERES;2016;1665
+259;Max Paredes;Distrito 9;MUJERES;2016;335
+260;Max Paredes;Distrito 10;MUJERES;2016;84
+261;Periférica;Distrito 11;MUJERES;2016;409
+262;Periférica;Distrito 12;MUJERES;2016;171
+263;Periférica;Distrito 13;MUJERES;2016;915
+264;San Antonio;Distrito 14;MUJERES;2016;273
+265;San Antonio;Distrito 15;MUJERES;2016;243
+266;San Antonio;Distrito 16;MUJERES;2016;168
+267;San Antonio;Distrito 17;MUJERES;2016;69
+268;Sur;Distrito 18;MUJERES;2016;167
+269;Sur;Distrito 19;MUJERES;2016;333
+270;Sur;Distrito 21;MUJERES;2016;221
+271;Mallasa;Distrito 20;MUJERES;2016;2
+272;Mallasa;Distrito 1;MUJERES;2016;9589
+273;Mallasa;Distrito 2;MUJERES;2016;969
+274;Cotahuma;Distrito 3;HOMBRES;2016;106
+275;Cotahuma;Distrito 4;HOMBRES;2016;43
+276;Cotahuma;Distrito 5;HOMBRES;2016;32
+277;Cotahuma;Distrito 6;HOMBRES;2016;430
+278;Max Paredes;Distrito 7;HOMBRES;2016;999
+279;Max Paredes;Distrito 8;HOMBRES;2016;370
+280;Max Paredes;Distrito 9;HOMBRES;2016;85
+281;Max Paredes;Distrito 10;HOMBRES;2016;14
+282;Periférica;Distrito 11;HOMBRES;2016;79
+283;Periférica;Distrito 12;HOMBRES;2016;59
+284;Periférica;Distrito 13;HOMBRES;2016;177
+285;San Antonio;Distrito 14;HOMBRES;2016;54
+286;San Antonio;Distrito 15;HOMBRES;2016;26
+287;San Antonio;Distrito 16;HOMBRES;2016;30
+288;San Antonio;Distrito 17;HOMBRES;2016;20
+289;Sur;Distrito 18;HOMBRES;2016;33
+290;Sur;Distrito 19;HOMBRES;2016;71
+291;Sur;Distrito 21;HOMBRES;2016;36
+292;Mallasa;Distrito 20;HOMBRES;2016;4
+293;Mallasa;Distrito 1;HOMBRES;2016;2010
+294;Mallasa;Distrito 2;HOMBRES;2016;217
+295;Cotahuma;Distrito 3;MUJERES;2017;304
+296;Cotahuma;Distrito 4;MUJERES;2017;285
+297;Cotahuma;Distrito 5;MUJERES;2017;213
+298;Cotahuma;Distrito 6;MUJERES;2017;2196
+299;Max Paredes;Distrito 7;MUJERES;2017;4950
+300;Max Paredes;Distrito 8;MUJERES;2017;1675
+301;Max Paredes;Distrito 9;MUJERES;2017;337
+302;Max Paredes;Distrito 10;MUJERES;2017;84
+303;Periférica;Distrito 11;MUJERES;2017;411
+304;Periférica;Distrito 12;MUJERES;2017;172
+305;Periférica;Distrito 13;MUJERES;2017;920
+306;San Antonio;Distrito 14;MUJERES;2017;275
+307;San Antonio;Distrito 15;MUJERES;2017;244
+308;San Antonio;Distrito 16;MUJERES;2017;169
+309;San Antonio;Distrito 17;MUJERES;2017;69
+310;Sur;Distrito 18;MUJERES;2017;168
+311;Sur;Distrito 19;MUJERES;2017;335
+312;Sur;Distrito 21;MUJERES;2017;222
+313;Mallasa;Distrito 20;MUJERES;2017;2
+314;Mallasa;Distrito 1;MUJERES;2017;9646
+315;Mallasa;Distrito 2;MUJERES;2017;975
+316;Cotahuma;Distrito 3;HOMBRES;2017;107
+317;Cotahuma;Distrito 4;HOMBRES;2017;43
+318;Cotahuma;Distrito 5;HOMBRES;2017;32
+319;Cotahuma;Distrito 6;HOMBRES;2017;432
+320;Max Paredes;Distrito 7;HOMBRES;2017;1005
+321;Max Paredes;Distrito 8;HOMBRES;2017;372
+322;Max Paredes;Distrito 9;HOMBRES;2017;85
+323;Max Paredes;Distrito 10;HOMBRES;2017;14
+324;Periférica;Distrito 11;HOMBRES;2017;79
+325;Periférica;Distrito 12;HOMBRES;2017;59
+326;Periférica;Distrito 13;HOMBRES;2017;178
+327;San Antonio;Distrito 14;HOMBRES;2017;54
+328;San Antonio;Distrito 15;HOMBRES;2017;26
+329;San Antonio;Distrito 16;HOMBRES;2017;30
+330;San Antonio;Distrito 17;HOMBRES;2017;20
+331;Sur;Distrito 18;HOMBRES;2017;33
+332;Sur;Distrito 19;HOMBRES;2017;71
+333;Sur;Distrito 21;HOMBRES;2017;36
+334;Mallasa;Distrito 20;HOMBRES;2017;4
+335;Mallasa;Distrito 1;HOMBRES;2017;2022
+336;Mallasa;Distrito 2;HOMBRES;2017;218
+337;Cotahuma;Distrito 3;MUJERES;2018;304
+338;Cotahuma;Distrito 4;MUJERES;2018;285
+339;Cotahuma;Distrito 5;MUJERES;2018;213
+340;Cotahuma;Distrito 6;MUJERES;2018;2194
+341;Max Paredes;Distrito 7;MUJERES;2018;4946
+342;Max Paredes;Distrito 8;MUJERES;2018;1674
+343;Max Paredes;Distrito 9;MUJERES;2018;337
+344;Max Paredes;Distrito 10;MUJERES;2018;84
+345;Periférica;Distrito 11;MUJERES;2018;411
+346;Periférica;Distrito 12;MUJERES;2018;172
+347;Periférica;Distrito 13;MUJERES;2018;919
+348;San Antonio;Distrito 14;MUJERES;2018;275
+349;San Antonio;Distrito 15;MUJERES;2018;244
+350;San Antonio;Distrito 16;MUJERES;2018;169
+351;San Antonio;Distrito 17;MUJERES;2018;69
+352;Sur;Distrito 18;MUJERES;2018;168
+353;Sur;Distrito 19;MUJERES;2018;335
+354;Sur;Distrito 21;MUJERES;2018;222
+355;Mallasa;Distrito 20;MUJERES;2018;2
+356;Mallasa;Distrito 1;MUJERES;2018;9639
+357;Mallasa;Distrito 2;MUJERES;2018;974
+358;Cotahuma;Distrito 3;HOMBRES;2018;107
+359;Cotahuma;Distrito 4;HOMBRES;2018;43
+360;Cotahuma;Distrito 5;HOMBRES;2018;32
+361;Cotahuma;Distrito 6;HOMBRES;2018;432
+362;Max Paredes;Distrito 7;HOMBRES;2018;1004
+363;Max Paredes;Distrito 8;HOMBRES;2018;372
+364;Max Paredes;Distrito 9;HOMBRES;2018;85
+365;Max Paredes;Distrito 10;HOMBRES;2018;14
+366;Periférica;Distrito 11;HOMBRES;2018;79
+367;Periférica;Distrito 12;HOMBRES;2018;59
+368;Periférica;Distrito 13;HOMBRES;2018;178
+369;San Antonio;Distrito 14;HOMBRES;2018;54
+370;San Antonio;Distrito 15;HOMBRES;2018;26
+371;San Antonio;Distrito 16;HOMBRES;2018;30
+372;San Antonio;Distrito 17;HOMBRES;2018;20
+373;Sur;Distrito 18;HOMBRES;2018;33
+374;Sur;Distrito 19;HOMBRES;2018;71
+375;Sur;Distrito 21;HOMBRES;2018;36
+376;Mallasa;Distrito 20;HOMBRES;2018;4
+377;Mallasa;Distrito 1;HOMBRES;2018;2020
+378;Mallasa;Distrito 2;HOMBRES;2018;218
+379;Cotahuma;Distrito 3;MUJERES;2019;326
+380;Cotahuma;Distrito 4;MUJERES;2019;305
+381;Cotahuma;Distrito 5;MUJERES;2019;228
+382;Cotahuma;Distrito 6;MUJERES;2019;2354
+383;Max Paredes;Distrito 7;MUJERES;2019;5305
+384;Max Paredes;Distrito 8;MUJERES;2019;1795
+385;Max Paredes;Distrito 9;MUJERES;2019;361
+386;Max Paredes;Distrito 10;MUJERES;2019;90
+387;Periférica;Distrito 11;MUJERES;2019;441
+388;Periférica;Distrito 12;MUJERES;2019;184
+389;Periférica;Distrito 13;MUJERES;2019;986
+390;San Antonio;Distrito 14;MUJERES;2019;295
+391;San Antonio;Distrito 15;MUJERES;2019;262
+392;San Antonio;Distrito 16;MUJERES;2019;181
+393;San Antonio;Distrito 17;MUJERES;2019;74
+394;Sur;Distrito 18;MUJERES;2019;180
+395;Sur;Distrito 19;MUJERES;2019;359
+396;Sur;Distrito 21;MUJERES;2019;238
+397;Mallasa;Distrito 20;MUJERES;2019;2
+398;Mallasa;Distrito 1;MUJERES;2019;10338
+399;Mallasa;Distrito 2;MUJERES;2019;1045
+400;Cotahuma;Distrito 3;HOMBRES;2019;115
+401;Cotahuma;Distrito 4;HOMBRES;2019;46
+402;Cotahuma;Distrito 5;HOMBRES;2019;34
+403;Cotahuma;Distrito 6;HOMBRES;2019;463
+404;Max Paredes;Distrito 7;HOMBRES;2019;1077
+405;Max Paredes;Distrito 8;HOMBRES;2019;399
+406;Max Paredes;Distrito 9;HOMBRES;2019;91
+407;Max Paredes;Distrito 10;HOMBRES;2019;15
+408;Periférica;Distrito 11;HOMBRES;2019;85
+409;Periférica;Distrito 12;HOMBRES;2019;63
+410;Periférica;Distrito 13;HOMBRES;2019;191
+411;San Antonio;Distrito 14;HOMBRES;2019;58
+412;San Antonio;Distrito 15;HOMBRES;2019;28
+413;San Antonio;Distrito 16;HOMBRES;2019;32
+414;San Antonio;Distrito 17;HOMBRES;2019;21
+415;Sur;Distrito 18;HOMBRES;2019;35
+416;Sur;Distrito 19;HOMBRES;2019;76
+417;Sur;Distrito 21;HOMBRES;2019;39
+418;Mallasa;Distrito 20;HOMBRES;2019;4
+419;Mallasa;Distrito 1;HOMBRES;2019;2167
+420;Mallasa;Distrito 2;HOMBRES;2019;234
+421;Cotahuma;Distrito 3;MUJERES;2020;283
+422;Cotahuma;Distrito 4;MUJERES;2020;266
+423;Cotahuma;Distrito 5;MUJERES;2020;198
+424;Cotahuma;Distrito 6;MUJERES;2020;2046
+425;Max Paredes;Distrito 7;MUJERES;2020;4613
+426;Max Paredes;Distrito 8;MUJERES;2020;1561
+427;Max Paredes;Distrito 9;MUJERES;2020;314
+428;Max Paredes;Distrito 10;MUJERES;2020;78
+429;Periférica;Distrito 11;MUJERES;2020;383
+430;Periférica;Distrito 12;MUJERES;2020;160
+431;Periférica;Distrito 13;MUJERES;2020;857
+432;San Antonio;Distrito 14;MUJERES;2020;256
+433;San Antonio;Distrito 15;MUJERES;2020;227
+434;San Antonio;Distrito 16;MUJERES;2020;157
+435;San Antonio;Distrito 17;MUJERES;2020;64
+436;Sur;Distrito 18;MUJERES;2020;157
+437;Sur;Distrito 19;MUJERES;2020;312
+438;Sur;Distrito 21;MUJERES;2020;207
+439;Mallasa;Distrito 20;MUJERES;2020;2
+440;Mallasa;Distrito 1;MUJERES;2020;8989
+441;Mallasa;Distrito 2;MUJERES;2020;909
+442;Cotahuma;Distrito 3;HOMBRES;2020;100
+443;Cotahuma;Distrito 4;HOMBRES;2020;40
+444;Cotahuma;Distrito 5;HOMBRES;2020;30
+445;Cotahuma;Distrito 6;HOMBRES;2020;403
+446;Max Paredes;Distrito 7;HOMBRES;2020;937
+447;Max Paredes;Distrito 8;HOMBRES;2020;347
+448;Max Paredes;Distrito 9;HOMBRES;2020;79
+449;Max Paredes;Distrito 10;HOMBRES;2020;13
+450;Periférica;Distrito 11;HOMBRES;2020;74
+451;Periférica;Distrito 12;HOMBRES;2020;55
+452;Periférica;Distrito 13;HOMBRES;2020;166
+453;San Antonio;Distrito 14;HOMBRES;2020;50
+454;San Antonio;Distrito 15;HOMBRES;2020;24
+455;San Antonio;Distrito 16;HOMBRES;2020;28
+456;San Antonio;Distrito 17;HOMBRES;2020;19
+457;Sur;Distrito 18;HOMBRES;2020;31
+458;Sur;Distrito 19;HOMBRES;2020;66
+459;Sur;Distrito 21;HOMBRES;2020;34
+460;Mallasa;Distrito 20;HOMBRES;2020;4
+461;Mallasa;Distrito 1;HOMBRES;2020;1884
+462;Mallasa;Distrito 2;HOMBRES;2020;203
+463;Cotahuma;Distrito 3;MUJERES;2021;283
+464;Cotahuma;Distrito 4;MUJERES;2021;266
+465;Cotahuma;Distrito 5;MUJERES;2021;198
+466;Cotahuma;Distrito 6;MUJERES;2021;2046
+467;Max Paredes;Distrito 7;MUJERES;2021;4613
+468;Max Paredes;Distrito 8;MUJERES;2021;1561
+469;Max Paredes;Distrito 9;MUJERES;2021;314
+470;Max Paredes;Distrito 10;MUJERES;2021;78
+471;Periférica;Distrito 11;MUJERES;2021;383
+472;Periférica;Distrito 12;MUJERES;2021;160
+473;Periférica;Distrito 13;MUJERES;2021;857
+474;San Antonio;Distrito 14;MUJERES;2021;256
+475;San Antonio;Distrito 15;MUJERES;2021;227
+476;San Antonio;Distrito 16;MUJERES;2021;157
+477;San Antonio;Distrito 17;MUJERES;2021;64
+478;Sur;Distrito 18;MUJERES;2021;157
+479;Sur;Distrito 19;MUJERES;2021;312
+480;Sur;Distrito 21;MUJERES;2021;207
+481;Mallasa;Distrito 20;MUJERES;2021;2
+482;Mallasa;Distrito 1;MUJERES;2021;8989
+483;Mallasa;Distrito 2;MUJERES;2021;909
+484;Cotahuma;Distrito 3;HOMBRES;2021;100
+485;Cotahuma;Distrito 4;HOMBRES;2021;40
+486;Cotahuma;Distrito 5;HOMBRES;2021;30
+487;Cotahuma;Distrito 6;HOMBRES;2021;403
+488;Max Paredes;Distrito 7;HOMBRES;2021;937
+489;Max Paredes;Distrito 8;HOMBRES;2021;347
+490;Max Paredes;Distrito 9;HOMBRES;2021;79
+491;Max Paredes;Distrito 10;HOMBRES;2021;13
+492;Periférica;Distrito 11;HOMBRES;2021;74
+493;Periférica;Distrito 12;HOMBRES;2021;55
+494;Periférica;Distrito 13;HOMBRES;2021;166
+495;San Antonio;Distrito 14;HOMBRES;2021;50
+496;San Antonio;Distrito 15;HOMBRES;2021;24
+497;San Antonio;Distrito 16;HOMBRES;2021;28
+498;San Antonio;Distrito 17;HOMBRES;2021;19
+499;Sur;Distrito 18;HOMBRES;2021;31
+500;Sur;Distrito 19;HOMBRES;2021;66
+501;Sur;Distrito 21;HOMBRES;2021;34
+502;Mallasa;Distrito 20;HOMBRES;2021;4
+503;Mallasa;Distrito 1;HOMBRES;2021;1884
+504;Mallasa;Distrito 2;HOMBRES;2021;203
+505;Cotahuma;Distrito 3;MUJERES;2022;283
+506;Cotahuma;Distrito 4;MUJERES;2022;265
+507;Cotahuma;Distrito 5;MUJERES;2022;198
+508;Cotahuma;Distrito 6;MUJERES;2022;2042
+509;Max Paredes;Distrito 7;MUJERES;2022;4604
+510;Max Paredes;Distrito 8;MUJERES;2022;1558
+511;Max Paredes;Distrito 9;MUJERES;2022;313
+512;Max Paredes;Distrito 10;MUJERES;2022;78
+513;Periférica;Distrito 11;MUJERES;2022;382
+514;Periférica;Distrito 12;MUJERES;2022;160
+515;Periférica;Distrito 13;MUJERES;2022;856
+516;San Antonio;Distrito 14;MUJERES;2022;256
+517;San Antonio;Distrito 15;MUJERES;2022;227
+518;San Antonio;Distrito 16;MUJERES;2022;157
+519;San Antonio;Distrito 17;MUJERES;2022;64
+520;Sur;Distrito 18;MUJERES;2022;156
+521;Sur;Distrito 19;MUJERES;2022;312
+522;Sur;Distrito 21;MUJERES;2022;206
+523;Mallasa;Distrito 20;MUJERES;2022;2
+524;Mallasa;Distrito 1;MUJERES;2022;8971
+525;Mallasa;Distrito 2;MUJERES;2022;907
+526;Cotahuma;Distrito 3;HOMBRES;2022;100
+527;Cotahuma;Distrito 4;HOMBRES;2022;40
+528;Cotahuma;Distrito 5;HOMBRES;2022;30
+529;Cotahuma;Distrito 6;HOMBRES;2022;402
+530;Max Paredes;Distrito 7;HOMBRES;2022;935
+531;Max Paredes;Distrito 8;HOMBRES;2022;346
+532;Max Paredes;Distrito 9;HOMBRES;2022;79
+533;Max Paredes;Distrito 10;HOMBRES;2022;13
+534;Periférica;Distrito 11;HOMBRES;2022;73
+535;Periférica;Distrito 12;HOMBRES;2022;55
+536;Periférica;Distrito 13;HOMBRES;2022;166
+537;San Antonio;Distrito 14;HOMBRES;2022;50
+538;San Antonio;Distrito 15;HOMBRES;2022;24
+539;San Antonio;Distrito 16;HOMBRES;2022;28
+540;San Antonio;Distrito 17;HOMBRES;2022;19
+541;Sur;Distrito 18;HOMBRES;2022;31
+542;Sur;Distrito 19;HOMBRES;2022;66
+543;Sur;Distrito 21;HOMBRES;2022;33
+544;Mallasa;Distrito 20;HOMBRES;2022;4
+545;Mallasa;Distrito 1;HOMBRES;2022;1881
+546;Mallasa;Distrito 2;HOMBRES;2022;203
+547;Cotahuma;Distrito 3;MUJERES;2023;282
+548;Cotahuma;Distrito 4;MUJERES;2023;265
+549;Cotahuma;Distrito 5;MUJERES;2023;198
+550;Cotahuma;Distrito 6;MUJERES;2023;2040
+551;Max Paredes;Distrito 7;MUJERES;2023;4598
+552;Max Paredes;Distrito 8;MUJERES;2023;1556
+553;Max Paredes;Distrito 9;MUJERES;2023;313
+554;Max Paredes;Distrito 10;MUJERES;2023;78
+555;Periférica;Distrito 11;MUJERES;2023;382
+556;Periférica;Distrito 12;MUJERES;2023;160
+557;Periférica;Distrito 13;MUJERES;2023;855
+558;San Antonio;Distrito 14;MUJERES;2023;255
+559;San Antonio;Distrito 15;MUJERES;2023;227
+560;San Antonio;Distrito 16;MUJERES;2023;157
+561;San Antonio;Distrito 17;MUJERES;2023;64
+562;Sur;Distrito 18;MUJERES;2023;156
+563;Sur;Distrito 19;MUJERES;2023;311
+564;Sur;Distrito 21;MUJERES;2023;206
+565;Mallasa;Distrito 20;MUJERES;2023;2
+566;Mallasa;Distrito 1;MUJERES;2023;8959
+567;Mallasa;Distrito 2;MUJERES;2023;906
+568;Cotahuma;Distrito 3;HOMBRES;2023;99
+569;Cotahuma;Distrito 4;HOMBRES;2023;40
+570;Cotahuma;Distrito 5;HOMBRES;2023;30
+571;Cotahuma;Distrito 6;HOMBRES;2023;401
+572;Max Paredes;Distrito 7;HOMBRES;2023;933
+573;Max Paredes;Distrito 8;HOMBRES;2023;346
+574;Max Paredes;Distrito 9;HOMBRES;2023;79
+575;Max Paredes;Distrito 10;HOMBRES;2023;13
+576;Periférica;Distrito 11;HOMBRES;2023;73
+577;Periférica;Distrito 12;HOMBRES;2023;55
+578;Periférica;Distrito 13;HOMBRES;2023;165
+579;San Antonio;Distrito 14;HOMBRES;2023;50
+580;San Antonio;Distrito 15;HOMBRES;2023;24
+581;San Antonio;Distrito 16;HOMBRES;2023;28
+582;San Antonio;Distrito 17;HOMBRES;2023;19
+583;Sur;Distrito 18;HOMBRES;2023;31
+584;Sur;Distrito 19;HOMBRES;2023;66
+585;Sur;Distrito 21;HOMBRES;2023;33
+586;Mallasa;Distrito 20;HOMBRES;2023;4
+587;Mallasa;Distrito 1;HOMBRES;2023;1878
+588;Mallasa;Distrito 2;HOMBRES;2023;202
+589;Cotahuma;Distrito 3;MUJERES;2024;282
+590;Cotahuma;Distrito 4;MUJERES;2024;265
+591;Cotahuma;Distrito 5;MUJERES;2024;198
+592;Cotahuma;Distrito 6;MUJERES;2024;2040
+593;Max Paredes;Distrito 7;MUJERES;2024;4598
+594;Max Paredes;Distrito 8;MUJERES;2024;1556
+595;Max Paredes;Distrito 9;MUJERES;2024;313
+596;Max Paredes;Distrito 10;MUJERES;2024;78
+597;Periférica;Distrito 11;MUJERES;2024;382
+598;Periférica;Distrito 12;MUJERES;2024;160
+599;Periférica;Distrito 13;MUJERES;2024;855
+600;San Antonio;Distrito 14;MUJERES;2024;255
+601;San Antonio;Distrito 15;MUJERES;2024;227
+602;San Antonio;Distrito 16;MUJERES;2024;157
+603;San Antonio;Distrito 17;MUJERES;2024;64
+604;Sur;Distrito 18;MUJERES;2024;156
+605;Sur;Distrito 19;MUJERES;2024;311
+606;Sur;Distrito 21;MUJERES;2024;206
+607;Mallasa;Distrito 20;MUJERES;2024;2
+608;Mallasa;Distrito 1;MUJERES;2024;8959
+609;Mallasa;Distrito 2;MUJERES;2024;906
+610;Cotahuma;Distrito 3;HOMBRES;2024;99
+611;Cotahuma;Distrito 4;HOMBRES;2024;35
+612;Cotahuma;Distrito 5;HOMBRES;2024;3
+613;Cotahuma;Distrito 6;HOMBRES;2024;395
+614;Max Paredes;Distrito 7;HOMBRES;2024;926
+615;Max Paredes;Distrito 8;HOMBRES;2024;346
+616;Max Paredes;Distrito 9;HOMBRES;2024;79
+617;Max Paredes;Distrito 10;HOMBRES;2024;13
+618;Periférica;Distrito 11;HOMBRES;2024;73
+619;Periférica;Distrito 12;HOMBRES;2024;55
+620;Periférica;Distrito 13;HOMBRES;2024;162
+621;San Antonio;Distrito 14;HOMBRES;2024;50
+622;San Antonio;Distrito 15;HOMBRES;2024;24
+623;San Antonio;Distrito 16;HOMBRES;2024;25
+624;San Antonio;Distrito 17;HOMBRES;2024;19
+625;Sur;Distrito 18;HOMBRES;2024;31
+626;Sur;Distrito 19;HOMBRES;2024;66
+627;Sur;Distrito 21;HOMBRES;2024;33
+628;Mallasa;Distrito 20;HOMBRES;2024;0
+629;Mallasa;Distrito 1;HOMBRES;2024;1872
+630;Mallasa;Distrito 2;HOMBRES;2024;198

@@ -1,0 +1,15 @@
+# entrega/reglas-calidad.yml — Reglas de calidad deterministas para la entrega del Desafío 1
+recursos:
+  salida/censo_conectividad_lapaz.csv:
+    campos_minimos: [codigo_municipio, municipio, gestion_censo, poblacion_total, total_viviendas, hogares_particulares_ocupados, hogares_con_internet, pct_acceso_internet]
+    clave: [codigo_municipio, gestion_censo]
+    validez:
+      - {columna: codigo_municipio, patron: '^\d{6}$'}
+      - {columna: gestion_censo, tipo: entero, minimo: 2000}
+      - {columna: hogares_con_internet, tipo: entero, minimo: 0}
+      - {columna: hogares_particulares_ocupados, tipo: entero, minimo: 0}
+    consistencia:
+      - {regla: menor_o_igual, a: hogares_con_internet, b: hogares_particulares_ocupados}
+
+vinculos:
+  - {desde: "salida/censo_conectividad_lapaz.csv:codigo_municipio", hacia: "salida/matriz_indicadores_u4ssc_d1.csv:id_indicador"}

@@ -1,0 +1,351 @@
+id;PRODUCTO INTERNO BRUTO (a precios b�sicos);ACTIVIDAD ECON�MICA;DESCRIPCI�N ;A�O;PIB SEG�N ACTIVIDAD ECON�MICA A PRECIOS CONSTANTES (En miles de bolivianos de 1990)
+1;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas no Industriales;2010;355.128
+2;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas Industriales;2010;1.968
+3;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Coca;2010;39.942
+4;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Pecuarios;2010;96.365
+5;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Silvicultura, Caza y Pesca;2010;24.273
+6;PRODUCTO INTERNO BRUTO (a precios b�sicos);002. Extracci�n de Minas y Canteras;Minerales Met�licos y no Met�licos;2010;380.769
+7;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Alimentos;2010;253.812
+8;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Bebidas y Tabaco;2010;367.462
+9;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Textiles, Prendas de Vestir y Productos de Cuero;2010;144.389
+10;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Madera y Productos de Madera;2010;98.831
+11;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Productos de Minerales no Met�licos;2010;162.017
+12;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Otras Industrias Manufactureras;2010;223.734
+13;PRODUCTO INTERNO BRUTO (a precios b�sicos);004. Electricidad, Gas y Agua;Electricidad, Gas y Agua;2010;197.376
+14;PRODUCTO INTERNO BRUTO (a precios b�sicos);005. Construcci�n ;Construcci�n ;2010;222.871
+15;PRODUCTO INTERNO BRUTO (a precios b�sicos);006. Comercio;Comercio;2010;783.078
+16;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Transporte y Almacenamiento;2010;607.023
+17;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Comunicaciones;2010;240.898
+18;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios Financieros;2010;479.053
+19;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios a las Empresas;2010;409.833
+20;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Propiedad de Vivienda;2010;474.743
+21;PRODUCTO INTERNO BRUTO (a precios b�sicos);009. Servicios Comunales, Sociales, Personales y Dom�sticos;Servicios Comunales, Sociales, Personales y Dom�sticos;2010;438.787
+22;PRODUCTO INTERNO BRUTO (a precios b�sicos);010. Restaurantes y Hoteles;Restaurantes y Hoteles;2010;253.313
+23;PRODUCTO INTERNO BRUTO (a precios b�sicos);011. Servicios de la Administraci�n P�blica;Servicios de la Administraci�n P�blica;2010;944.638
+24;PRODUCTO INTERNO BRUTO (a precios b�sicos);Servicios Bancarios Imputados;Servicios Bancarios Imputados;2010;-441.993
+25;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;2010;1.003.707
+26;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas no Industriales;2011;365.854
+27;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas Industriales;2011;2.031
+28;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Coca;2011;41.141
+29;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Pecuarios;2011;100.273
+30;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Silvicultura, Caza y Pesca;2011;24.529
+31;PRODUCTO INTERNO BRUTO (a precios b�sicos);002. Extracci�n de Minas y Canteras;Minerales Met�licos y no Met�licos;2011;397.550
+32;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Alimentos;2011;262.065
+33;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Bebidas y Tabaco;2011;392.221
+34;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Textiles, Prendas de Vestir y Productos de Cuero;2011;149.801
+35;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Madera y Productos de Madera;2011;100.622
+36;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Productos de Minerales no Met�licos;2011;188.182
+37;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Otras Industrias Manufactureras;2011;216.529
+38;PRODUCTO INTERNO BRUTO (a precios b�sicos);004. Electricidad, Gas y Agua;Electricidad, Gas y Agua;2011;213.150
+39;PRODUCTO INTERNO BRUTO (a precios b�sicos);005. Construcci�n ;Construcci�n ;2011;232.534
+40;PRODUCTO INTERNO BRUTO (a precios b�sicos);006. Comercio;Comercio;2011;817.823
+41;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Transporte y Almacenamiento;2011;655.135
+42;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Comunicaciones;2011;247.571
+43;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios Financieros;2011;510.243
+44;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios a las Empresas;2011;423.330
+45;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Propiedad de Vivienda;2011;484.084
+46;PRODUCTO INTERNO BRUTO (a precios b�sicos);009. Servicios Comunales, Sociales, Personales y Dom�sticos;Servicios Comunales, Sociales, Personales y Dom�sticos;2011;454.054
+47;PRODUCTO INTERNO BRUTO (a precios b�sicos);010. Restaurantes y Hoteles;Restaurantes y Hoteles;2011;262.279
+48;PRODUCTO INTERNO BRUTO (a precios b�sicos);011. Servicios de la Administraci�n P�blica;Servicios de la Administraci�n P�blica;2011;998.274
+49;PRODUCTO INTERNO BRUTO (a precios b�sicos);Servicios Bancarios Imputados;Servicios Bancarios Imputados;2011;-475.072
+50;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;2011;1.170.565
+51;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas no Industriales;2012;373.746
+52;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas Industriales;2012;2.213
+53;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Coca;2012;42.300
+54;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Pecuarios;2012;104.689
+55;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Silvicultura, Caza y Pesca;2012;25.364
+56;PRODUCTO INTERNO BRUTO (a precios b�sicos);002. Extracci�n de Minas y Canteras;Minerales Met�licos y no Met�licos;2012;375.659
+57;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Alimentos;2012;272.379
+58;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Bebidas y Tabaco;2012;415.658
+59;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Textiles, Prendas de Vestir y Productos de Cuero;2012;153.234
+60;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Madera y Productos de Madera;2012;102.723
+61;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Productos de Minerales no Met�licos;2012;191.230
+62;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Otras Industrias Manufactureras;2012;228.103
+63;PRODUCTO INTERNO BRUTO (a precios b�sicos);004. Electricidad, Gas y Agua;Electricidad, Gas y Agua;2012;222.245
+64;PRODUCTO INTERNO BRUTO (a precios b�sicos);005. Construcci�n ;Construcci�n ;2012;251.190
+65;PRODUCTO INTERNO BRUTO (a precios b�sicos);006. Comercio;Comercio;2012;845.366
+66;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Transporte y Almacenamiento;2012;685.084
+67;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Comunicaciones;2012;255.618
+68;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios Financieros;2012;644.211
+69;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios a las Empresas;2012;431.478
+70;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Propiedad de Vivienda;2012;498.246
+71;PRODUCTO INTERNO BRUTO (a precios b�sicos);009. Servicios Comunales, Sociales, Personales y Dom�sticos;Servicios Comunales, Sociales, Personales y Dom�sticos;2012;470.360
+72;PRODUCTO INTERNO BRUTO (a precios b�sicos);010. Restaurantes y Hoteles;Restaurantes y Hoteles;2012;271.751
+73;PRODUCTO INTERNO BRUTO (a precios b�sicos);011. Servicios de la Administraci�n P�blica;Servicios de la Administraci�n P�blica;2012;1.081.206
+74;PRODUCTO INTERNO BRUTO (a precios b�sicos);Servicios Bancarios Imputados;Servicios Bancarios Imputados;2012;-604.640
+75;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;2012;1.278.945
+76;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas no Industriales;2013;372.786
+77;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas Industriales;2013;2.241
+78;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Coca;2013;42.416
+79;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Pecuarios;2013;106.186
+80;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Silvicultura, Caza y Pesca;2013;25.574
+81;PRODUCTO INTERNO BRUTO (a precios b�sicos);002. Extracci�n de Minas y Canteras;Minerales Met�licos y no Met�licos;2013;377.374
+82;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Alimentos;2013;282.914
+83;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Bebidas y Tabaco;2013;441.442
+84;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Textiles, Prendas de Vestir y Productos de Cuero;2013;159.265
+85;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Madera y Productos de Madera;2013;106.447
+86;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Productos de Minerales no Met�licos;2013;197.967
+87;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Otras Industrias Manufactureras;2013;250.637
+88;PRODUCTO INTERNO BRUTO (a precios b�sicos);004. Electricidad, Gas y Agua;Electricidad, Gas y Agua;2013;236.130
+89;PRODUCTO INTERNO BRUTO (a precios b�sicos);005. Construcci�n ;Construcci�n ;2013;264.719
+90;PRODUCTO INTERNO BRUTO (a precios b�sicos);006. Comercio;Comercio;2013;883.843
+91;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Transporte y Almacenamiento;2013;746.019
+92;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Comunicaciones;2013;265.450
+93;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios Financieros;2013;730.542
+94;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios a las Empresas;2013;450.651
+95;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Propiedad de Vivienda;2013;514.013
+96;PRODUCTO INTERNO BRUTO (a precios b�sicos);009. Servicios Comunales, Sociales, Personales y Dom�sticos;Servicios Comunales, Sociales, Personales y Dom�sticos;2013;485.383
+97;PRODUCTO INTERNO BRUTO (a precios b�sicos);010. Restaurantes y Hoteles;Restaurantes y Hoteles;2013;282.952
+98;PRODUCTO INTERNO BRUTO (a precios b�sicos);011. Servicios de la Administraci�n P�blica;Servicios de la Administraci�n P�blica;2013;1.180.344
+99;PRODUCTO INTERNO BRUTO (a precios b�sicos);Servicios Bancarios Imputados;Servicios Bancarios Imputados;2013;-681.771
+100;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;2013;1.379.535
+101;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas no Industriales;2014;384.208
+102;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas Industriales;2014;2.724
+103;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Coca;2014;42.450
+104;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Pecuarios;2014;110.860
+105;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Silvicultura, Caza y Pesca;2014;26.373
+106;PRODUCTO INTERNO BRUTO (a precios b�sicos);002. Extracci�n de Minas y Canteras;Minerales Met�licos y no Met�licos;2014;426.967
+107;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Alimentos;2014;297.282
+108;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Bebidas y Tabaco;2014;463.854
+109;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Textiles, Prendas de Vestir y Productos de Cuero;2014;164.639
+110;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Madera y Productos de Madera;2014;108.718
+111;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Productos de Minerales no Met�licos;2014;197.102
+112;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Otras Industrias Manufactureras;2014;261.705
+113;PRODUCTO INTERNO BRUTO (a precios b�sicos);004. Electricidad, Gas y Agua;Electricidad, Gas y Agua;2014;253.294
+114;PRODUCTO INTERNO BRUTO (a precios b�sicos);005. Construcci�n ;Construcci�n ;2014;261.680
+115;PRODUCTO INTERNO BRUTO (a precios b�sicos);006. Comercio;Comercio;2014;923.994
+116;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Transporte y Almacenamiento;2014;787.266
+117;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Comunicaciones;2014;274.376
+118;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios Financieros;2014;758.008
+119;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios a las Empresas;2014;465.558
+120;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Propiedad de Vivienda;2014;533.815
+121;PRODUCTO INTERNO BRUTO (a precios b�sicos);009. Servicios Comunales, Sociales, Personales y Dom�sticos;Servicios Comunales, Sociales, Personales y Dom�sticos;2014;502.053
+122;PRODUCTO INTERNO BRUTO (a precios b�sicos);010. Restaurantes y Hoteles;Restaurantes y Hoteles;2014;292.458
+123;PRODUCTO INTERNO BRUTO (a precios b�sicos);011. Servicios de la Administraci�n P�blica;Servicios de la Administraci�n P�blica;2014;1.253.381
+124;PRODUCTO INTERNO BRUTO (a precios b�sicos);Servicios Bancarios Imputados;Servicios Bancarios Imputados;2014;-693.690
+125;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;2014;1.499.031
+126;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas no Industriales;2015;391.474
+127;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas Industriales;2015;3.128
+128;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Coca;2015;42.921
+129;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Pecuarios;2015;114.916
+130;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Silvicultura, Caza y Pesca;2015;27.073
+131;PRODUCTO INTERNO BRUTO (a precios b�sicos);002. Extracci�n de Minas y Canteras;Minerales Met�licos y no Met�licos;2015;471.048
+132;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Alimentos;2015;307.095
+133;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Bebidas y Tabaco;2015;486.627
+134;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Textiles, Prendas de Vestir y Productos de Cuero;2015;166.939
+135;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Madera y Productos de Madera;2015;113.805
+136;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Productos de Minerales no Met�licos;2015;203.532
+137;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Otras Industrias Manufactureras;2015;282.408
+138;PRODUCTO INTERNO BRUTO (a precios b�sicos);004. Electricidad, Gas y Agua;Electricidad, Gas y Agua;2015;267.673
+139;PRODUCTO INTERNO BRUTO (a precios b�sicos);005. Construcci�n ;Construcci�n ;2015;279.931
+140;PRODUCTO INTERNO BRUTO (a precios b�sicos);006. Comercio;Comercio;2015;965.337
+141;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Transporte y Almacenamiento;2015;852.172
+142;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Comunicaciones;2015;287.779
+143;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios Financieros;2015;860.704
+144;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios a las Empresas;2015;486.975
+145;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Propiedad de Vivienda;2015;553.993
+146;PRODUCTO INTERNO BRUTO (a precios b�sicos);009. Servicios Comunales, Sociales, Personales y Dom�sticos;Servicios Comunales, Sociales, Personales y Dom�sticos;2015;521.784
+147;PRODUCTO INTERNO BRUTO (a precios b�sicos);010. Restaurantes y Hoteles;Restaurantes y Hoteles;2015;304.556
+148;PRODUCTO INTERNO BRUTO (a precios b�sicos);011. Servicios de la Administraci�n P�blica;Servicios de la Administraci�n P�blica;2015;1.372.980
+149;PRODUCTO INTERNO BRUTO (a precios b�sicos);Servicios Bancarios Imputados;Servicios Bancarios Imputados;2015;-778.123
+150;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;2015;1.763.267
+151;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas no Industriales;2016;400.662
+152;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas Industriales;2016;3.221
+153;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Coca;2016;43.335
+154;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Pecuarios;2016;118.209
+155;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Silvicultura, Caza y Pesca;2016;27.943
+156;PRODUCTO INTERNO BRUTO (a precios b�sicos);002. Extracci�n de Minas y Canteras;Minerales Met�licos y no Met�licos;2016;468.728
+157;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Alimentos;2016;330.703
+158;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Bebidas y Tabaco;2016;517.585
+159;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Textiles, Prendas de Vestir y Productos de Cuero;2016;171.270
+160;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Madera y Productos de Madera;2016;117.641
+161;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Productos de Minerales no Met�licos;2016;227.722
+162;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Otras Industrias Manufactureras;2016;297.737
+163;PRODUCTO INTERNO BRUTO (a precios b�sicos);004. Electricidad, Gas y Agua;Electricidad, Gas y Agua;2016;280.642
+164;PRODUCTO INTERNO BRUTO (a precios b�sicos);005. Construcci�n ;Construcci�n ;2016;298.992
+165;PRODUCTO INTERNO BRUTO (a precios b�sicos);006. Comercio;Comercio;2016;1.011.824
+166;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Transporte y Almacenamiento;2016;908.502
+167;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Comunicaciones;2016;300.569
+168;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios Financieros;2016;964.976
+169;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios a las Empresas;2016;511.653
+170;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Propiedad de Vivienda;2016;587.070
+171;PRODUCTO INTERNO BRUTO (a precios b�sicos);009. Servicios Comunales, Sociales, Personales y Dom�sticos;Servicios Comunales, Sociales, Personales y Dom�sticos;2016;546.771
+172;PRODUCTO INTERNO BRUTO (a precios b�sicos);010. Restaurantes y Hoteles;Restaurantes y Hoteles;2016;320.113
+173;PRODUCTO INTERNO BRUTO (a precios b�sicos);011. Servicios de la Administraci�n P�blica;Servicios de la Administraci�n P�blica;2016;1.441.910
+174;PRODUCTO INTERNO BRUTO (a precios b�sicos);Servicios Bancarios Imputados;Servicios Bancarios Imputados;2016;-872.905
+175;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;2016;1.895.713
+176;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas no Industriales;2017;417.621
+177;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas Industriales;2017;3.399
+178;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Coca;2017;43.479
+179;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Pecuarios;2017;122.561
+180;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Silvicultura, Caza y Pesca;2017;28.634
+181;PRODUCTO INTERNO BRUTO (a precios b�sicos);002. Extracci�n de Minas y Canteras;Minerales Met�licos y no Met�licos;2017;606.860
+182;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Alimentos;2017;348.417
+183;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Bebidas y Tabaco;2017;545.980
+184;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Textiles, Prendas de Vestir y Productos de Cuero;2017;176.749
+185;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Madera y Productos de Madera;2017;121.806
+186;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Productos de Minerales no Met�licos;2017;209.437
+187;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Otras Industrias Manufactureras;2017;298.866
+188;PRODUCTO INTERNO BRUTO (a precios b�sicos);004. Electricidad, Gas y Agua;Electricidad, Gas y Agua;2017;291.174
+189;PRODUCTO INTERNO BRUTO (a precios b�sicos);005. Construcci�n ;Construcci�n ;2017;323.378
+190;PRODUCTO INTERNO BRUTO (a precios b�sicos);006. Comercio;Comercio;2017;1.085.261
+191;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Transporte y Almacenamiento;2017;973.135
+192;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Comunicaciones;2017;314.438
+193;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios Financieros;2017;1.012.687
+194;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios a las Empresas;2017;528.866
+195;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Propiedad de Vivienda;2017;614.693
+196;PRODUCTO INTERNO BRUTO (a precios b�sicos);009. Servicios Comunales, Sociales, Personales y Dom�sticos;Servicios Comunales, Sociales, Personales y Dom�sticos;2017;573.573
+197;PRODUCTO INTERNO BRUTO (a precios b�sicos);010. Restaurantes y Hoteles;Restaurantes y Hoteles;2017;337.010
+198;PRODUCTO INTERNO BRUTO (a precios b�sicos);011. Servicios de la Administraci�n P�blica;Servicios de la Administraci�n P�blica;2017;1.518.501
+199;PRODUCTO INTERNO BRUTO (a precios b�sicos);Servicios Bancarios Imputados;Servicios Bancarios Imputados;2017;-920.126
+200;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;2017;2.009.855
+201;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas no Industriales;2018;435.262
+202;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas Industriales;2018;3.539
+203;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Coca;2018;43.847
+204;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Pecuarios;2018;127.680
+205;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Silvicultura, Caza y Pesca;2018;28.391
+206;PRODUCTO INTERNO BRUTO (a precios b�sicos);002. Extracci�n de Minas y Canteras;Minerales Met�licos y no Met�licos;2018;604.922
+207;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Alimentos;2018;364.354
+208;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Bebidas y Tabaco;2018;570.842
+209;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Textiles, Prendas de Vestir y Productos de Cuero;2018;180.334
+210;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Madera y Productos de Madera;2018;123.983
+211;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Productos de Minerales no Met�licos;2018;236.478
+212;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Otras Industrias Manufactureras;2018;322.027
+213;PRODUCTO INTERNO BRUTO (a precios b�sicos);004. Electricidad, Gas y Agua;Electricidad, Gas y Agua;2018;300.238
+214;PRODUCTO INTERNO BRUTO (a precios b�sicos);005. Construcci�n ;Construcci�n ;2018;333.956
+215;PRODUCTO INTERNO BRUTO (a precios b�sicos);006. Comercio;Comercio;2018;1.129.562
+216;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Transporte y Almacenamiento;2018;1.009.445
+217;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Comunicaciones;2018;329.991
+218;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios Financieros;2018;1.059.258
+219;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios a las Empresas;2018;551.927
+220;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Propiedad de Vivienda;2018;644.704
+221;PRODUCTO INTERNO BRUTO (a precios b�sicos);009. Servicios Comunales, Sociales, Personales y Dom�sticos;Servicios Comunales, Sociales, Personales y Dom�sticos;2018;600.680
+222;PRODUCTO INTERNO BRUTO (a precios b�sicos);010. Restaurantes y Hoteles;Restaurantes y Hoteles;2018;353.206
+223;PRODUCTO INTERNO BRUTO (a precios b�sicos);011. Servicios de la Administraci�n P�blica;Servicios de la Administraci�n P�blica;2018;1.623.377
+224;PRODUCTO INTERNO BRUTO (a precios b�sicos);Servicios Bancarios Imputados;Servicios Bancarios Imputados;2018;-962.272
+225;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;2018;2.094.737
+226;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas no Industriales;2019;455.260
+227;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas Industriales;2019;3.661
+228;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Coca;2019;42.690
+229;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Pecuarios;2019;134.098
+230;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Silvicultura, Caza y Pesca;2019;29.140
+231;PRODUCTO INTERNO BRUTO (a precios b�sicos);002. Extracci�n de Minas y Canteras;Minerales Met�licos y no Met�licos;2019;637.325
+232;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Alimentos;2019;382.432
+233;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Bebidas y Tabaco;2019;587.553
+234;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Textiles, Prendas de Vestir y Productos de Cuero;2019;183.119
+235;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Madera y Productos de Madera;2019;126.168
+236;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Productos de Minerales no Met�licos;2019;248.862
+237;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Otras Industrias Manufactureras;2019;339.393
+238;PRODUCTO INTERNO BRUTO (a precios b�sicos);004. Electricidad, Gas y Agua;Electricidad, Gas y Agua;2019;310.759
+239;PRODUCTO INTERNO BRUTO (a precios b�sicos);005. Construcci�n ;Construcci�n ;2019;324.742
+240;PRODUCTO INTERNO BRUTO (a precios b�sicos);006. Comercio;Comercio;2019;1.165.804
+241;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Transporte y Almacenamiento;2019;1.017.337
+242;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Comunicaciones;2019;344.483
+243;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios Financieros;2019;1.108.437
+244;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios a las Empresas;2019;575.023
+245;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Propiedad de Vivienda;2019;671.237
+246;PRODUCTO INTERNO BRUTO (a precios b�sicos);009. Servicios Comunales, Sociales, Personales y Dom�sticos;Servicios Comunales, Sociales, Personales y Dom�sticos;2019;624.743
+247;PRODUCTO INTERNO BRUTO (a precios b�sicos);010. Restaurantes y Hoteles;Restaurantes y Hoteles;2019;369.105
+248;PRODUCTO INTERNO BRUTO (a precios b�sicos);011. Servicios de la Administraci�n P�blica;Servicios de la Administraci�n P�blica;2019;1.688.130
+249;PRODUCTO INTERNO BRUTO (a precios b�sicos);Servicios Bancarios Imputados;Servicios Bancarios Imputados;2019;-1.006.696
+250;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;2019;2.135.845
+251;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas no Industriales;2020;469.791
+252;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas Industriales;2020;3.351
+253;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Coca;2020;43.494
+254;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Pecuarios;2020;140.951
+255;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Silvicultura, Caza y Pesca;2020;27.796
+256;PRODUCTO INTERNO BRUTO (a precios b�sicos);002. Extracci�n de Minas y Canteras;Minerales Met�licos y no Met�licos;2020;482.345
+257;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Alimentos;2020;390.855
+258;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Bebidas y Tabaco;2020;414.856
+259;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Textiles, Prendas de Vestir y Productos de Cuero;2020;170.161
+260;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Madera y Productos de Madera;2020;118.244
+261;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Productos de Minerales no Met�licos;2020;203.473
+262;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Otras Industrias Manufactureras;2020;297.674
+263;PRODUCTO INTERNO BRUTO (a precios b�sicos);004. Electricidad, Gas y Agua;Electricidad, Gas y Agua;2020;296.060
+264;PRODUCTO INTERNO BRUTO (a precios b�sicos);005. Construcci�n ;Construcci�n ;2020;302.548
+265;PRODUCTO INTERNO BRUTO (a precios b�sicos);006. Comercio;Comercio;2020;1.060.003
+266;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Transporte y Almacenamiento;2020;702.898
+267;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Comunicaciones;2020;361.705
+268;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios Financieros;2020;1.095.698
+269;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios a las Empresas;2020;511.783
+270;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Propiedad de Vivienda;2020;664.404
+271;PRODUCTO INTERNO BRUTO (a precios b�sicos);009. Servicios Comunales, Sociales, Personales y Dom�sticos;Servicios Comunales, Sociales, Personales y Dom�sticos;2020;505.786
+272;PRODUCTO INTERNO BRUTO (a precios b�sicos);010. Restaurantes y Hoteles;Restaurantes y Hoteles;2020;277.854
+273;PRODUCTO INTERNO BRUTO (a precios b�sicos);011. Servicios de la Administraci�n P�blica;Servicios de la Administraci�n P�blica;2020;1.733.538
+274;PRODUCTO INTERNO BRUTO (a precios b�sicos);Servicios Bancarios Imputados;Servicios Bancarios Imputados;2020;-999.094
+275;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;2020;1.840.296
+276;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas no Industriales;2021;445.828
+277;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas Industriales;2021;3.035
+278;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Coca;2021;43.451
+279;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Pecuarios;2021;142.371
+280;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Silvicultura, Caza y Pesca;2021;27.741
+281;PRODUCTO INTERNO BRUTO (a precios b�sicos);002. Extracci�n de Minas y Canteras;Minerales Met�licos y no Met�licos;2021;670.169
+282;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Alimentos;2021;384.213
+283;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Bebidas y Tabaco;2021;417.959
+284;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Textiles, Prendas de Vestir y Productos de Cuero;2021;168.289
+285;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Madera y Productos de Madera;2021;111.740
+286;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Productos de Minerales no Met�licos;2021;218.969
+287;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Otras Industrias Manufactureras;2021;338.400
+288;PRODUCTO INTERNO BRUTO (a precios b�sicos);004. Electricidad, Gas y Agua;Electricidad, Gas y Agua;2021;320.459
+289;PRODUCTO INTERNO BRUTO (a precios b�sicos);005. Construcci�n ;Construcci�n ;2021;362.605
+290;PRODUCTO INTERNO BRUTO (a precios b�sicos);006. Comercio;Comercio;2021;1.148.246
+291;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Transporte y Almacenamiento;2021;851.256
+292;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Comunicaciones;2021;360.835
+293;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios Financieros;2021;1.037.159
+294;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios a las Empresas;2021;535.479
+295;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Propiedad de Vivienda;2021;670.892
+296;PRODUCTO INTERNO BRUTO (a precios b�sicos);009. Servicios Comunales, Sociales, Personales y Dom�sticos;Servicios Comunales, Sociales, Personales y Dom�sticos;2021;519.385
+297;PRODUCTO INTERNO BRUTO (a precios b�sicos);010. Restaurantes y Hoteles;Restaurantes y Hoteles;2021;273.678
+298;PRODUCTO INTERNO BRUTO (a precios b�sicos);011. Servicios de la Administraci�n P�blica;Servicios de la Administraci�n P�blica;2021;1.698.905
+299;PRODUCTO INTERNO BRUTO (a precios b�sicos);Servicios Bancarios Imputados;Servicios Bancarios Imputados;2021;-947.901
+300;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;2021;1.901.371
+301;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas no Industriales;2022;461.077
+302;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas Industriales;2022;3.805
+303;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Coca;2022;41.975
+304;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Pecuarios;2022;141.639
+305;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Silvicultura, Caza y Pesca;2022;29.449
+306;PRODUCTO INTERNO BRUTO (a precios b�sicos);002. Extracci�n de Minas y Canteras;Minerales Met�licos y no Met�licos;2022;721.901
+307;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Alimentos;2022;395.495
+308;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Bebidas y Tabaco;2022;468.966
+309;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Textiles, Prendas de Vestir y Productos de Cuero;2022;187.360
+310;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Madera y Productos de Madera;2022;114.403
+311;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Productos de Minerales no Met�licos;2022;219.301
+312;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Otras Industrias Manufactureras;2022;290.787
+313;PRODUCTO INTERNO BRUTO (a precios b�sicos);004. Electricidad, Gas y Agua;Electricidad, Gas y Agua;2022;334.319
+314;PRODUCTO INTERNO BRUTO (a precios b�sicos);005. Construcci�n ;Construcci�n ;2022;379.701
+315;PRODUCTO INTERNO BRUTO (a precios b�sicos);006. Comercio;Comercio;2022;1.211.121
+316;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Transporte y Almacenamiento;2022;963.767
+317;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Comunicaciones;2022;368.708
+318;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios Financieros;2022;1.025.823
+319;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios a las Empresas;2022;557.339
+320;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Propiedad de Vivienda;2022;704.566
+321;PRODUCTO INTERNO BRUTO (a precios b�sicos);009. Servicios Comunales, Sociales, Personales y Dom�sticos;Servicios Comunales, Sociales, Personales y Dom�sticos;2022;565.782
+322;PRODUCTO INTERNO BRUTO (a precios b�sicos);010. Restaurantes y Hoteles;Restaurantes y Hoteles;2022;325.904
+323;PRODUCTO INTERNO BRUTO (a precios b�sicos);011. Servicios de la Administraci�n P�blica;Servicios de la Administraci�n P�blica;2022;1.709.490
+324;PRODUCTO INTERNO BRUTO (a precios b�sicos);Servicios Bancarios Imputados;Servicios Bancarios Imputados;2022;-935.923
+325;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;2022;1.979.869
+326;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas no Industriales;2023;430.125
+327;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Agr�colas Industriales;2023;3.241
+328;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Coca;2023;42.802
+329;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Productos Pecuarios;2023;140.438
+330;PRODUCTO INTERNO BRUTO (a precios b�sicos);001. Agricultura, Silvicultura, Caza y Pesca ;Silvicultura, Caza y Pesca;2023;28.509
+331;PRODUCTO INTERNO BRUTO (a precios b�sicos);002. Extracci�n de Minas y Canteras;Minerales Met�licos y no Met�licos;2023;643.815
+332;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Alimentos;2023;398.096
+333;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Bebidas y Tabaco;2023;503.016
+334;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Textiles, Prendas de Vestir y Productos de Cuero;2023;212.980
+335;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Madera y Productos de Madera;2023;117.830
+336;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Productos de Minerales no Met�licos;2023;225.561
+337;PRODUCTO INTERNO BRUTO (a precios b�sicos);003. Industrias Manufactureras;Otras Industrias Manufactureras;2023;263.066
+338;PRODUCTO INTERNO BRUTO (a precios b�sicos);004. Electricidad, Gas y Agua;Electricidad, Gas y Agua;2023;354.951
+339;PRODUCTO INTERNO BRUTO (a precios b�sicos);005. Construcci�n ;Construcci�n ;2023;384.336
+340;PRODUCTO INTERNO BRUTO (a precios b�sicos);006. Comercio;Comercio;2023;1.228.723
+341;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Transporte y Almacenamiento;2023;998.137
+342;PRODUCTO INTERNO BRUTO (a precios b�sicos);007. Transporte, Almacenamiento y Comunicaciones;Comunicaciones;2023;372.255
+343;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios Financieros;2023;1.066.721
+344;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Servicios a las Empresas;2023;574.827
+345;PRODUCTO INTERNO BRUTO (a precios b�sicos);008. Establecimientos Financieros, Seguros, Bienes Inmuebles y Servicios Prestados a las Empresas;Propiedad de Vivienda;2023;726.045
+346;PRODUCTO INTERNO BRUTO (a precios b�sicos);009. Servicios Comunales, Sociales, Personales y Dom�sticos;Servicios Comunales, Sociales, Personales y Dom�sticos;2023;637.525
+347;PRODUCTO INTERNO BRUTO (a precios b�sicos);010. Restaurantes y Hoteles;Restaurantes y Hoteles;2023;347.719
+348;PRODUCTO INTERNO BRUTO (a precios b�sicos);011. Servicios de la Administraci�n P�blica;Servicios de la Administraci�n P�blica;2023;1.768.361
+349;PRODUCTO INTERNO BRUTO (a precios b�sicos);Servicios Bancarios Imputados;Servicios Bancarios Imputados;2023;-960.819
+350;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;Derechos sobre Importaciones, IVA no disponible, IT y otros Impuestos Indirectos;2023;2.032.168
